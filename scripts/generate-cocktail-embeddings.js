@@ -82,7 +82,6 @@ const computeEmbedding = ingredientData => {
     const conversionMultiplier = ozConversionRatios[quantityAmount];
     const scalar = (parseFloat(quantityUnit) * conversionMultiplier) / maximumScalar;
 
-    console.log(ingredientId, quantityAmount, quantityUnit, scalar, maximumScalar);
     return multiplyVectorByScalar(embedding, scalar);
   });
 

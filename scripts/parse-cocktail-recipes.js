@@ -8,6 +8,8 @@ const cocktailRecipeDatasetLines = fs
 const cocktailRecipes = {};
 
 for (let i = 1; i < cocktailRecipeDatasetLines.length; i++) {
+  if (!cocktailRecipeDatasetLines[i]) continue;
+
   const [cocktailId, cocktailName, ingredientId, ingredientName, quantityUnit, quantityAmount, source] =
     cocktailRecipeDatasetLines[i].split('\t');
 

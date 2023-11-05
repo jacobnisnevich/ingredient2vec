@@ -38,6 +38,27 @@ const findMostSimilarCocktail = cocktailId => {
   console.log('\n');
 };
 
+const findLeastSimilarCocktail = cocktailId => {
+  const cocktailIds = Object.keys(cocktailEmbeddings).filter(id => id !== cocktailId);
+
+  const similarities = cocktailIds
+    .map(cocktailIdToCompare => [cocktailIdToCompare, computeSimilarity(cocktailId, cocktailIdToCompare, true)])
+    .sort((a, b) => {
+      return a[1] - b[1];
+    });
+
+  similarities.slice(0, 5).map(([cocktailIdToCompare, similarity], index) => {
+    const cocktailA = cocktailEmbeddings[cocktailId];
+    const cocktailB = cocktailEmbeddings[cocktailIdToCompare];
+
+    console.log(
+      `${index + 1}. Similarity between ${cocktailA.cocktailName} and ${cocktailB.cocktailName}: ${similarity}`
+    );
+  });
+
+  console.log('\n');
+};
+
 // computeSimilarity('2eb700e3-fd1e-45c5-8333-8b6db9748310', '85d80043-365a-4602-8063-9df658f3fbb6');
 // computeSimilarity('792e4ad1-7b07-4f51-b616-86170047a8df', '85d80043-365a-4602-8063-9df658f3fbb6');
 // computeSimilarity('792e4ad1-7b07-4f51-b616-86170047a8df', '5fa9f5c2-766e-46bc-ac16-9e8bae3c4a46');
@@ -56,3 +77,13 @@ findMostSimilarCocktail('1b88e544-801c-4336-a3fa-be3ea289d5a4');
 findMostSimilarCocktail('ef92f54d-ef15-4c40-8b80-937ab88d8e71');
 findMostSimilarCocktail('49f4cdec-4dfe-4c3b-a541-766db090257d');
 findMostSimilarCocktail('bf872315-1893-44c3-997b-dc9383f251cf');
+
+// findLeastSimilarCocktail('2eb700e3-fd1e-45c5-8333-8b6db9748310');
+// findLeastSimilarCocktail('85d80043-365a-4602-8063-9df658f3fbb6');
+// findLeastSimilarCocktail('792e4ad1-7b07-4f51-b616-86170047a8df');
+// findLeastSimilarCocktail('5fa9f5c2-766e-46bc-ac16-9e8bae3c4a46');
+// findLeastSimilarCocktail('875330c1-b2bf-4d8b-b597-b1d4c5ddf037');
+// findLeastSimilarCocktail('1b88e544-801c-4336-a3fa-be3ea289d5a4');
+// findLeastSimilarCocktail('ef92f54d-ef15-4c40-8b80-937ab88d8e71');
+// findLeastSimilarCocktail('49f4cdec-4dfe-4c3b-a541-766db090257d');
+// findLeastSimilarCocktail('bf872315-1893-44c3-997b-dc9383f251cf');

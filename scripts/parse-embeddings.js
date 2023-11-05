@@ -9,13 +9,18 @@ const ingredientEmbeddingsLines = fs.readFileSync(path.resolve(__dirname, '../em
 const ingredients = {};
 
 for (let i = 1; i < ingredientDatasetLines.length; i++) {
+  if (!ingredientDatasetLines[i]) continue;
+
   const [id, parentId, name] = ingredientDatasetLines[i].split('\t');
   ingredients[i] = { id, parentId, name };
 }
 
 for (let i = 1; i < ingredientEmbeddingsLines.length; i++) {
-  const [id, ...embedding] = ingredientEmbeddingsLines[i].split(' ');
-  ingredients[id] = { ...ingredients[id], embedding };
+  if (!ingredientDatasetLines[i]) continue;
+
+  const [index, ...embedding] = ingredientEmbeddingsLines[i].split(' ');
+
+  ingredients[index] = { ...ingredients[index], embedding };
 }
 
 const ingredientsById = Object.fromEntries(
