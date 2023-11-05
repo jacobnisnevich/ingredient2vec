@@ -28,6 +28,7 @@ const ozConversionRatios = {
   'medium pieces': 0.1,
   mg: 0.1,
   ml: 0.033814,
+  mL: 0.033814,
   oz: 1,
   'oz (scant)': 1,
   piece: 0.1,
@@ -69,8 +70,8 @@ const computeEmbedding = ingredientData => {
   const maximumScalar = ingredientData.reduce((maximumSoFar, ingredient) => {
     const { quantityAmount, quantityUnit } = ingredient;
 
-    const conversionMultiplier = ozConversionRatios[quantityAmount];
-    const scalar = parseFloat(quantityUnit) * conversionMultiplier;
+    const conversionMultiplier = ozConversionRatios[quantityUnit];
+    const scalar = parseFloat(quantityAmount) * conversionMultiplier;
 
     return Math.max(maximumSoFar, scalar);
   }, 0);
@@ -79,8 +80,8 @@ const computeEmbedding = ingredientData => {
     const { ingredientId, quantityAmount, quantityUnit } = ingredient;
     const { embedding } = ingredientEmbeddings[ingredientId];
 
-    const conversionMultiplier = ozConversionRatios[quantityAmount];
-    const scalar = (parseFloat(quantityUnit) * conversionMultiplier) / maximumScalar;
+    const conversionMultiplier = ozConversionRatios[quantityUnit];
+    const scalar = (parseFloat(quantityAmount) * conversionMultiplier) / maximumScalar;
 
     return multiplyVectorByScalar(embedding, scalar);
   });

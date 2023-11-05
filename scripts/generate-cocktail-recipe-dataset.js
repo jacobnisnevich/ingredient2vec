@@ -11,9 +11,8 @@ const connection = mysql.createConnection({
 });
 
 connection.query(
-  `SELECT c.id as cocktailId, c.name as cocktail, i.id as ingredientId, i.name as ingredient, ii.quantityAmount, ii.quantityUnit, COALESCE(NULLIF(rs.book, ''), NULLIF(rs.organization, '')) as source from cocktail c
+  `SELECT c.id as cocktailId, c.name as cocktail, i.id as ingredientId, i.name as ingredient, ii.quantityAmount, ii.quantityUnit, cr.id as cocktailRecipeId from cocktail c
 left join cocktail_recipe cr on cr.cocktailId = c.id
-LEFT JOIN recipe_source rs on rs.id = cr.recipeSourceId
 LEFT join ingredient_info ii on ii.cocktailRecipeId = cr.id
 LEFT join ingredient i on i.id = ii.ingredientId`,
   (error, rows) => {
@@ -24,11 +23,11 @@ LEFT join ingredient i on i.id = ii.ingredientId`,
 
     const tsvFile = fs.createWriteStream(path.resolve(__dirname, '../data/cocktail-recipe-dataset.tsv'));
 
-    tsvFile.write('cocktailId\tcocktail\tingredientId\tingredient\tquantityAmount\tquantityUnit\tsource\n');
+    tsvFile.write('cocktailId\tcocktail\tingredientId\tingredient\tquantityAmount\tquantityUnit\tcocktailRecipeId\n');
 
     rows.forEach(row => {
       tsvFile.write(
-        `${row.cocktailId}\t${row.cocktail}\t${row.ingredientId}\t${row.ingredient}\t${row.quantityAmount}\t${row.quantityUnit}\t${row.source}\n`
+        `${row.cocktailId}\t${row.cocktail}\t${row.ingredientId}\t${row.ingredient}\t${row.quantityAmount}\t${row.quantityUnit}\t${row.cocktailRecipeId}\n`
       );
     });
 

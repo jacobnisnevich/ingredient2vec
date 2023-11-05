@@ -10,7 +10,7 @@ const cocktailRecipes = {};
 for (let i = 1; i < cocktailRecipeDatasetLines.length; i++) {
   if (!cocktailRecipeDatasetLines[i]) continue;
 
-  const [cocktailId, cocktailName, ingredientId, ingredientName, quantityUnit, quantityAmount, source] =
+  const [cocktailId, cocktailName, ingredientId, ingredientName, quantityAmount, quantityUnit, source] =
     cocktailRecipeDatasetLines[i].split('\t');
 
   if (cocktailRecipes[cocktailId]) {
@@ -20,8 +20,8 @@ for (let i = 1; i < cocktailRecipeDatasetLines.length; i++) {
         {
           ingredientId,
           ingredientName,
-          quantityUnit,
-          quantityAmount
+          quantityAmount,
+          quantityUnit
         }
       ];
     } else {
@@ -33,8 +33,8 @@ for (let i = 1; i < cocktailRecipeDatasetLines.length; i++) {
             {
               ingredientId,
               ingredientName,
-              quantityUnit,
-              quantityAmount
+              quantityAmount,
+              quantityUnit
             }
           ]
         }
@@ -48,8 +48,8 @@ for (let i = 1; i < cocktailRecipeDatasetLines.length; i++) {
           {
             ingredientId,
             ingredientName,
-            quantityUnit,
-            quantityAmount
+            quantityAmount,
+            quantityUnit
           }
         ]
       }
