@@ -234,7 +234,7 @@
       "533e0e6f-27e3-4d86-a567-d4a84c6e549b": [
         {
           "ingredientId": "1dfa6297-8c80-459b-9845-d2c3ed135de1",
-          "ingredientName": "thyme-Picpoul syrup (has recipe)",
+          "ingredientName": "thyme-Picpoul syrup",
           "quantityAmount": "0.5",
           "quantityUnit": "oz"
         },
@@ -515,37 +515,6 @@
   "f288d4df-0141-4abc-b5e3-ad369fb50de4": {
     "cocktailName": "Air Mail",
     "recipes": {
-      "8bcd80c1-3e71-48e5-9853-595d45058e6f": [
-        {
-          "ingredientId": "0831ab65-a3ce-4e04-a572-ef84e1ac6499",
-          "ingredientName": "dry sparkling wine",
-          "quantityAmount": "2",
-          "quantityUnit": "oz"
-        },
-        {
-          "ingredientId": "55ca3629-1c79-4f6d-9a27-bd34d0201447",
-          "ingredientName": "honey syrup",
-          "quantityAmount": "0.5",
-          "quantityUnit": "oz"
-        },
-        {
-          "ingredientId": "7c6053c4-0156-48c3-9790-81c44e0123ab",
-          "ingredientName": "lemon juice",
-          "quantityAmount": "0.5",
-          "quantityUnit": "oz"
-        },
-        {
-          "ingredientId": "41bd7003-8129-43c5-a5f7-593904899737",
-          "ingredientName": "aged Venezuela rum",
-          "quantityAmount": "2",
-          "quantityUnit": "oz"
-        }
-      ]
-    }
-  },
-  "bb5ba700-975e-4f2f-94e1-b1810e25bec7": {
-    "cocktailName": "Airmail",
-    "recipes": {
       "b0566f18-19f1-4c3e-b384-4575210db57a": [
         {
           "ingredientId": "0ba2af59-028e-443e-87fe-4cfc60e30d04",
@@ -569,6 +538,32 @@
           "ingredientId": "ec478592-fc11-4311-8b83-44b7bb78d9b4",
           "ingredientName": "lime juice",
           "quantityAmount": "0.5",
+          "quantityUnit": "oz"
+        }
+      ],
+      "8bcd80c1-3e71-48e5-9853-595d45058e6f": [
+        {
+          "ingredientId": "0831ab65-a3ce-4e04-a572-ef84e1ac6499",
+          "ingredientName": "dry sparkling wine",
+          "quantityAmount": "2",
+          "quantityUnit": "oz"
+        },
+        {
+          "ingredientId": "55ca3629-1c79-4f6d-9a27-bd34d0201447",
+          "ingredientName": "honey syrup",
+          "quantityAmount": "0.5",
+          "quantityUnit": "oz"
+        },
+        {
+          "ingredientId": "7c6053c4-0156-48c3-9790-81c44e0123ab",
+          "ingredientName": "lemon juice",
+          "quantityAmount": "0.5",
+          "quantityUnit": "oz"
+        },
+        {
+          "ingredientId": "41bd7003-8129-43c5-a5f7-593904899737",
+          "ingredientName": "aged Venezuela rum",
+          "quantityAmount": "2",
           "quantityUnit": "oz"
         }
       ]
@@ -1435,13 +1430,13 @@
         },
         {
           "ingredientId": "22a2aef7-df49-43c0-aad3-037957794850",
-          "ingredientName": "Amer Boudreau (has recipe)",
+          "ingredientName": "Amer Boudreau",
           "quantityAmount": "3",
           "quantityUnit": "oz"
         },
         {
           "ingredientId": "7eb4c5c5-8cf6-45fc-a9d7-4170343fee9a",
-          "ingredientName": "clarified lemon juice (has recipe)",
+          "ingredientName": "clarified lemon juice",
           "quantityAmount": "1",
           "quantityUnit": "oz"
         },
@@ -2172,7 +2167,7 @@
         },
         {
           "ingredientId": "7f3cafc9-4c60-42c1-95be-2ed783697ff0",
-          "ingredientName": "Banksy Scotch Mix (has recipe)",
+          "ingredientName": "Banksy Scotch Mix",
           "quantityAmount": "2",
           "quantityUnit": "oz"
         },
@@ -2271,7 +2266,7 @@
       "037c224b-6d80-4468-a3b9-8428a1f9969a": [
         {
           "ingredientId": "a33c1ee9-d3eb-49f8-9b12-21e1017e94ae",
-          "ingredientName": "anise-flavored liqueur",
+          "ingredientName": "anise- and vanilla-flavored liqueur",
           "quantityAmount": "15",
           "quantityUnit": "ml"
         },
@@ -2892,7 +2887,7 @@
         },
         {
           "ingredientId": "d68e60c4-cf25-44bb-976c-eeb9292530cd",
-          "ingredientName": "boysenberry purée (has recipe)",
+          "ingredientName": "boysenberry purée",
           "quantityAmount": "0.25",
           "quantityUnit": "oz"
         }
@@ -4687,7 +4682,7 @@
       "5a531b4e-7d23-4f6d-b25f-4e031fe512b0": [
         {
           "ingredientId": "7685957c-073f-4f8b-bc57-2735883856de",
-          "ingredientName": "Clamato Mix (has recipe)",
+          "ingredientName": "Clamato Mix",
           "quantityAmount": "4",
           "quantityUnit": "oz"
         },
@@ -4827,7 +4822,7 @@
           "ingredientId": "61afda33-e664-410e-952c-2dcec9462d75",
           "ingredientName": "white sugar",
           "quantityAmount": "1",
-          "quantityUnit": "Tbsp"
+          "quantityUnit": "tbsp"
         },
         {
           "ingredientId": "fd5fa761-f23e-4bb2-b91c-279a20c8932e",
@@ -5098,13 +5093,13 @@
         },
         {
           "ingredientId": "d63448ae-7821-4afc-9c67-bf5acdd2619b",
-          "ingredientName": "Campfire Shrub (has recipe)",
+          "ingredientName": "Campfire Shrub",
           "quantityAmount": "0.5",
           "quantityUnit": "oz"
         },
         {
           "ingredientId": "1b0a165e-0b09-426e-ba7c-57e09ec81e5a",
-          "ingredientName": "Cinnamon French Oak (has recipe)",
+          "ingredientName": "Cinnamon French Oak",
           "quantityAmount": "3",
           "quantityUnit": "oz"
         },
@@ -5616,7 +5611,7 @@
         },
         {
           "ingredientId": "0a782043-d67a-44a5-aadd-03c95931cbd5",
-          "ingredientName": "chamomile Scotch (has recipe)",
+          "ingredientName": "chamomile Scotch",
           "quantityAmount": "2",
           "quantityUnit": "oz"
         }
@@ -5751,6 +5746,32 @@
           "ingredientName": "Angostura bitters",
           "quantityAmount": "1",
           "quantityUnit": "dash"
+        }
+      ],
+      "45e8884c-9692-45d7-b6bd-16ee76716306": [
+        {
+          "ingredientId": "b4a2d3a3-b0b3-44fc-b260-a0cda70f6aa8",
+          "ingredientName": "Yellow Chartreuse",
+          "quantityAmount": "0.5",
+          "quantityUnit": "oz"
+        },
+        {
+          "ingredientId": "257d5b41-c3dc-4178-821d-5196a80f0dfb",
+          "ingredientName": "cognac",
+          "quantityAmount": "1.5",
+          "quantityUnit": "oz"
+        },
+        {
+          "ingredientId": "3cffb550-7089-4cf5-95f4-6805ec737f2b",
+          "ingredientName": "Angostura bitters",
+          "quantityAmount": "1",
+          "quantityUnit": "dash"
+        },
+        {
+          "ingredientId": "7c6053c4-0156-48c3-9790-81c44e0123ab",
+          "ingredientName": "lemon juice",
+          "quantityAmount": "0.5",
+          "quantityUnit": "oz"
         }
       ]
     }
@@ -7227,12 +7248,7 @@
           "quantityAmount": "1.5",
           "quantityUnit": "oz"
         }
-      ]
-    }
-  },
-  "031ab492-7d96-45ca-8de7-0389d7b3279a": {
-    "cocktailName": "Corn And Oil",
-    "recipes": {
+      ],
       "6da3dce4-7f70-49ab-88d0-f26f4c03b962": [
         {
           "ingredientId": "d750e792-cc96-4d20-b6be-8f0ae9bacc73",
@@ -7297,7 +7313,7 @@
         },
         {
           "ingredientId": "7eb4c5c5-8cf6-45fc-a9d7-4170343fee9a",
-          "ingredientName": "clarified lemon juice (has recipe)",
+          "ingredientName": "clarified lemon juice",
           "quantityAmount": "0.75",
           "quantityUnit": "oz"
         }
@@ -7748,7 +7764,7 @@
           "ingredientId": "9ac04a36-da65-4d90-9b18-f5fec4e8fce2",
           "ingredientName": "coke",
           "quantityAmount": "4",
-          "quantityUnit": "oz "
+          "quantityUnit": "oz"
         },
         {
           "ingredientId": "ec478592-fc11-4311-8b83-44b7bb78d9b4",
@@ -7834,7 +7850,7 @@
         },
         {
           "ingredientId": "867323cf-9fb5-416b-aa3c-1bab54b0da74",
-          "ingredientName": "old fashioned syrup (has recipe)",
+          "ingredientName": "old fashioned syrup",
           "quantityAmount": "0.25",
           "quantityUnit": "oz"
         },
@@ -8050,7 +8066,7 @@
         },
         {
           "ingredientId": "efaf380f-16b8-4dc8-8eed-c5cb7f805f95",
-          "ingredientName": "Plum-Marionberry Shrub Mix (has recipe)",
+          "ingredientName": "Plum-Marionberry Shrub Mix",
           "quantityAmount": "1",
           "quantityUnit": "oz"
         },
@@ -8204,6 +8220,26 @@
           "quantityUnit": "oz"
         }
       ],
+      "eb44f3e2-9570-4704-8c98-6cc8b3a1b995": [
+        {
+          "ingredientId": "ec478592-fc11-4311-8b83-44b7bb78d9b4",
+          "ingredientName": "lime juice",
+          "quantityAmount": "0.75",
+          "quantityUnit": "oz"
+        },
+        {
+          "ingredientId": "b1d50bac-d25d-4dc5-824e-cbc97cca2d66",
+          "ingredientName": "demerara syrup",
+          "quantityAmount": "0.5",
+          "quantityUnit": "oz"
+        },
+        {
+          "ingredientId": "e41d9909-7ea1-4af3-a9c3-c6b415e47fd7",
+          "ingredientName": "blended lightly aged rum",
+          "quantityAmount": "2",
+          "quantityUnit": "oz"
+        }
+      ],
       "874d7ad0-cc0c-4902-8162-6fa9fbbf26c7": [
         {
           "ingredientId": "805371f1-a361-4fb2-8d9d-b5422deda60b",
@@ -8260,7 +8296,7 @@
           "ingredientId": "5db82b15-94e8-4b37-93ac-0d827532fcd0",
           "ingredientName": "cane sugar",
           "quantityAmount": "1.5",
-          "quantityUnit": "Tbsp"
+          "quantityUnit": "tbsp"
         },
         {
           "ingredientId": "3e3bd2c1-3554-4419-a66a-fcef059af75a",
@@ -8271,31 +8307,6 @@
         {
           "ingredientId": "bbe9c97a-e417-4922-80d8-ed0e757a5ca3",
           "ingredientName": "light Cuban-style rum",
-          "quantityAmount": "2",
-          "quantityUnit": "oz"
-        }
-      ]
-    }
-  },
-  "a5120001-3cfa-44d2-b553-4785f0403fdb": {
-    "cocktailName": "Daiquiri No. 1",
-    "recipes": {
-      "eb44f3e2-9570-4704-8c98-6cc8b3a1b995": [
-        {
-          "ingredientId": "ec478592-fc11-4311-8b83-44b7bb78d9b4",
-          "ingredientName": "lime juice",
-          "quantityAmount": "0.75",
-          "quantityUnit": "oz"
-        },
-        {
-          "ingredientId": "b1d50bac-d25d-4dc5-824e-cbc97cca2d66",
-          "ingredientName": "demerara syrup",
-          "quantityAmount": "0.5",
-          "quantityUnit": "oz"
-        },
-        {
-          "ingredientId": "e41d9909-7ea1-4af3-a9c3-c6b415e47fd7",
-          "ingredientName": "blended lightly aged rum",
           "quantityAmount": "2",
           "quantityUnit": "oz"
         }
@@ -9248,55 +9259,6 @@
       ]
     }
   },
-  "89624498-630f-49cb-b046-5b17788d0dfe": {
-    "cocktailName": "Doctor Funk",
-    "recipes": {
-      "a35ac0c1-7625-41bb-9afd-143b766c0fd5": [
-        {
-          "ingredientId": "197b6130-1914-435b-98ed-be9e060c0054",
-          "ingredientName": "grenadine",
-          "quantityAmount": "0.25",
-          "quantityUnit": "oz"
-        },
-        {
-          "ingredientId": "8ba9b82e-a072-4497-9bbb-4dc71c137ca2",
-          "ingredientName": "Herbsaint",
-          "quantityAmount": "0.25",
-          "quantityUnit": "oz"
-        },
-        {
-          "ingredientId": "ec478592-fc11-4311-8b83-44b7bb78d9b4",
-          "ingredientName": "lime juice",
-          "quantityAmount": "0.5",
-          "quantityUnit": "oz"
-        },
-        {
-          "ingredientId": "fd688725-de8f-448c-837f-5e58cfedc19c",
-          "ingredientName": "Black Pot Still Unaged Rum",
-          "quantityAmount": "2.25",
-          "quantityUnit": "oz"
-        },
-        {
-          "ingredientId": "bde3cfbf-dd01-4aec-b37a-3bc4cca5df6a",
-          "ingredientName": "soda water",
-          "quantityAmount": "1",
-          "quantityUnit": "oz"
-        },
-        {
-          "ingredientId": "7c6053c4-0156-48c3-9790-81c44e0123ab",
-          "ingredientName": "lemon juice",
-          "quantityAmount": "0.5",
-          "quantityUnit": "oz"
-        },
-        {
-          "ingredientId": "b1d50bac-d25d-4dc5-824e-cbc97cca2d66",
-          "ingredientName": "demerara syrup",
-          "quantityAmount": "0.5",
-          "quantityUnit": "oz"
-        }
-      ]
-    }
-  },
   "43ab4534-2a5d-4539-8f4a-e9e24dd5a26c": {
     "cocktailName": "Dolemite",
     "recipes": {
@@ -9778,6 +9740,50 @@
           "ingredientId": "bbe9c97a-e417-4922-80d8-ed0e757a5ca3",
           "ingredientName": "light Cuban-style rum",
           "quantityAmount": "1.5",
+          "quantityUnit": "oz"
+        }
+      ],
+      "a35ac0c1-7625-41bb-9afd-143b766c0fd5": [
+        {
+          "ingredientId": "197b6130-1914-435b-98ed-be9e060c0054",
+          "ingredientName": "grenadine",
+          "quantityAmount": "0.25",
+          "quantityUnit": "oz"
+        },
+        {
+          "ingredientId": "8ba9b82e-a072-4497-9bbb-4dc71c137ca2",
+          "ingredientName": "Herbsaint",
+          "quantityAmount": "0.25",
+          "quantityUnit": "oz"
+        },
+        {
+          "ingredientId": "ec478592-fc11-4311-8b83-44b7bb78d9b4",
+          "ingredientName": "lime juice",
+          "quantityAmount": "0.5",
+          "quantityUnit": "oz"
+        },
+        {
+          "ingredientId": "fd688725-de8f-448c-837f-5e58cfedc19c",
+          "ingredientName": "Black Pot Still Unaged Rum",
+          "quantityAmount": "2.25",
+          "quantityUnit": "oz"
+        },
+        {
+          "ingredientId": "bde3cfbf-dd01-4aec-b37a-3bc4cca5df6a",
+          "ingredientName": "soda water",
+          "quantityAmount": "1",
+          "quantityUnit": "oz"
+        },
+        {
+          "ingredientId": "7c6053c4-0156-48c3-9790-81c44e0123ab",
+          "ingredientName": "lemon juice",
+          "quantityAmount": "0.5",
+          "quantityUnit": "oz"
+        },
+        {
+          "ingredientId": "b1d50bac-d25d-4dc5-824e-cbc97cca2d66",
+          "ingredientName": "demerara syrup",
+          "quantityAmount": "0.5",
           "quantityUnit": "oz"
         }
       ]
@@ -11375,7 +11381,7 @@
         },
         {
           "ingredientId": "efecff2d-78ae-4c44-96a5-dfa5a7a05e09",
-          "ingredientName": "fig bourbon (has recipe)",
+          "ingredientName": "fig bourbon",
           "quantityAmount": "1",
           "quantityUnit": "oz"
         },
@@ -12581,7 +12587,7 @@
         },
         {
           "ingredientId": "7eb4c5c5-8cf6-45fc-a9d7-4170343fee9a",
-          "ingredientName": "clarified lemon juice (has recipe)",
+          "ingredientName": "clarified lemon juice",
           "quantityAmount": "0.5",
           "quantityUnit": "oz"
         },
@@ -12655,7 +12661,7 @@
         },
         {
           "ingredientId": "a33c1ee9-d3eb-49f8-9b12-21e1017e94ae",
-          "ingredientName": "anise-flavored liqueur",
+          "ingredientName": "anise- and vanilla-flavored liqueur",
           "quantityAmount": "0.25",
           "quantityUnit": "oz"
         },
@@ -12688,7 +12694,7 @@
           "ingredientId": "fd9dc360-8d0f-4387-8bfd-7f4c61535c2e",
           "ingredientName": "rich demerara syrup",
           "quantityAmount": "0.5",
-          "quantityUnit": "oz "
+          "quantityUnit": "oz"
         },
         {
           "ingredientId": "66948f17-58aa-4180-bf1b-d462478837f1",
@@ -13181,8 +13187,8 @@
         {
           "ingredientId": "8fee9fd9-e49f-46f0-a832-54fbaa232584",
           "ingredientName": "passion fruit syrup",
-          "quantityAmount": "0.2",
-          "quantityUnit": "5oz"
+          "quantityAmount": "0.25",
+          "quantityUnit": "oz"
         },
         {
           "ingredientId": "bde3cfbf-dd01-4aec-b37a-3bc4cca5df6a",
@@ -13211,7 +13217,7 @@
       "32ff9b55-1452-4161-8d8a-bd0c48ae3f4d": [
         {
           "ingredientId": "a33c1ee9-d3eb-49f8-9b12-21e1017e94ae",
-          "ingredientName": "anise-flavored liqueur",
+          "ingredientName": "anise- and vanilla-flavored liqueur",
           "quantityAmount": "1",
           "quantityUnit": "oz"
         },
@@ -13236,7 +13242,7 @@
       "7c749477-7721-44b7-a74b-bba6b1c4a87b": [
         {
           "ingredientId": "a33c1ee9-d3eb-49f8-9b12-21e1017e94ae",
-          "ingredientName": "anise-flavored liqueur",
+          "ingredientName": "anise- and vanilla-flavored liqueur",
           "quantityAmount": "20",
           "quantityUnit": "ml"
         },
@@ -13806,7 +13812,7 @@
         },
         {
           "ingredientId": "22a2aef7-df49-43c0-aad3-037957794850",
-          "ingredientName": "Amer Boudreau (has recipe)",
+          "ingredientName": "Amer Boudreau",
           "quantityAmount": "0.75",
           "quantityUnit": "oz"
         }
@@ -13825,7 +13831,7 @@
         },
         {
           "ingredientId": "10685734-d6ed-41e4-8cd2-c8af104ea2e5",
-          "ingredientName": "gunpowder tea syrup (has recipe)",
+          "ingredientName": "gunpowder tea syrup",
           "quantityAmount": "1",
           "quantityUnit": "oz"
         },
@@ -14297,7 +14303,7 @@
         },
         {
           "ingredientId": "a33c1ee9-d3eb-49f8-9b12-21e1017e94ae",
-          "ingredientName": "anise-flavored liqueur",
+          "ingredientName": "anise- and vanilla-flavored liqueur",
           "quantityAmount": "1",
           "quantityUnit": "oz"
         },
@@ -14641,7 +14647,7 @@
         },
         {
           "ingredientId": "41660bda-01a3-4811-ba88-93a856fcf4b6",
-          "ingredientName": "ascorbic acid solution (has recipe)",
+          "ingredientName": "ascorbic acid solution",
           "quantityAmount": "2",
           "quantityUnit": "dashes"
         },
@@ -15222,7 +15228,7 @@
           "ingredientId": "e3e24d91-1d77-43f6-91a7-52248cffafb6",
           "ingredientName": "hot buttered rum batter",
           "quantityAmount": "1",
-          "quantityUnit": "Tbsp"
+          "quantityUnit": "tbsp"
         }
       ],
       "99f7f676-cbc0-46f3-b9d2-c2de49626308": [
@@ -16127,7 +16133,7 @@
         },
         {
           "ingredientId": "a33c1ee9-d3eb-49f8-9b12-21e1017e94ae",
-          "ingredientName": "anise-flavored liqueur",
+          "ingredientName": "anise- and vanilla-flavored liqueur",
           "quantityAmount": "0.5",
           "quantityUnit": "oz"
         },
@@ -17594,13 +17600,13 @@
         },
         {
           "ingredientId": "41660bda-01a3-4811-ba88-93a856fcf4b6",
-          "ingredientName": "ascorbic acid solution (has recipe)",
+          "ingredientName": "ascorbic acid solution",
           "quantityAmount": "0.25",
           "quantityUnit": "tsp"
         },
         {
           "ingredientId": "189177d0-17cc-4d5e-91ce-ae909d1b86fa",
-          "ingredientName": "Dragon's Blood Tea (has recipe)",
+          "ingredientName": "Dragon's Blood Tea",
           "quantityAmount": "0.25",
           "quantityUnit": "tsp"
         },
@@ -18143,37 +18149,6 @@
       ]
     }
   },
-  "e8e7c7f9-1dea-41dd-a8ed-0fe174748d67": {
-    "cocktailName": "La Paloma",
-    "recipes": {
-      "054f1fe8-a078-4677-87fa-fc7fc8ae7b4e": [
-        {
-          "ingredientId": "bb51de06-262e-420f-b23d-34a77118bde4",
-          "ingredientName": "grapefruit soda",
-          "quantityAmount": "4",
-          "quantityUnit": "oz"
-        },
-        {
-          "ingredientId": "82c3ed4b-229e-4ad5-a070-144dde74a71b",
-          "ingredientName": "blanco tequila",
-          "quantityAmount": "2",
-          "quantityUnit": "oz"
-        },
-        {
-          "ingredientId": "ec478592-fc11-4311-8b83-44b7bb78d9b4",
-          "ingredientName": "lime juice",
-          "quantityAmount": "0.5",
-          "quantityUnit": "oz"
-        },
-        {
-          "ingredientId": "c9745bd4-4c27-4e85-9d9e-1b86c6f0879c",
-          "ingredientName": "kosher salt",
-          "quantityAmount": "1",
-          "quantityUnit": "pinch"
-        }
-      ]
-    }
-  },
   "a451a2f1-9820-40a6-b14b-f76c45401234": {
     "cocktailName": "La Rosita",
     "recipes": {
@@ -18471,8 +18446,8 @@
           "quantityUnit": "oz"
         },
         {
-          "ingredientId": "1ae0d554-067a-4680-bf1c-424f9d9fed9a",
-          "ingredientName": "Green Chartreuse ice cream (has recipe)",
+          "ingredientId": "b9790d79-6a72-49d1-b302-536968cfdd24",
+          "ingredientName": "Chartreuse ice cream",
           "quantityAmount": "1",
           "quantityUnit": "scoop"
         },
@@ -18827,12 +18802,7 @@
           "quantityAmount": "1.5",
           "quantityUnit": "oz"
         }
-      ]
-    }
-  },
-  "4b825319-5768-47fd-8702-7f081558b018": {
-    "cocktailName": "Lemon Drop Martini",
-    "recipes": {
+      ],
       "7526dab1-2257-4f69-bc08-ab7c1f99388f": [
         {
           "ingredientId": "f0f31f5c-f164-4e08-9f48-1cc3dc145c55",
@@ -18934,7 +18904,7 @@
         },
         {
           "ingredientId": "22a2aef7-df49-43c0-aad3-037957794850",
-          "ingredientName": "Amer Boudreau (has recipe)",
+          "ingredientName": "Amer Boudreau",
           "quantityAmount": "0.5",
           "quantityUnit": "oz"
         }
@@ -19759,7 +19729,7 @@
         },
         {
           "ingredientId": "d8384552-19c4-4ebe-a4ea-5cbafb44572d",
-          "ingredientName": "apple-coriander beer syrup (has recipe)",
+          "ingredientName": "apple-coriander beer syrup",
           "quantityAmount": "0.5",
           "quantityUnit": "oz"
         }
@@ -19997,7 +19967,7 @@
       "f4639d06-9385-4f41-a230-2b376bfec5a9": [
         {
           "ingredientId": "a33c1ee9-d3eb-49f8-9b12-21e1017e94ae",
-          "ingredientName": "anise-flavored liqueur",
+          "ingredientName": "anise- and vanilla-flavored liqueur",
           "quantityAmount": "0.5",
           "quantityUnit": "oz"
         },
@@ -20953,7 +20923,7 @@
           "ingredientId": "f71a6cc1-6af3-4d0f-88a3-5eef53b1f262",
           "ingredientName": "Mexican Chocolate Ganache",
           "quantityAmount": "2",
-          "quantityUnit": "Tbsp"
+          "quantityUnit": "tbsp"
         },
         {
           "ingredientId": "8d5256e4-c7fb-4036-be0a-04c9abc644da",
@@ -21309,7 +21279,7 @@
         },
         {
           "ingredientId": "e1d9a714-621f-4b9a-bada-d39505766eb0",
-          "ingredientName": "Breakfast Cream (has recipe)",
+          "ingredientName": "Breakfast Cream",
           "quantityAmount": "2",
           "quantityUnit": "oz"
         }
@@ -21406,7 +21376,7 @@
           "ingredientId": "fd9dc360-8d0f-4387-8bfd-7f4c61535c2e",
           "ingredientName": "rich demerara syrup",
           "quantityAmount": "0.5",
-          "quantityUnit": "oz "
+          "quantityUnit": "oz"
         },
         {
           "ingredientId": "463c2b68-5821-49c4-9678-ddd299b40ffd",
@@ -21809,7 +21779,7 @@
         },
         {
           "ingredientId": "a33c1ee9-d3eb-49f8-9b12-21e1017e94ae",
-          "ingredientName": "anise-flavored liqueur",
+          "ingredientName": "anise- and vanilla-flavored liqueur",
           "quantityAmount": "0.25",
           "quantityUnit": "oz"
         },
@@ -22187,7 +22157,7 @@
         },
         {
           "ingredientId": "88084a40-0ae5-4975-9279-ef4f5889d105",
-          "ingredientName": "popcorn ice cream (has recipe)",
+          "ingredientName": "popcorn ice cream",
           "quantityAmount": "1",
           "quantityUnit": "scoop"
         },
@@ -23699,6 +23669,26 @@
           "quantityUnit": "dashes"
         }
       ],
+      "17e519ab-361a-4222-b18b-7cbfb45d399f": [
+        {
+          "ingredientId": "805371f1-a361-4fb2-8d9d-b5422deda60b",
+          "ingredientName": "simple syrup",
+          "quantityAmount": "0.25",
+          "quantityUnit": "oz"
+        },
+        {
+          "ingredientId": "6fa0d3a9-c4e0-4434-92c0-176434a12d70",
+          "ingredientName": "Distilled Spirits",
+          "quantityAmount": "2",
+          "quantityUnit": "oz"
+        },
+        {
+          "ingredientId": "09cfd702-7103-405f-b9e0-303ef0209df4",
+          "ingredientName": "Bitters",
+          "quantityAmount": "2",
+          "quantityUnit": "dashes"
+        }
+      ],
       "cfe2920d-f43e-449f-9d70-3fe2fad61902": [
         {
           "ingredientId": "100a5b6f-5688-404e-a4fc-000aa937de8d",
@@ -23728,31 +23718,6 @@
           "ingredientId": "3cffb550-7089-4cf5-95f4-6805ec737f2b",
           "ingredientName": "Angostura bitters",
           "quantityAmount": "3",
-          "quantityUnit": "dashes"
-        }
-      ]
-    }
-  },
-  "d61ea045-5176-442d-b3cb-a76240fb9e1a": {
-    "cocktailName": "Old Fashioned Cocktail",
-    "recipes": {
-      "17e519ab-361a-4222-b18b-7cbfb45d399f": [
-        {
-          "ingredientId": "805371f1-a361-4fb2-8d9d-b5422deda60b",
-          "ingredientName": "simple syrup",
-          "quantityAmount": "0.25",
-          "quantityUnit": "oz"
-        },
-        {
-          "ingredientId": "6fa0d3a9-c4e0-4434-92c0-176434a12d70",
-          "ingredientName": "Distilled Spirits",
-          "quantityAmount": "2",
-          "quantityUnit": "oz"
-        },
-        {
-          "ingredientId": "09cfd702-7103-405f-b9e0-303ef0209df4",
-          "ingredientName": "Bitters",
-          "quantityAmount": "2",
           "quantityUnit": "dashes"
         }
       ]
@@ -24184,7 +24149,7 @@
           "ingredientId": "84a4bfda-4d21-49fc-a46d-e953bec4d674",
           "ingredientName": "aged Jamaican rum",
           "quantityAmount": "1",
-          "quantityUnit": "oz "
+          "quantityUnit": "oz"
         },
         {
           "ingredientId": "3cffb550-7089-4cf5-95f4-6805ec737f2b",
@@ -24239,6 +24204,52 @@
           "ingredientId": "805371f1-a361-4fb2-8d9d-b5422deda60b",
           "ingredientName": "simple syrup",
           "quantityAmount": "0.5",
+          "quantityUnit": "oz"
+        }
+      ],
+      "054f1fe8-a078-4677-87fa-fc7fc8ae7b4e": [
+        {
+          "ingredientId": "bb51de06-262e-420f-b23d-34a77118bde4",
+          "ingredientName": "grapefruit soda",
+          "quantityAmount": "4",
+          "quantityUnit": "oz"
+        },
+        {
+          "ingredientId": "82c3ed4b-229e-4ad5-a070-144dde74a71b",
+          "ingredientName": "blanco tequila",
+          "quantityAmount": "2",
+          "quantityUnit": "oz"
+        },
+        {
+          "ingredientId": "ec478592-fc11-4311-8b83-44b7bb78d9b4",
+          "ingredientName": "lime juice",
+          "quantityAmount": "0.5",
+          "quantityUnit": "oz"
+        },
+        {
+          "ingredientId": "c9745bd4-4c27-4e85-9d9e-1b86c6f0879c",
+          "ingredientName": "kosher salt",
+          "quantityAmount": "1",
+          "quantityUnit": "pinch"
+        }
+      ],
+      "f46601cc-602e-4013-a007-5f2608e5f335": [
+        {
+          "ingredientId": "ec478592-fc11-4311-8b83-44b7bb78d9b4",
+          "ingredientName": "lime juice",
+          "quantityAmount": "0.5",
+          "quantityUnit": "oz"
+        },
+        {
+          "ingredientId": "bb51de06-262e-420f-b23d-34a77118bde4",
+          "ingredientName": "grapefruit soda",
+          "quantityAmount": "3",
+          "quantityUnit": "oz"
+        },
+        {
+          "ingredientId": "82c3ed4b-229e-4ad5-a070-144dde74a71b",
+          "ingredientName": "blanco tequila",
+          "quantityAmount": "2",
           "quantityUnit": "oz"
         }
       ],
@@ -26159,7 +26170,7 @@
         },
         {
           "ingredientId": "8ebc73a9-ee48-4d1c-a70f-92649dedd25c",
-          "ingredientName": "Watermelon Mix (has recipe)",
+          "ingredientName": "Watermelon Mix",
           "quantityAmount": "0.75",
           "quantityUnit": "oz"
         },
@@ -26445,7 +26456,7 @@
           "ingredientId": "ed154737-eab2-4647-93c1-1f97f1c0132a",
           "ingredientName": "tawny port",
           "quantityAmount": "45",
-          "quantityUnit": "45"
+          "quantityUnit": "ml"
         },
         {
           "ingredientId": "ac483c44-207d-4e61-9cb2-7ffefdf202ab",
@@ -26653,7 +26664,7 @@
         },
         {
           "ingredientId": "41660bda-01a3-4811-ba88-93a856fcf4b6",
-          "ingredientName": "ascorbic acid solution (has recipe)",
+          "ingredientName": "ascorbic acid solution",
           "quantityAmount": "1",
           "quantityUnit": "tsp"
         },
@@ -27895,7 +27906,7 @@
       "1ae28388-88b1-4f82-9f6f-27c9347d64d2": [
         {
           "ingredientId": "197dd9eb-8a17-49b7-9610-d8a13973dc09",
-          "ingredientName": "rhubarb shrub (has recipe)",
+          "ingredientName": "rhubarb shrub",
           "quantityAmount": "0.75",
           "quantityUnit": "oz"
         },
@@ -30179,6 +30190,26 @@
           "quantityUnit": "oz"
         }
       ],
+      "7035d63a-e691-4a15-8c5b-2f06ee9fbe09": [
+        {
+          "ingredientId": "f0f31f5c-f164-4e08-9f48-1cc3dc145c55",
+          "ingredientName": "triple sec",
+          "quantityAmount": "0.75",
+          "quantityUnit": "oz"
+        },
+        {
+          "ingredientId": "1344e17b-fd13-4768-8c6b-93fbb96296e2",
+          "ingredientName": "brandy",
+          "quantityAmount": "2",
+          "quantityUnit": "oz"
+        },
+        {
+          "ingredientId": "7c6053c4-0156-48c3-9790-81c44e0123ab",
+          "ingredientName": "lemon juice",
+          "quantityAmount": "0.5",
+          "quantityUnit": "oz"
+        }
+      ],
       "31406192-cfac-44a5-89dd-cb25f7c34bfc": [
         {
           "ingredientId": "257d5b41-c3dc-4178-821d-5196a80f0dfb",
@@ -30892,7 +30923,7 @@
         },
         {
           "ingredientId": "5a03168f-44bb-48b2-b0ca-dbd678fb1c4d",
-          "ingredientName": "Banana Jameson (has recipe)",
+          "ingredientName": "Banana Jameson",
           "quantityAmount": "1.5",
           "quantityUnit": "oz"
         }
@@ -31071,43 +31102,6 @@
       ]
     }
   },
-  "37cda02b-0745-4b1a-876a-573b36f1ba3c": {
-    "cocktailName": "South Side",
-    "recipes": {
-      "63d05c07-e46b-4b67-9b5a-9df2ce6dca08": [
-        {
-          "ingredientId": "ec478592-fc11-4311-8b83-44b7bb78d9b4",
-          "ingredientName": "lime juice",
-          "quantityAmount": "0.75",
-          "quantityUnit": "oz"
-        },
-        {
-          "ingredientId": "4ee29fb2-478a-41e3-be3a-f145a947ba56",
-          "ingredientName": "London Dry gin",
-          "quantityAmount": "2",
-          "quantityUnit": "oz"
-        },
-        {
-          "ingredientId": "66948f17-58aa-4180-bf1b-d462478837f1",
-          "ingredientName": "mint",
-          "quantityAmount": "5",
-          "quantityUnit": ""
-        },
-        {
-          "ingredientId": "4547406c-b2bf-4813-bf4f-d9194596227d",
-          "ingredientName": "cane sugar syrup",
-          "quantityAmount": "0.5",
-          "quantityUnit": "oz"
-        },
-        {
-          "ingredientId": "97d1aa7c-e3ec-4a81-b6ed-806c76d0563c",
-          "ingredientName": "aromatic bitters",
-          "quantityAmount": "1",
-          "quantityUnit": "dash"
-        }
-      ]
-    }
-  },
   "b35c8b02-5fe3-4744-ab1e-9a59081c4a37": {
     "cocktailName": "South Sider",
     "recipes": {
@@ -31191,6 +31185,38 @@
   "bf872315-1893-44c3-997b-dc9383f251cf": {
     "cocktailName": "Southside",
     "recipes": {
+      "63d05c07-e46b-4b67-9b5a-9df2ce6dca08": [
+        {
+          "ingredientId": "ec478592-fc11-4311-8b83-44b7bb78d9b4",
+          "ingredientName": "lime juice",
+          "quantityAmount": "0.75",
+          "quantityUnit": "oz"
+        },
+        {
+          "ingredientId": "4ee29fb2-478a-41e3-be3a-f145a947ba56",
+          "ingredientName": "London Dry gin",
+          "quantityAmount": "2",
+          "quantityUnit": "oz"
+        },
+        {
+          "ingredientId": "66948f17-58aa-4180-bf1b-d462478837f1",
+          "ingredientName": "mint",
+          "quantityAmount": "5",
+          "quantityUnit": ""
+        },
+        {
+          "ingredientId": "4547406c-b2bf-4813-bf4f-d9194596227d",
+          "ingredientName": "cane sugar syrup",
+          "quantityAmount": "0.5",
+          "quantityUnit": "oz"
+        },
+        {
+          "ingredientId": "97d1aa7c-e3ec-4a81-b6ed-806c76d0563c",
+          "ingredientName": "aromatic bitters",
+          "quantityAmount": "1",
+          "quantityUnit": "dash"
+        }
+      ],
       "3a18d106-84b3-4de2-9b68-41b35d6f63fe": [
         {
           "ingredientId": "ec478592-fc11-4311-8b83-44b7bb78d9b4",
@@ -32296,8 +32322,8 @@
         {
           "ingredientId": "b677399a-5ea6-4e40-a328-a360de3cd632",
           "ingredientName": "falernum",
-          "quantityAmount": "0.2",
-          "quantityUnit": "5oz"
+          "quantityAmount": "0.25",
+          "quantityUnit": "oz"
         }
       ]
     }
@@ -32824,7 +32850,7 @@
         },
         {
           "ingredientId": "10f55ec9-f376-4a8f-bc9f-3ee02e094f89",
-          "ingredientName": "Earl Grey gin (has recipe)",
+          "ingredientName": "Earl Grey gin",
           "quantityAmount": "2",
           "quantityUnit": "oz"
         },
@@ -33170,7 +33196,7 @@
         },
         {
           "ingredientId": "b18d8bbe-62d0-491b-9317-40d61cf8664b",
-          "ingredientName": "clarified grapefruit juice (has recipe)",
+          "ingredientName": "clarified grapefruit juice",
           "quantityAmount": "2",
           "quantityUnit": "oz"
         },
@@ -33325,37 +33351,6 @@
       ]
     }
   },
-  "d6d9464e-68b5-4925-91cb-439dd658c334": {
-    "cocktailName": "The Champs-Elysees Cocktail",
-    "recipes": {
-      "45e8884c-9692-45d7-b6bd-16ee76716306": [
-        {
-          "ingredientId": "b4a2d3a3-b0b3-44fc-b260-a0cda70f6aa8",
-          "ingredientName": "Yellow Chartreuse",
-          "quantityAmount": "0.5",
-          "quantityUnit": "oz"
-        },
-        {
-          "ingredientId": "257d5b41-c3dc-4178-821d-5196a80f0dfb",
-          "ingredientName": "cognac",
-          "quantityAmount": "1.5",
-          "quantityUnit": "oz"
-        },
-        {
-          "ingredientId": "3cffb550-7089-4cf5-95f4-6805ec737f2b",
-          "ingredientName": "Angostura bitters",
-          "quantityAmount": "1",
-          "quantityUnit": "dash"
-        },
-        {
-          "ingredientId": "7c6053c4-0156-48c3-9790-81c44e0123ab",
-          "ingredientName": "lemon juice",
-          "quantityAmount": "0.5",
-          "quantityUnit": "oz"
-        }
-      ]
-    }
-  },
   "45e66613-3eab-4788-8800-6ec13eee5384": {
     "cocktailName": "The Cocktail Called Irving",
     "recipes": {
@@ -33380,7 +33375,7 @@
         },
         {
           "ingredientId": "b9790d79-6a72-49d1-b302-536968cfdd24",
-          "ingredientName": "Chartreuse ice cream (has recipe)",
+          "ingredientName": "Chartreuse ice cream",
           "quantityAmount": "1",
           "quantityUnit": "large scoop"
         }
@@ -33473,7 +33468,7 @@
       "0e6a6834-d390-488b-aaa5-daa14857fa91": [
         {
           "ingredientId": "a035ce61-b795-4461-ab93-ada8c886f2f0",
-          "ingredientName": "vanilla brandy (has recipe)",
+          "ingredientName": "vanilla-infused brandy",
           "quantityAmount": "0.5",
           "quantityUnit": "oz"
         },
@@ -34143,31 +34138,6 @@
       ]
     }
   },
-  "f1c4e3f1-79b0-4a34-9910-c54c362ece92": {
-    "cocktailName": "The Paloma",
-    "recipes": {
-      "f46601cc-602e-4013-a007-5f2608e5f335": [
-        {
-          "ingredientId": "ec478592-fc11-4311-8b83-44b7bb78d9b4",
-          "ingredientName": "lime juice",
-          "quantityAmount": "0.5",
-          "quantityUnit": "oz"
-        },
-        {
-          "ingredientId": "bb51de06-262e-420f-b23d-34a77118bde4",
-          "ingredientName": "grapefruit soda",
-          "quantityAmount": "3",
-          "quantityUnit": "oz"
-        },
-        {
-          "ingredientId": "82c3ed4b-229e-4ad5-a070-144dde74a71b",
-          "ingredientName": "blanco tequila",
-          "quantityAmount": "2",
-          "quantityUnit": "oz"
-        }
-      ]
-    }
-  },
   "08481e75-a366-43df-ace6-9c3f10538e45": {
     "cocktailName": "The Risk Pool",
     "recipes": {
@@ -34242,31 +34212,6 @@
         {
           "ingredientId": "587e2d1c-e033-46e8-ba82-e1494e0671af",
           "ingredientName": "gin",
-          "quantityAmount": "0.5",
-          "quantityUnit": "oz"
-        }
-      ]
-    }
-  },
-  "f46e31b9-146f-43c2-b574-1aa37d6e0c90": {
-    "cocktailName": "The Sidecar",
-    "recipes": {
-      "7035d63a-e691-4a15-8c5b-2f06ee9fbe09": [
-        {
-          "ingredientId": "f0f31f5c-f164-4e08-9f48-1cc3dc145c55",
-          "ingredientName": "triple sec",
-          "quantityAmount": "0.75",
-          "quantityUnit": "oz"
-        },
-        {
-          "ingredientId": "1344e17b-fd13-4768-8c6b-93fbb96296e2",
-          "ingredientName": "brandy",
-          "quantityAmount": "2",
-          "quantityUnit": "oz"
-        },
-        {
-          "ingredientId": "7c6053c4-0156-48c3-9790-81c44e0123ab",
-          "ingredientName": "lemon juice",
           "quantityAmount": "0.5",
           "quantityUnit": "oz"
         }
@@ -34439,7 +34384,7 @@
       "d3ffd7c7-5075-483d-96d9-087eeeb7edd4": [
         {
           "ingredientId": "08c03ebb-840a-49af-9341-dbddaf4a4561",
-          "ingredientName": "Absinthe Blanc",
+          "ingredientName": "Absinthe Blanche",
           "quantityAmount": "1",
           "quantityUnit": "dash"
         },
@@ -34615,11 +34560,61 @@
           "quantityAmount": "0.5",
           "quantityUnit": "oz"
         }
+      ],
+      "e9105b74-ab73-42eb-8adb-2ddeeb34c4ae": [
+        {
+          "ingredientId": "91f6c54b-4128-4f68-8551-f6f9e5f5d612",
+          "ingredientName": "cane AOC Martinique rhum agricole vieux",
+          "quantityAmount": "1.5",
+          "quantityUnit": "oz"
+        },
+        {
+          "ingredientId": "b677399a-5ea6-4e40-a328-a360de3cd632",
+          "ingredientName": "falernum",
+          "quantityAmount": "0.25",
+          "quantityUnit": "oz"
+        },
+        {
+          "ingredientId": "ec478592-fc11-4311-8b83-44b7bb78d9b4",
+          "ingredientName": "lime juice",
+          "quantityAmount": "0.5",
+          "quantityUnit": "oz"
+        },
+        {
+          "ingredientId": "3cffb550-7089-4cf5-95f4-6805ec737f2b",
+          "ingredientName": "Angostura bitters",
+          "quantityAmount": "1",
+          "quantityUnit": "dash"
+        },
+        {
+          "ingredientId": "dd6cc30e-f651-4aff-a01a-0a3f525e0694",
+          "ingredientName": "aged blended rum",
+          "quantityAmount": "0.5",
+          "quantityUnit": "oz"
+        },
+        {
+          "ingredientId": "4d3fc1fc-f905-4028-8399-66804a31d192",
+          "ingredientName": "allspice liqueur",
+          "quantityAmount": "0.25",
+          "quantityUnit": "oz"
+        },
+        {
+          "ingredientId": "55ca3629-1c79-4f6d-9a27-bd34d0201447",
+          "ingredientName": "honey syrup",
+          "quantityAmount": "0.5",
+          "quantityUnit": "oz"
+        },
+        {
+          "ingredientId": "fcc38451-0c1e-438d-ac6c-5af13f16e056",
+          "ingredientName": "orange juice",
+          "quantityAmount": "0.5",
+          "quantityUnit": "oz"
+        }
       ]
     }
   },
-  "ef88ab0a-df5d-4ec7-a563-833d9e8e9f7b": {
-    "cocktailName": "Ti Punch",
+  "5b0272ee-650e-4042-b1a1-8a517ad956f8": {
+    "cocktailName": "Ti' Punch",
     "recipes": {
       "3681e1a9-0b5e-45ec-ae05-7624f1418d37": [
         {
@@ -34660,12 +34655,7 @@
           "quantityAmount": "1",
           "quantityUnit": "tsp"
         }
-      ]
-    }
-  },
-  "5b0272ee-650e-4042-b1a1-8a517ad956f8": {
-    "cocktailName": "Ti' Punch",
-    "recipes": {
+      ],
       "b72a2ccf-2833-4361-b642-65de6020813d": [
         {
           "ingredientId": "3ab2ce19-65ba-44b4-af65-1c1965f2d35a",
@@ -34893,7 +34883,7 @@
           "ingredientId": "8a7bba93-191e-4352-b74e-5fde0e852faf",
           "ingredientName": "Tom & Jerry Batter",
           "quantityAmount": "1",
-          "quantityUnit": "Tbsp"
+          "quantityUnit": "tbsp"
         }
       ]
     }
@@ -35048,7 +35038,7 @@
         },
         {
           "ingredientId": "a33c1ee9-d3eb-49f8-9b12-21e1017e94ae",
-          "ingredientName": "anise-flavored liqueur",
+          "ingredientName": "anise- and vanilla-flavored liqueur",
           "quantityAmount": "0.5",
           "quantityUnit": "oz"
         },
@@ -35195,12 +35185,7 @@
           "quantityAmount": "0.5",
           "quantityUnit": "oz"
         }
-      ]
-    }
-  },
-  "c6bbc24a-ab8a-4e9d-a99c-980f355d81ff": {
-    "cocktailName": "Toronto Cocktail",
-    "recipes": {
+      ],
       "20f61393-1de6-4ef2-a203-ce34049c0067": [
         {
           "ingredientId": "100a5b6f-5688-404e-a4fc-000aa937de8d",
@@ -35241,7 +35226,7 @@
         },
         {
           "ingredientId": "c6603672-be3c-4ff8-b731-1a57675212a7",
-          "ingredientName": "Toucan Mix (has recipe)",
+          "ingredientName": "Toucan Mix",
           "quantityAmount": "4",
           "quantityUnit": "oz"
         }
@@ -35391,61 +35376,6 @@
           "ingredientId": "354b4a5c-4df5-4ba3-af51-9768720c1a84",
           "ingredientName": "Green Chartreuse",
           "quantityAmount": "1",
-          "quantityUnit": "oz"
-        }
-      ]
-    }
-  },
-  "2d282e1d-bf9f-46d4-8656-bb00adc37fe9": {
-    "cocktailName": "Tree Dots And A Dash",
-    "recipes": {
-      "e9105b74-ab73-42eb-8adb-2ddeeb34c4ae": [
-        {
-          "ingredientId": "91f6c54b-4128-4f68-8551-f6f9e5f5d612",
-          "ingredientName": "cane AOC Martinique rhum agricole vieux",
-          "quantityAmount": "1.5",
-          "quantityUnit": "oz"
-        },
-        {
-          "ingredientId": "b677399a-5ea6-4e40-a328-a360de3cd632",
-          "ingredientName": "falernum",
-          "quantityAmount": "0.25",
-          "quantityUnit": "oz"
-        },
-        {
-          "ingredientId": "ec478592-fc11-4311-8b83-44b7bb78d9b4",
-          "ingredientName": "lime juice",
-          "quantityAmount": "0.5",
-          "quantityUnit": "oz"
-        },
-        {
-          "ingredientId": "3cffb550-7089-4cf5-95f4-6805ec737f2b",
-          "ingredientName": "Angostura bitters",
-          "quantityAmount": "1",
-          "quantityUnit": "dash"
-        },
-        {
-          "ingredientId": "dd6cc30e-f651-4aff-a01a-0a3f525e0694",
-          "ingredientName": "aged blended rum",
-          "quantityAmount": "0.5",
-          "quantityUnit": "oz"
-        },
-        {
-          "ingredientId": "4d3fc1fc-f905-4028-8399-66804a31d192",
-          "ingredientName": "allspice liqueur",
-          "quantityAmount": "0.25",
-          "quantityUnit": "oz"
-        },
-        {
-          "ingredientId": "55ca3629-1c79-4f6d-9a27-bd34d0201447",
-          "ingredientName": "honey syrup",
-          "quantityAmount": "0.5",
-          "quantityUnit": "oz"
-        },
-        {
-          "ingredientId": "fcc38451-0c1e-438d-ac6c-5af13f16e056",
-          "ingredientName": "orange juice",
-          "quantityAmount": "0.5",
           "quantityUnit": "oz"
         }
       ]
@@ -35606,13 +35536,13 @@
         },
         {
           "ingredientId": "25af02ae-6389-4e84-9405-bca85f667ac5",
-          "ingredientName": "truffle cognac (has recipe)",
+          "ingredientName": "truffle cognac",
           "quantityAmount": "2",
           "quantityUnit": "oz"
         },
         {
           "ingredientId": "5724b9b4-e572-42e9-9967-5589234b4a8e",
-          "ingredientName": "tonka bean syrup (has recipe)",
+          "ingredientName": "tonka bean syrup",
           "quantityAmount": "0.25",
           "quantityUnit": "oz"
         },
@@ -35982,7 +35912,7 @@
         },
         {
           "ingredientId": "41660bda-01a3-4811-ba88-93a856fcf4b6",
-          "ingredientName": "ascorbic acid solution (has recipe)",
+          "ingredientName": "ascorbic acid solution",
           "quantityAmount": "2",
           "quantityUnit": "dashes"
         },
@@ -36542,8 +36472,8 @@
       ]
     }
   },
-  "79a0f55d-0adf-4126-bc46-f78990b22725": {
-    "cocktailName": "Ward 8",
+  "b2a1edfa-0057-40b0-9735-9dc3c2180e9d": {
+    "cocktailName": "Ward Eight",
     "recipes": {
       "1fc88bef-9dc9-4862-b7d4-96fc50dfb4af": [
         {
@@ -36576,12 +36506,7 @@
           "quantityAmount": "0.5",
           "quantityUnit": "oz"
         }
-      ]
-    }
-  },
-  "b2a1edfa-0057-40b0-9735-9dc3c2180e9d": {
-    "cocktailName": "Ward Eight",
-    "recipes": {
+      ],
       "d0728af5-1cdb-45a1-96d4-64d6f3e7cd3d": [
         {
           "ingredientId": "100a5b6f-5688-404e-a4fc-000aa937de8d",
@@ -37390,7 +37315,7 @@
         },
         {
           "ingredientId": "41660bda-01a3-4811-ba88-93a856fcf4b6",
-          "ingredientName": "ascorbic acid solution (has recipe)",
+          "ingredientName": "ascorbic acid solution",
           "quantityAmount": "3",
           "quantityUnit": "dashes"
         },
@@ -37408,7 +37333,7 @@
         },
         {
           "ingredientId": "0072881f-9aac-4707-bb3f-7488a4817b46",
-          "ingredientName": "Yakima salt solution (has recipe)",
+          "ingredientName": "Yakima salt solution",
           "quantityAmount": "3",
           "quantityUnit": "dashes"
         },
@@ -37458,7 +37383,7 @@
       "e01bcb3f-0b9e-4adb-a27d-a2654a177775": [
         {
           "ingredientId": "a33c1ee9-d3eb-49f8-9b12-21e1017e94ae",
-          "ingredientName": "anise-flavored liqueur",
+          "ingredientName": "anise- and vanilla-flavored liqueur",
           "quantityAmount": "15",
           "quantityUnit": "ml"
         },
@@ -37507,7 +37432,7 @@
         },
         {
           "ingredientId": "8ebc73a9-ee48-4d1c-a70f-92649dedd25c",
-          "ingredientName": "Watermelon Mix (has recipe)",
+          "ingredientName": "Watermelon Mix",
           "quantityAmount": "1.5",
           "quantityUnit": "oz"
         }
@@ -37871,13 +37796,13 @@
         },
         {
           "ingredientId": "3d687c84-1a19-45cd-9cf3-02da65ef6c6c",
-          "ingredientName": "Donn Mix (has recipe)",
+          "ingredientName": "Donn Mix",
           "quantityAmount": "0.5",
           "quantityUnit": "oz"
         },
         {
           "ingredientId": "ad1ce9c3-c9e3-47ac-aa8b-f3f046474c39",
-          "ingredientName": "Brain Rum (has recipe)",
+          "ingredientName": "Brain Rum",
           "quantityAmount": "0.25",
           "quantityUnit": "oz"
         },

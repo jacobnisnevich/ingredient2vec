@@ -29,7 +29,7 @@ f698e7d1-ea10-4aa7-898b-269f8eb61496	6th Street Swizzle	73cc622a-6c9a-41ce-94fe-
 f698e7d1-ea10-4aa7-898b-269f8eb61496	6th Street Swizzle	97d1aa7c-e3ec-4a81-b6ed-806c76d0563c	aromatic bitters	2	dashes	55cea010-9f6f-4de3-b336-28e682ab6d2e
 f698e7d1-ea10-4aa7-898b-269f8eb61496	6th Street Swizzle	ec478592-fc11-4311-8b83-44b7bb78d9b4	lime juice	1	oz	55cea010-9f6f-4de3-b336-28e682ab6d2e
 f698e7d1-ea10-4aa7-898b-269f8eb61496	6th Street Swizzle	4547406c-b2bf-4813-bf4f-d9194596227d	cane sugar syrup	0.75	oz	55cea010-9f6f-4de3-b336-28e682ab6d2e
-e72d6427-1a0b-4248-a34a-9daa04a7935c	A Matter Of Thyme	1dfa6297-8c80-459b-9845-d2c3ed135de1	thyme-Picpoul syrup (has recipe)	0.5	oz	533e0e6f-27e3-4d86-a567-d4a84c6e549b
+e72d6427-1a0b-4248-a34a-9daa04a7935c	A Matter Of Thyme	1dfa6297-8c80-459b-9845-d2c3ed135de1	thyme-Picpoul syrup	0.5	oz	533e0e6f-27e3-4d86-a567-d4a84c6e549b
 e72d6427-1a0b-4248-a34a-9daa04a7935c	A Matter Of Thyme	fd5fa761-f23e-4bb2-b91c-279a20c8932e	cachaça	1.5	oz	533e0e6f-27e3-4d86-a567-d4a84c6e549b
 e72d6427-1a0b-4248-a34a-9daa04a7935c	A Matter Of Thyme	28bdda53-8bd3-419f-81fa-067027225e30	lime bitters	3	dashes	533e0e6f-27e3-4d86-a567-d4a84c6e549b
 e72d6427-1a0b-4248-a34a-9daa04a7935c	A Matter Of Thyme	7c6053c4-0156-48c3-9790-81c44e0123ab	lemon juice	0.5	oz	533e0e6f-27e3-4d86-a567-d4a84c6e549b
@@ -67,14 +67,14 @@ dffdf065-35d2-4e65-8278-914ba1ff5205	Agricole Guava Cooler	b0d52def-b871-41b4-91
 dffdf065-35d2-4e65-8278-914ba1ff5205	Agricole Guava Cooler	c1a73c8d-a604-4c47-b41a-43308511fe35	guava soda	2	oz	1cf06f38-5a5e-450b-b7d5-d8fbfe4fb5ca
 dffdf065-35d2-4e65-8278-914ba1ff5205	Agricole Guava Cooler	e0996af4-048a-4f48-8839-c22fc16728bb	vanilla-spice liqueur	0.75	oz	1cf06f38-5a5e-450b-b7d5-d8fbfe4fb5ca
 dffdf065-35d2-4e65-8278-914ba1ff5205	Agricole Guava Cooler	ec478592-fc11-4311-8b83-44b7bb78d9b4	lime juice	0.75	oz	1cf06f38-5a5e-450b-b7d5-d8fbfe4fb5ca
+f288d4df-0141-4abc-b5e3-ad369fb50de4	Air Mail	0ba2af59-028e-443e-87fe-4cfc60e30d04	brut Champagne	4	oz	b0566f18-19f1-4c3e-b384-4575210db57a
+f288d4df-0141-4abc-b5e3-ad369fb50de4	Air Mail	d1f89ffc-cd86-4195-bf86-0cac7e96040c	acacia honey syrup	0.5	oz	b0566f18-19f1-4c3e-b384-4575210db57a
+f288d4df-0141-4abc-b5e3-ad369fb50de4	Air Mail	bb42a8e5-5b6e-4b1e-bc64-89f9cf3960fe	blended aged Puerto Rican rum	1	oz	b0566f18-19f1-4c3e-b384-4575210db57a
+f288d4df-0141-4abc-b5e3-ad369fb50de4	Air Mail	ec478592-fc11-4311-8b83-44b7bb78d9b4	lime juice	0.5	oz	b0566f18-19f1-4c3e-b384-4575210db57a
 f288d4df-0141-4abc-b5e3-ad369fb50de4	Air Mail	0831ab65-a3ce-4e04-a572-ef84e1ac6499	dry sparkling wine	2	oz	8bcd80c1-3e71-48e5-9853-595d45058e6f
 f288d4df-0141-4abc-b5e3-ad369fb50de4	Air Mail	55ca3629-1c79-4f6d-9a27-bd34d0201447	honey syrup	0.5	oz	8bcd80c1-3e71-48e5-9853-595d45058e6f
 f288d4df-0141-4abc-b5e3-ad369fb50de4	Air Mail	7c6053c4-0156-48c3-9790-81c44e0123ab	lemon juice	0.5	oz	8bcd80c1-3e71-48e5-9853-595d45058e6f
 f288d4df-0141-4abc-b5e3-ad369fb50de4	Air Mail	41bd7003-8129-43c5-a5f7-593904899737	aged Venezuela rum	2	oz	8bcd80c1-3e71-48e5-9853-595d45058e6f
-bb5ba700-975e-4f2f-94e1-b1810e25bec7	Airmail	0ba2af59-028e-443e-87fe-4cfc60e30d04	brut Champagne	4	oz	b0566f18-19f1-4c3e-b384-4575210db57a
-bb5ba700-975e-4f2f-94e1-b1810e25bec7	Airmail	d1f89ffc-cd86-4195-bf86-0cac7e96040c	acacia honey syrup	0.5	oz	b0566f18-19f1-4c3e-b384-4575210db57a
-bb5ba700-975e-4f2f-94e1-b1810e25bec7	Airmail	bb42a8e5-5b6e-4b1e-bc64-89f9cf3960fe	blended aged Puerto Rican rum	1	oz	b0566f18-19f1-4c3e-b384-4575210db57a
-bb5ba700-975e-4f2f-94e1-b1810e25bec7	Airmail	ec478592-fc11-4311-8b83-44b7bb78d9b4	lime juice	0.5	oz	b0566f18-19f1-4c3e-b384-4575210db57a
 70429c6d-2975-42e9-9027-d084360d17b3	Aka Cobbler	805371f1-a361-4fb2-8d9d-b5422deda60b	simple syrup	1	tsp	d14c7f2b-ad9d-4123-8901-716e5504a72e
 70429c6d-2975-42e9-9027-d084360d17b3	Aka Cobbler	3e76b4f5-4c46-4a72-85e4-f607b3fe3204	lemon	2		d14c7f2b-ad9d-4123-8901-716e5504a72e
 70429c6d-2975-42e9-9027-d084360d17b3	Aka Cobbler	b5eef26b-3dea-445d-bf1a-e86723e15b1b	sherry	0.5	oz	d14c7f2b-ad9d-4123-8901-716e5504a72e
@@ -190,8 +190,8 @@ c8bea339-96dd-43d4-a3de-125ad0538761	Angus Story Daiquiri	a0370adb-e266-429c-a6e
 4b48cee6-e08a-4cef-922f-75080c1bbf48	Aperol Spritz	bde3cfbf-dd01-4aec-b37a-3bc4cca5df6a	soda water	1	oz	ed3fcdfb-0d61-40e6-b0a4-1aece55db78b
 2a446772-5b86-4535-8750-7ee2d9c58183	Apricot Blow	85c41193-c77b-4065-812d-e4bd97d1f4c9	quinquina	2	oz	6e9222d8-6307-4fbe-ad1d-30fa692afba6
 2a446772-5b86-4535-8750-7ee2d9c58183	Apricot Blow	e2e65987-947e-4f67-aa40-f13a268b42c0	crème de abricot	1	oz	6e9222d8-6307-4fbe-ad1d-30fa692afba6
-2a446772-5b86-4535-8750-7ee2d9c58183	Apricot Blow	22a2aef7-df49-43c0-aad3-037957794850	Amer Boudreau (has recipe)	3	oz	6e9222d8-6307-4fbe-ad1d-30fa692afba6
-2a446772-5b86-4535-8750-7ee2d9c58183	Apricot Blow	7eb4c5c5-8cf6-45fc-a9d7-4170343fee9a	clarified lemon juice (has recipe)	1	oz	6e9222d8-6307-4fbe-ad1d-30fa692afba6
+2a446772-5b86-4535-8750-7ee2d9c58183	Apricot Blow	22a2aef7-df49-43c0-aad3-037957794850	Amer Boudreau	3	oz	6e9222d8-6307-4fbe-ad1d-30fa692afba6
+2a446772-5b86-4535-8750-7ee2d9c58183	Apricot Blow	7eb4c5c5-8cf6-45fc-a9d7-4170343fee9a	clarified lemon juice	1	oz	6e9222d8-6307-4fbe-ad1d-30fa692afba6
 2a446772-5b86-4535-8750-7ee2d9c58183	Apricot Blow	a5aa2336-bf08-444b-a2eb-69eb433a5054	distilled water	4	oz	6e9222d8-6307-4fbe-ad1d-30fa692afba6
 c06d8d1e-0846-433b-9fcd-02be279b93b9	Army & Navy	3cffb550-7089-4cf5-95f4-6805ec737f2b	Angostura bitters	2	dashes	0c810340-a62e-47d7-b011-28b3a85d8af4
 c06d8d1e-0846-433b-9fcd-02be279b93b9	Army & Navy	7cb21942-933a-41e6-90f4-18a9a87ab1fa	orgeat syrup	0.75	oz	0c810340-a62e-47d7-b011-28b3a85d8af4
@@ -292,7 +292,7 @@ e70ea796-ac6f-46ff-b609-360dc5c63731	Banks Of Islay	4547406c-b2bf-4813-bf4f-d919
 e70ea796-ac6f-46ff-b609-360dc5c63731	Banks Of Islay	197b6130-1914-435b-98ed-be9e060c0054	grenadine	1	tsp	3ac36d28-b415-4210-9e31-7c01c4e1e46e
 fac8c57c-15c5-4333-94a4-97e60e8e9689	Banksy Sour	805371f1-a361-4fb2-8d9d-b5422deda60b	simple syrup	0.5	oz	93e5adbf-3965-4707-9d2c-d76d83be6143
 fac8c57c-15c5-4333-94a4-97e60e8e9689	Banksy Sour	7c6053c4-0156-48c3-9790-81c44e0123ab	lemon juice	1	oz	93e5adbf-3965-4707-9d2c-d76d83be6143
-fac8c57c-15c5-4333-94a4-97e60e8e9689	Banksy Sour	7f3cafc9-4c60-42c1-95be-2ed783697ff0	Banksy Scotch Mix (has recipe)	2	oz	93e5adbf-3965-4707-9d2c-d76d83be6143
+fac8c57c-15c5-4333-94a4-97e60e8e9689	Banksy Sour	7f3cafc9-4c60-42c1-95be-2ed783697ff0	Banksy Scotch Mix	2	oz	93e5adbf-3965-4707-9d2c-d76d83be6143
 fac8c57c-15c5-4333-94a4-97e60e8e9689	Banksy Sour	113ae4bf-96d0-4abc-82ce-2a50a442d966	egg white	1		93e5adbf-3965-4707-9d2c-d76d83be6143
 eb0aef9f-77aa-4cbf-9e83-41ea249973d9	Barbacoa	cf37f410-6c9e-4bfb-95b7-2d359574f8bd	Fresno chile	1	small piece	ef15e6d7-f717-4f1f-9625-a884805b98aa
 eb0aef9f-77aa-4cbf-9e83-41ea249973d9	Barbacoa	b45a6f10-333a-4c61-86bd-3ae0677e6cef	ginger syrup	0.5	oz	ef15e6d7-f717-4f1f-9625-a884805b98aa
@@ -305,7 +305,7 @@ df6d9af7-2d30-4690-8c32-dbe0e435f54c	Barbados Rum Punch	ec478592-fc11-4311-8b83-
 df6d9af7-2d30-4690-8c32-dbe0e435f54c	Barbados Rum Punch	b1d50bac-d25d-4dc5-824e-cbc97cca2d66	demerara syrup	1	oz	9e380506-6d0c-4cab-8c79-8375ba323907
 df6d9af7-2d30-4690-8c32-dbe0e435f54c	Barbados Rum Punch	3cffb550-7089-4cf5-95f4-6805ec737f2b	Angostura bitters	1	dash	9e380506-6d0c-4cab-8c79-8375ba323907
 df6d9af7-2d30-4690-8c32-dbe0e435f54c	Barbados Rum Punch	d750e792-cc96-4d20-b6be-8f0ae9bacc73	blended aged Barbados rum	2	oz	9e380506-6d0c-4cab-8c79-8375ba323907
-67c8d2e9-a77e-44f8-8110-4f7e0b96cdcc	Barracuda	a33c1ee9-d3eb-49f8-9b12-21e1017e94ae	anise-flavored liqueur	15	ml	037c224b-6d80-4468-a3b9-8428a1f9969a
+67c8d2e9-a77e-44f8-8110-4f7e0b96cdcc	Barracuda	a33c1ee9-d3eb-49f8-9b12-21e1017e94ae	anise- and vanilla-flavored liqueur	15	ml	037c224b-6d80-4468-a3b9-8428a1f9969a
 67c8d2e9-a77e-44f8-8110-4f7e0b96cdcc	Barracuda	ec478592-fc11-4311-8b83-44b7bb78d9b4	lime juice	1	dash	037c224b-6d80-4468-a3b9-8428a1f9969a
 67c8d2e9-a77e-44f8-8110-4f7e0b96cdcc	Barracuda	edc9d478-7c19-458e-89ad-2847db72a711	pineapple juice	60	ml	037c224b-6d80-4468-a3b9-8428a1f9969a
 67c8d2e9-a77e-44f8-8110-4f7e0b96cdcc	Barracuda	9b63b405-af45-40f1-b4c2-5b62553af11d	gold rum	45	ml	037c224b-6d80-4468-a3b9-8428a1f9969a
@@ -388,7 +388,7 @@ f5a7856b-ad1d-44db-83e1-c33797adc27c	Billingsley Punch	4ee29fb2-478a-41e3-be3a-f
 1e43ad81-bf9d-45c6-8b13-e210c84c69ae	Bitter French	1fb39412-f3a8-4b6e-b135-abd190e610b0	grapefruit	1		bdc8dbc5-a665-47d3-a253-9f0849555788
 55dfef05-6918-4b3d-9b19-5782f1bf8b4b	Bitter Fruit	fe7033f2-9d28-480b-af76-fdc9bdbf467d	Moscato d'Asti	4	oz	05336f62-ab25-4bbd-8571-ed64584def74
 55dfef05-6918-4b3d-9b19-5782f1bf8b4b	Bitter Fruit	8d17f5a7-c5a9-4f06-9677-6f6fd0318764	strong aperitivo amaro	0.5	oz	05336f62-ab25-4bbd-8571-ed64584def74
-55dfef05-6918-4b3d-9b19-5782f1bf8b4b	Bitter Fruit	d68e60c4-cf25-44bb-976c-eeb9292530cd	boysenberry purée (has recipe)	0.25	oz	05336f62-ab25-4bbd-8571-ed64584def74
+55dfef05-6918-4b3d-9b19-5782f1bf8b4b	Bitter Fruit	d68e60c4-cf25-44bb-976c-eeb9292530cd	boysenberry purée	0.25	oz	05336f62-ab25-4bbd-8571-ed64584def74
 c21dae3a-5e06-4a84-9412-53451d096705	Bitters & Soda	3cffb550-7089-4cf5-95f4-6805ec737f2b	Angostura bitters	12	dashes	42dc509b-e08b-492c-a71e-bdc4491725e9
 c21dae3a-5e06-4a84-9412-53451d096705	Bitters & Soda	bde3cfbf-dd01-4aec-b37a-3bc4cca5df6a	soda water	6	oz	42dc509b-e08b-492c-a71e-bdc4491725e9
 e6629af7-5cca-4955-9bdd-0910f8825651	Black Betty	a2a073de-ba7f-48d6-9073-3417f2590ac2	felsina-style amaro	1	oz	c43e634b-e61e-45fb-be7c-f4b6b8cf74e2
@@ -630,7 +630,7 @@ abf34ee2-ac4b-4d06-9ea9-51a6daf46709	Cablegram	100a5b6f-5688-404e-a4fc-000aa937d
 7dd19b11-cbd5-4ec0-98c5-a9544512d951	Cadiz Collins	7c6053c4-0156-48c3-9790-81c44e0123ab	lemon juice	0.5	oz	2b877bc1-e5eb-4cb6-80a3-4dc0e91ee533
 7dd19b11-cbd5-4ec0-98c5-a9544512d951	Cadiz Collins	686f9bb8-f885-4802-a6df-e52ea5e5adaa	Plymouth gin	2	oz	2b877bc1-e5eb-4cb6-80a3-4dc0e91ee533
 7dd19b11-cbd5-4ec0-98c5-a9544512d951	Cadiz Collins	5b7ea52f-2a62-4d00-afb0-f6d8babba002	orange	1		2b877bc1-e5eb-4cb6-80a3-4dc0e91ee533
-67aa8aff-e671-4b94-bce5-1d9d142e817b	Caesar's Ghost	7685957c-073f-4f8b-bc57-2735883856de	Clamato Mix (has recipe)	4	oz	5a531b4e-7d23-4f6d-b25f-4e031fe512b0
+67aa8aff-e671-4b94-bce5-1d9d142e817b	Caesar's Ghost	7685957c-073f-4f8b-bc57-2735883856de	Clamato Mix	4	oz	5a531b4e-7d23-4f6d-b25f-4e031fe512b0
 67aa8aff-e671-4b94-bce5-1d9d142e817b	Caesar's Ghost	587e2d1c-e033-46e8-ba82-e1494e0671af	gin	1.5	oz	5a531b4e-7d23-4f6d-b25f-4e031fe512b0
 67aa8aff-e671-4b94-bce5-1d9d142e817b	Caesar's Ghost	e9adde8d-de6c-4621-ae87-abc25d123432	celery salt	1	sprinkle	5a531b4e-7d23-4f6d-b25f-4e031fe512b0
 67aa8aff-e671-4b94-bce5-1d9d142e817b	Caesar's Ghost	017212d7-29cc-4a60-ac6c-bb4e99a6088c	akvavit	0.5	oz	5a531b4e-7d23-4f6d-b25f-4e031fe512b0
@@ -648,7 +648,7 @@ e151c48f-7170-427c-94f0-3c63662aabed	Caipirinha	3f470b86-81e0-4bb9-8072-b6ae2b5e
 e151c48f-7170-427c-94f0-3c63662aabed	Caipirinha	fd5fa761-f23e-4bb2-b91c-279a20c8932e	cachaça	2	oz	7e3e3ca3-1b23-4da6-9810-c320f44be365
 e151c48f-7170-427c-94f0-3c63662aabed	Caipirinha	805371f1-a361-4fb2-8d9d-b5422deda60b	simple syrup	0.75	oz	7e3e3ca3-1b23-4da6-9810-c320f44be365
 e151c48f-7170-427c-94f0-3c63662aabed	Caipirinha	3e3bd2c1-3554-4419-a66a-fcef059af75a	lime	6		7e3e3ca3-1b23-4da6-9810-c320f44be365
-e151c48f-7170-427c-94f0-3c63662aabed	Caipirinha	61afda33-e664-410e-952c-2dcec9462d75	white sugar	1	Tbsp	77ac3ec2-f66c-44de-bb8b-1456e0f5343f
+e151c48f-7170-427c-94f0-3c63662aabed	Caipirinha	61afda33-e664-410e-952c-2dcec9462d75	white sugar	1	tbsp	77ac3ec2-f66c-44de-bb8b-1456e0f5343f
 e151c48f-7170-427c-94f0-3c63662aabed	Caipirinha	fd5fa761-f23e-4bb2-b91c-279a20c8932e	cachaça	2	oz	77ac3ec2-f66c-44de-bb8b-1456e0f5343f
 e151c48f-7170-427c-94f0-3c63662aabed	Caipirinha	3e3bd2c1-3554-4419-a66a-fcef059af75a	lime	1		77ac3ec2-f66c-44de-bb8b-1456e0f5343f
 e151c48f-7170-427c-94f0-3c63662aabed	Caipirinha	61afda33-e664-410e-952c-2dcec9462d75	white sugar	4	tsp	8add7d22-4d92-418d-9ff4-bf8824196d6a
@@ -685,8 +685,8 @@ f553a219-3130-4943-ae4b-fd14253748e2	Calva Dorsa Royale	a86ffbae-0870-44cf-a55a-
 12823179-7684-4f38-a59e-5934ecf5f2e2	Camp Council	edc9d478-7c19-458e-89ad-2847db72a711	pineapple juice	0.5	oz	b2877094-edee-48d7-84e2-2524abd4a07b
 fa8dc98a-53df-4661-8376-5dc63bb3753e	Campfire In Georgia	fcc38451-0c1e-438d-ac6c-5af13f16e056	orange juice	0.5	oz	42aac92d-3bc4-4ad0-8df4-33e571c4b137
 fa8dc98a-53df-4661-8376-5dc63bb3753e	Campfire In Georgia	a7a69bba-700d-41b1-a94f-52dfc321e965	joven mezcal	2	oz	42aac92d-3bc4-4ad0-8df4-33e571c4b137
-fa8dc98a-53df-4661-8376-5dc63bb3753e	Campfire In Georgia	d63448ae-7821-4afc-9c67-bf5acdd2619b	Campfire Shrub (has recipe)	0.5	oz	42aac92d-3bc4-4ad0-8df4-33e571c4b137
-fa8dc98a-53df-4661-8376-5dc63bb3753e	Campfire In Georgia	1b0a165e-0b09-426e-ba7c-57e09ec81e5a	Cinnamon French Oak (has recipe)	3	oz	42aac92d-3bc4-4ad0-8df4-33e571c4b137
+fa8dc98a-53df-4661-8376-5dc63bb3753e	Campfire In Georgia	d63448ae-7821-4afc-9c67-bf5acdd2619b	Campfire Shrub	0.5	oz	42aac92d-3bc4-4ad0-8df4-33e571c4b137
+fa8dc98a-53df-4661-8376-5dc63bb3753e	Campfire In Georgia	1b0a165e-0b09-426e-ba7c-57e09ec81e5a	Cinnamon French Oak	3	oz	42aac92d-3bc4-4ad0-8df4-33e571c4b137
 fa8dc98a-53df-4661-8376-5dc63bb3753e	Campfire In Georgia	3cffb550-7089-4cf5-95f4-6805ec737f2b	Angostura bitters	2	dashes	42aac92d-3bc4-4ad0-8df4-33e571c4b137
 bafc0b9f-bc05-4de8-a4be-8b19b6802d90	Canchanchara	4c0735b4-ac9c-45e6-8b26-1a89c12b53f3	Cuban aguardiente	60	ml	8b7791fc-433a-4509-8fed-3512ee852513
 bafc0b9f-bc05-4de8-a4be-8b19b6802d90	Canchanchara	b11c7b99-278a-4df7-94a0-625b46385c7a	honey	15	ml	8b7791fc-433a-4509-8fed-3512ee852513
@@ -755,7 +755,7 @@ eaed3a8e-d19a-4a7d-a5d1-0f00241de544	Center Of The Galaxy	ec478592-fc11-4311-8b8
 3cf0cb1c-d4bd-4ead-b34a-2bd1de43775d	Chamomile Sour	805371f1-a361-4fb2-8d9d-b5422deda60b	simple syrup	0.5	oz	3eac5cfa-7358-42d2-87d2-ecf08e93fc62
 3cf0cb1c-d4bd-4ead-b34a-2bd1de43775d	Chamomile Sour	d247bca4-e737-4dff-a807-955a79d99be7	Peychaud's bitters	1	dash	3eac5cfa-7358-42d2-87d2-ecf08e93fc62
 3cf0cb1c-d4bd-4ead-b34a-2bd1de43775d	Chamomile Sour	113ae4bf-96d0-4abc-82ce-2a50a442d966	egg white	1		3eac5cfa-7358-42d2-87d2-ecf08e93fc62
-3cf0cb1c-d4bd-4ead-b34a-2bd1de43775d	Chamomile Sour	0a782043-d67a-44a5-aadd-03c95931cbd5	chamomile Scotch (has recipe)	2	oz	3eac5cfa-7358-42d2-87d2-ecf08e93fc62
+3cf0cb1c-d4bd-4ead-b34a-2bd1de43775d	Chamomile Sour	0a782043-d67a-44a5-aadd-03c95931cbd5	chamomile Scotch	2	oz	3eac5cfa-7358-42d2-87d2-ecf08e93fc62
 3208eb3f-7e42-43e1-8c8d-dcaac24b99ab	Champagne Cocktail	0ba2af59-028e-443e-87fe-4cfc60e30d04	brut Champagne	5	oz	0b3ba707-b086-4602-adc9-5e9b89e82e9e
 3208eb3f-7e42-43e1-8c8d-dcaac24b99ab	Champagne Cocktail	cf5de226-11b1-40f9-b285-dbfe943ebc09	demerara sugar cube	1		0b3ba707-b086-4602-adc9-5e9b89e82e9e
 3208eb3f-7e42-43e1-8c8d-dcaac24b99ab	Champagne Cocktail	257d5b41-c3dc-4178-821d-5196a80f0dfb	cognac	0.75	oz	0b3ba707-b086-4602-adc9-5e9b89e82e9e
@@ -775,6 +775,10 @@ cc41d758-3e8e-42f1-b9dd-6ab15b0fd7f0	Champs-Élysées	354b4a5c-4df5-4ba3-af51-97
 cc41d758-3e8e-42f1-b9dd-6ab15b0fd7f0	Champs-Élysées	257d5b41-c3dc-4178-821d-5196a80f0dfb	cognac	2	oz	23944bac-9467-4bc0-9ad2-c425ee64b67a
 cc41d758-3e8e-42f1-b9dd-6ab15b0fd7f0	Champs-Élysées	7c6053c4-0156-48c3-9790-81c44e0123ab	lemon juice	1	oz	23944bac-9467-4bc0-9ad2-c425ee64b67a
 cc41d758-3e8e-42f1-b9dd-6ab15b0fd7f0	Champs-Élysées	3cffb550-7089-4cf5-95f4-6805ec737f2b	Angostura bitters	1	dash	23944bac-9467-4bc0-9ad2-c425ee64b67a
+cc41d758-3e8e-42f1-b9dd-6ab15b0fd7f0	Champs-Élysées	b4a2d3a3-b0b3-44fc-b260-a0cda70f6aa8	Yellow Chartreuse	0.5	oz	45e8884c-9692-45d7-b6bd-16ee76716306
+cc41d758-3e8e-42f1-b9dd-6ab15b0fd7f0	Champs-Élysées	257d5b41-c3dc-4178-821d-5196a80f0dfb	cognac	1.5	oz	45e8884c-9692-45d7-b6bd-16ee76716306
+cc41d758-3e8e-42f1-b9dd-6ab15b0fd7f0	Champs-Élysées	3cffb550-7089-4cf5-95f4-6805ec737f2b	Angostura bitters	1	dash	45e8884c-9692-45d7-b6bd-16ee76716306
+cc41d758-3e8e-42f1-b9dd-6ab15b0fd7f0	Champs-Élysées	7c6053c4-0156-48c3-9790-81c44e0123ab	lemon juice	0.5	oz	45e8884c-9692-45d7-b6bd-16ee76716306
 8d9ca059-2ea1-41cb-af3c-fd9ed25a41a7	Charleston Cocktail	c39ff8f5-1721-4ab0-b2ed-b662f5a7a0d8	sweet vermouth	0.5	oz	39c8e2a5-7da2-4679-9286-d0e429ee8af8
 8d9ca059-2ea1-41cb-af3c-fd9ed25a41a7	Charleston Cocktail	e798da2c-ea00-4772-82b2-2080857dea81	cherry brandy	0.5	oz	39c8e2a5-7da2-4679-9286-d0e429ee8af8
 8d9ca059-2ea1-41cb-af3c-fd9ed25a41a7	Charleston Cocktail	6881850f-51c9-4225-9bbc-fa777812b50d	maraschino liqueur	0.5	oz	39c8e2a5-7da2-4679-9286-d0e429ee8af8
@@ -979,16 +983,16 @@ bf7fde3f-c2e8-4741-be42-90336a97382e	Coralillo	b4a2d3a3-b0b3-44fc-b260-a0cda70f6
 bf7fde3f-c2e8-4741-be42-90336a97382e	Coralillo	37ccc0af-35b3-42e8-a0fd-563ef7d534c1	añejo tequila	1.5	oz	f9957b0d-9faf-4e1e-a899-bda86085ad44
 2e851fcd-925a-4c89-b7ee-992fccf8c03d	Corn 'N' Oil	b677399a-5ea6-4e40-a328-a360de3cd632	falernum	0.5	oz	4bc5f5f1-d354-4aca-8a95-2af64da27d49
 2e851fcd-925a-4c89-b7ee-992fccf8c03d	Corn 'N' Oil	cd8f442e-6326-4d8b-9679-091ebc12f5f1	blackstrap rum	1.5	oz	4bc5f5f1-d354-4aca-8a95-2af64da27d49
-031ab492-7d96-45ca-8de7-0389d7b3279a	Corn And Oil	d750e792-cc96-4d20-b6be-8f0ae9bacc73	blended aged Barbados rum	2	oz	6da3dce4-7f70-49ab-88d0-f26f4c03b962
-031ab492-7d96-45ca-8de7-0389d7b3279a	Corn And Oil	3cffb550-7089-4cf5-95f4-6805ec737f2b	Angostura bitters	3	dashes	6da3dce4-7f70-49ab-88d0-f26f4c03b962
-031ab492-7d96-45ca-8de7-0389d7b3279a	Corn And Oil	b677399a-5ea6-4e40-a328-a360de3cd632	falernum	0.5	oz	6da3dce4-7f70-49ab-88d0-f26f4c03b962
+2e851fcd-925a-4c89-b7ee-992fccf8c03d	Corn 'N' Oil	d750e792-cc96-4d20-b6be-8f0ae9bacc73	blended aged Barbados rum	2	oz	6da3dce4-7f70-49ab-88d0-f26f4c03b962
+2e851fcd-925a-4c89-b7ee-992fccf8c03d	Corn 'N' Oil	3cffb550-7089-4cf5-95f4-6805ec737f2b	Angostura bitters	3	dashes	6da3dce4-7f70-49ab-88d0-f26f4c03b962
+2e851fcd-925a-4c89-b7ee-992fccf8c03d	Corn 'N' Oil	b677399a-5ea6-4e40-a328-a360de3cd632	falernum	0.5	oz	6da3dce4-7f70-49ab-88d0-f26f4c03b962
 97e8e3cf-d823-4bb8-97ba-664f55a690f3	Corpse Reviver Co2	587e2d1c-e033-46e8-ba82-e1494e0671af	gin	2	oz	3c61ef29-6eb2-4360-a4d8-df89c6d2ce27
 97e8e3cf-d823-4bb8-97ba-664f55a690f3	Corpse Reviver Co2	f0f31f5c-f164-4e08-9f48-1cc3dc145c55	triple sec	1	oz	3c61ef29-6eb2-4360-a4d8-df89c6d2ce27
 97e8e3cf-d823-4bb8-97ba-664f55a690f3	Corpse Reviver Co2	85c41193-c77b-4065-812d-e4bd97d1f4c9	quinquina	1	oz	3c61ef29-6eb2-4360-a4d8-df89c6d2ce27
 97e8e3cf-d823-4bb8-97ba-664f55a690f3	Corpse Reviver Co2	1cb4019e-2f8f-4908-ad1d-6ce704c56ee6	absinthe	0.125	oz	3c61ef29-6eb2-4360-a4d8-df89c6d2ce27
 97e8e3cf-d823-4bb8-97ba-664f55a690f3	Corpse Reviver Co2	5dab2b90-8e09-49a7-a8d0-beb1d74220be	caffeine pill	200	mg	3c61ef29-6eb2-4360-a4d8-df89c6d2ce27
 97e8e3cf-d823-4bb8-97ba-664f55a690f3	Corpse Reviver Co2	a5aa2336-bf08-444b-a2eb-69eb433a5054	distilled water	2	oz	3c61ef29-6eb2-4360-a4d8-df89c6d2ce27
-97e8e3cf-d823-4bb8-97ba-664f55a690f3	Corpse Reviver Co2	7eb4c5c5-8cf6-45fc-a9d7-4170343fee9a	clarified lemon juice (has recipe)	0.75	oz	3c61ef29-6eb2-4360-a4d8-df89c6d2ce27
+97e8e3cf-d823-4bb8-97ba-664f55a690f3	Corpse Reviver Co2	7eb4c5c5-8cf6-45fc-a9d7-4170343fee9a	clarified lemon juice	0.75	oz	3c61ef29-6eb2-4360-a4d8-df89c6d2ce27
 0383b0cb-1a0e-4b6d-946d-e3acb0d9d407	Corpse Reviver No. 1	257d5b41-c3dc-4178-821d-5196a80f0dfb	cognac	1.5	oz	9b200cac-e7eb-465a-8e63-2c28598e8b92
 0383b0cb-1a0e-4b6d-946d-e3acb0d9d407	Corpse Reviver No. 1	c39ff8f5-1721-4ab0-b2ed-b662f5a7a0d8	sweet vermouth	1	oz	9b200cac-e7eb-465a-8e63-2c28598e8b92
 0383b0cb-1a0e-4b6d-946d-e3acb0d9d407	Corpse Reviver No. 1	3cffb550-7089-4cf5-95f4-6805ec737f2b	Angostura bitters	1	dash	9b200cac-e7eb-465a-8e63-2c28598e8b92
@@ -1051,7 +1055,7 @@ abf53504-75d5-4896-b9e9-cb410ac456d1	Creole Saz	3e76b4f5-4c46-4a72-85e4-f607b3fe
 abf53504-75d5-4896-b9e9-cb410ac456d1	Creole Saz	257d5b41-c3dc-4178-821d-5196a80f0dfb	cognac	0.5	oz	35a0c977-6f37-4e8e-a556-eb83c26dcc78
 abf53504-75d5-4896-b9e9-cb410ac456d1	Creole Saz	dd509253-f5c0-4a26-b007-41b9c5af2e1e	rhum agricole ambre	1.5	oz	35a0c977-6f37-4e8e-a556-eb83c26dcc78
 f2d06be9-2b9d-4d47-b904-1532c20ce9ab	Cuba Libre	bbe9c97a-e417-4922-80d8-ed0e757a5ca3	light Cuban-style rum	2	oz	73ead488-162c-4017-9fa5-02c04de0c2aa
-f2d06be9-2b9d-4d47-b904-1532c20ce9ab	Cuba Libre	9ac04a36-da65-4d90-9b18-f5fec4e8fce2	coke	4	oz 	73ead488-162c-4017-9fa5-02c04de0c2aa
+f2d06be9-2b9d-4d47-b904-1532c20ce9ab	Cuba Libre	9ac04a36-da65-4d90-9b18-f5fec4e8fce2	coke	4	oz	73ead488-162c-4017-9fa5-02c04de0c2aa
 f2d06be9-2b9d-4d47-b904-1532c20ce9ab	Cuba Libre	ec478592-fc11-4311-8b83-44b7bb78d9b4	lime juice	0.5	oz	73ead488-162c-4017-9fa5-02c04de0c2aa
 f2d06be9-2b9d-4d47-b904-1532c20ce9ab	Cuba Libre	04172f8a-6b70-4ec3-8dbb-90fe842833ad	light rum	50	ml	f8e5f70a-34ea-4d67-a129-23b520a87cce
 f2d06be9-2b9d-4d47-b904-1532c20ce9ab	Cuba Libre	cd8c7114-4327-487a-9de4-99963dff5538	cola	120	ml	f8e5f70a-34ea-4d67-a129-23b520a87cce
@@ -1063,7 +1067,7 @@ f2d06be9-2b9d-4d47-b904-1532c20ce9ab	Cuba Libre	ec478592-fc11-4311-8b83-44b7bb78
 436cedfa-4160-4119-b8d0-24766f7d192c	Cuba Libre Preparado	9ac04a36-da65-4d90-9b18-f5fec4e8fce2	coke	3	oz	1e24fe74-4d0e-4088-b17b-b0f978126922
 5ba887f2-304e-4e1f-8692-9ff715375b90	Cubed Old Fashioned	ccc07136-1120-4d00-94d0-eada7ff70089	aged rum	0.75	oz	1c261840-bace-4e50-b7b3-40e4a588b434
 5ba887f2-304e-4e1f-8692-9ff715375b90	Cubed Old Fashioned	257d5b41-c3dc-4178-821d-5196a80f0dfb	cognac	0.75	oz	1c261840-bace-4e50-b7b3-40e4a588b434
-5ba887f2-304e-4e1f-8692-9ff715375b90	Cubed Old Fashioned	867323cf-9fb5-416b-aa3c-1bab54b0da74	old fashioned syrup (has recipe)	0.25	oz	1c261840-bace-4e50-b7b3-40e4a588b434
+5ba887f2-304e-4e1f-8692-9ff715375b90	Cubed Old Fashioned	867323cf-9fb5-416b-aa3c-1bab54b0da74	old fashioned syrup	0.25	oz	1c261840-bace-4e50-b7b3-40e4a588b434
 5ba887f2-304e-4e1f-8692-9ff715375b90	Cubed Old Fashioned	97d1aa7c-e3ec-4a81-b6ed-806c76d0563c	aromatic bitters	1	dash	1c261840-bace-4e50-b7b3-40e4a588b434
 5ba887f2-304e-4e1f-8692-9ff715375b90	Cubed Old Fashioned	bbaa8f39-4532-4e65-8730-39bc714d5f94	orange bitters	1	dash	1c261840-bace-4e50-b7b3-40e4a588b434
 5ba887f2-304e-4e1f-8692-9ff715375b90	Cubed Old Fashioned	34f57119-2fcf-40c1-bc7e-a6f128d6250c	chocolate bitters	1	dash	1c261840-bace-4e50-b7b3-40e4a588b434
@@ -1092,7 +1096,7 @@ f5c9aec1-a113-4c14-9016-05312259efa9	Cynartown	4ee29fb2-478a-41e3-be3a-f145a947b
 f5c9aec1-a113-4c14-9016-05312259efa9	Cynartown	a2c8b22c-5e4a-4189-b1bb-0c2f1207ef9d	carciofo-style amaro	0.5	oz	336abb82-293b-4e8d-8b0b-48dd7ddc13bf
 f5c9aec1-a113-4c14-9016-05312259efa9	Cynartown	c39ff8f5-1721-4ab0-b2ed-b662f5a7a0d8	sweet vermouth	0.75	oz	336abb82-293b-4e8d-8b0b-48dd7ddc13bf
 a3151d06-8f2a-4531-919b-3386e69f57d4	D.C. Crack	100a5b6f-5688-404e-a4fc-000aa937de8d	rye whiskey	2	oz	1c7bc5e8-f891-4f26-8948-0db8b9abe060
-a3151d06-8f2a-4531-919b-3386e69f57d4	D.C. Crack	efaf380f-16b8-4dc8-8eed-c5cb7f805f95	Plum-Marionberry Shrub Mix (has recipe)	1	oz	1c7bc5e8-f891-4f26-8948-0db8b9abe060
+a3151d06-8f2a-4531-919b-3386e69f57d4	D.C. Crack	efaf380f-16b8-4dc8-8eed-c5cb7f805f95	Plum-Marionberry Shrub Mix	1	oz	1c7bc5e8-f891-4f26-8948-0db8b9abe060
 a3151d06-8f2a-4531-919b-3386e69f57d4	D.C. Crack	bde3cfbf-dd01-4aec-b37a-3bc4cca5df6a	soda water	1	oz	1c7bc5e8-f891-4f26-8948-0db8b9abe060
 a3151d06-8f2a-4531-919b-3386e69f57d4	D.C. Crack	3cffb550-7089-4cf5-95f4-6805ec737f2b	Angostura bitters	3	dashes	1c7bc5e8-f891-4f26-8948-0db8b9abe060
 17487caf-8613-420b-9b3d-b72d2ddac3e2	D.W.B.	ec478592-fc11-4311-8b83-44b7bb78d9b4	lime juice	0.75	oz	e63f8f83-545a-4b45-a5fa-cc27acfd53d1
@@ -1114,6 +1118,9 @@ a581da1f-0e3a-42ca-8afb-8682ceb58f18	Daiquiri	805371f1-a361-4fb2-8d9d-b5422deda6
 a581da1f-0e3a-42ca-8afb-8682ceb58f18	Daiquiri	bbe9c97a-e417-4922-80d8-ed0e757a5ca3	light Cuban-style rum	2	oz	6c2cb8d3-25ed-4929-9fb0-e3b6e2394db9
 a581da1f-0e3a-42ca-8afb-8682ceb58f18	Daiquiri	17e6ec52-ef92-45f5-bea2-2431c2db60a2	light blended rum	2	oz	6c2cb8d3-25ed-4929-9fb0-e3b6e2394db9
 a581da1f-0e3a-42ca-8afb-8682ceb58f18	Daiquiri	ec478592-fc11-4311-8b83-44b7bb78d9b4	lime juice	1	oz	6c2cb8d3-25ed-4929-9fb0-e3b6e2394db9
+a581da1f-0e3a-42ca-8afb-8682ceb58f18	Daiquiri	ec478592-fc11-4311-8b83-44b7bb78d9b4	lime juice	0.75	oz	eb44f3e2-9570-4704-8c98-6cc8b3a1b995
+a581da1f-0e3a-42ca-8afb-8682ceb58f18	Daiquiri	b1d50bac-d25d-4dc5-824e-cbc97cca2d66	demerara syrup	0.5	oz	eb44f3e2-9570-4704-8c98-6cc8b3a1b995
+a581da1f-0e3a-42ca-8afb-8682ceb58f18	Daiquiri	e41d9909-7ea1-4af3-a9c3-c6b415e47fd7	blended lightly aged rum	2	oz	eb44f3e2-9570-4704-8c98-6cc8b3a1b995
 a581da1f-0e3a-42ca-8afb-8682ceb58f18	Daiquiri	805371f1-a361-4fb2-8d9d-b5422deda60b	simple syrup	0.5	oz	874d7ad0-cc0c-4902-8162-6fa9fbbf26c7
 a581da1f-0e3a-42ca-8afb-8682ceb58f18	Daiquiri	ec478592-fc11-4311-8b83-44b7bb78d9b4	lime juice	0.75	oz	874d7ad0-cc0c-4902-8162-6fa9fbbf26c7
 a581da1f-0e3a-42ca-8afb-8682ceb58f18	Daiquiri	04172f8a-6b70-4ec3-8dbb-90fe842833ad	light rum	2	oz	874d7ad0-cc0c-4902-8162-6fa9fbbf26c7
@@ -1121,12 +1128,9 @@ a581da1f-0e3a-42ca-8afb-8682ceb58f18	Daiquiri	7f998fc4-3d2f-4f36-afec-10e6e08d2c
 a581da1f-0e3a-42ca-8afb-8682ceb58f18	Daiquiri	bbe9c97a-e417-4922-80d8-ed0e757a5ca3	light Cuban-style rum	60	ml	4df70f68-698b-4570-99be-aeb041254d5c
 a581da1f-0e3a-42ca-8afb-8682ceb58f18	Daiquiri	ec478592-fc11-4311-8b83-44b7bb78d9b4	lime juice	20	ml	4df70f68-698b-4570-99be-aeb041254d5c
 dfe39f31-1f86-446a-874e-03b7cc72438c	Daiquiri Frappé	ec478592-fc11-4311-8b83-44b7bb78d9b4	lime juice	0.75	oz	d6f5223c-0784-4e4c-87ed-ce61778bbec1
-dfe39f31-1f86-446a-874e-03b7cc72438c	Daiquiri Frappé	5db82b15-94e8-4b37-93ac-0d827532fcd0	cane sugar	1.5	Tbsp	d6f5223c-0784-4e4c-87ed-ce61778bbec1
+dfe39f31-1f86-446a-874e-03b7cc72438c	Daiquiri Frappé	5db82b15-94e8-4b37-93ac-0d827532fcd0	cane sugar	1.5	tbsp	d6f5223c-0784-4e4c-87ed-ce61778bbec1
 dfe39f31-1f86-446a-874e-03b7cc72438c	Daiquiri Frappé	3e3bd2c1-3554-4419-a66a-fcef059af75a	lime	0.25	tsp	d6f5223c-0784-4e4c-87ed-ce61778bbec1
 dfe39f31-1f86-446a-874e-03b7cc72438c	Daiquiri Frappé	bbe9c97a-e417-4922-80d8-ed0e757a5ca3	light Cuban-style rum	2	oz	d6f5223c-0784-4e4c-87ed-ce61778bbec1
-a5120001-3cfa-44d2-b553-4785f0403fdb	Daiquiri No. 1	ec478592-fc11-4311-8b83-44b7bb78d9b4	lime juice	0.75	oz	eb44f3e2-9570-4704-8c98-6cc8b3a1b995
-a5120001-3cfa-44d2-b553-4785f0403fdb	Daiquiri No. 1	b1d50bac-d25d-4dc5-824e-cbc97cca2d66	demerara syrup	0.5	oz	eb44f3e2-9570-4704-8c98-6cc8b3a1b995
-a5120001-3cfa-44d2-b553-4785f0403fdb	Daiquiri No. 1	e41d9909-7ea1-4af3-a9c3-c6b415e47fd7	blended lightly aged rum	2	oz	eb44f3e2-9570-4704-8c98-6cc8b3a1b995
 daee5695-e48a-40e1-88db-5fbab0794dca	Daisy Buchanan	cf68df71-6a42-457b-a839-bf35a6a3a470	light aperitivo amaro	0.5	oz	fbc3424e-0c1a-432f-bcf9-4e3f05617f8f
 daee5695-e48a-40e1-88db-5fbab0794dca	Daisy Buchanan	b4a2d3a3-b0b3-44fc-b260-a0cda70f6aa8	Yellow Chartreuse	0.25	oz	fbc3424e-0c1a-432f-bcf9-4e3f05617f8f
 daee5695-e48a-40e1-88db-5fbab0794dca	Daisy Buchanan	100a5b6f-5688-404e-a4fc-000aa937de8d	rye whiskey	2	oz	fbc3424e-0c1a-432f-bcf9-4e3f05617f8f
@@ -1256,13 +1260,6 @@ fe3d0562-a7ff-44dc-97cc-d51acba3b61a	Devil Inside	3e76b4f5-4c46-4a72-85e4-f607b3
 65dbc861-483c-43e1-a659-d022abc2271d	Doc's Dram	97d1aa7c-e3ec-4a81-b6ed-806c76d0563c	aromatic bitters	1	dash	fb815528-a048-4c3b-b150-f90f96f64111
 65dbc861-483c-43e1-a659-d022abc2271d	Doc's Dram	8808385f-1069-4854-a334-fb070684c005	old Tom gin	0.5	oz	fb815528-a048-4c3b-b150-f90f96f64111
 65dbc861-483c-43e1-a659-d022abc2271d	Doc's Dram	100a5b6f-5688-404e-a4fc-000aa937de8d	rye whiskey	1.5	oz	fb815528-a048-4c3b-b150-f90f96f64111
-89624498-630f-49cb-b046-5b17788d0dfe	Doctor Funk	197b6130-1914-435b-98ed-be9e060c0054	grenadine	0.25	oz	a35ac0c1-7625-41bb-9afd-143b766c0fd5
-89624498-630f-49cb-b046-5b17788d0dfe	Doctor Funk	8ba9b82e-a072-4497-9bbb-4dc71c137ca2	Herbsaint	0.25	oz	a35ac0c1-7625-41bb-9afd-143b766c0fd5
-89624498-630f-49cb-b046-5b17788d0dfe	Doctor Funk	ec478592-fc11-4311-8b83-44b7bb78d9b4	lime juice	0.5	oz	a35ac0c1-7625-41bb-9afd-143b766c0fd5
-89624498-630f-49cb-b046-5b17788d0dfe	Doctor Funk	fd688725-de8f-448c-837f-5e58cfedc19c	Black Pot Still Unaged Rum	2.25	oz	a35ac0c1-7625-41bb-9afd-143b766c0fd5
-89624498-630f-49cb-b046-5b17788d0dfe	Doctor Funk	bde3cfbf-dd01-4aec-b37a-3bc4cca5df6a	soda water	1	oz	a35ac0c1-7625-41bb-9afd-143b766c0fd5
-89624498-630f-49cb-b046-5b17788d0dfe	Doctor Funk	7c6053c4-0156-48c3-9790-81c44e0123ab	lemon juice	0.5	oz	a35ac0c1-7625-41bb-9afd-143b766c0fd5
-89624498-630f-49cb-b046-5b17788d0dfe	Doctor Funk	b1d50bac-d25d-4dc5-824e-cbc97cca2d66	demerara syrup	0.5	oz	a35ac0c1-7625-41bb-9afd-143b766c0fd5
 43ab4534-2a5d-4539-8f4a-e9e24dd5a26c	Dolemite	a2c8b22c-5e4a-4189-b1bb-0c2f1207ef9d	carciofo-style amaro	0.5	oz	8c8f62ff-413e-48ae-bc68-e1505b08041a
 43ab4534-2a5d-4539-8f4a-e9e24dd5a26c	Dolemite	9efa69a1-7732-4192-b09e-48ed9cbb3b96	crème de cacao	0.5	oz	8c8f62ff-413e-48ae-bc68-e1505b08041a
 43ab4534-2a5d-4539-8f4a-e9e24dd5a26c	Dolemite	100a5b6f-5688-404e-a4fc-000aa937de8d	rye whiskey	2	oz	8c8f62ff-413e-48ae-bc68-e1505b08041a
@@ -1330,6 +1327,13 @@ d9f5634a-ea8c-4572-b3a9-bc7694f39f41	Dont Sit Under The Apple	113ae4bf-96d0-4abc
 10cc492a-75e9-4e98-a39b-338d57712464	Dr. Funk	bde3cfbf-dd01-4aec-b37a-3bc4cca5df6a	soda water	1	oz	0c55161c-5871-4a70-a77d-dd38db874786
 10cc492a-75e9-4e98-a39b-338d57712464	Dr. Funk	1cb4019e-2f8f-4908-ad1d-6ce704c56ee6	absinthe	1	tsp	0c55161c-5871-4a70-a77d-dd38db874786
 10cc492a-75e9-4e98-a39b-338d57712464	Dr. Funk	bbe9c97a-e417-4922-80d8-ed0e757a5ca3	light Cuban-style rum	1.5	oz	0c55161c-5871-4a70-a77d-dd38db874786
+10cc492a-75e9-4e98-a39b-338d57712464	Dr. Funk	197b6130-1914-435b-98ed-be9e060c0054	grenadine	0.25	oz	a35ac0c1-7625-41bb-9afd-143b766c0fd5
+10cc492a-75e9-4e98-a39b-338d57712464	Dr. Funk	8ba9b82e-a072-4497-9bbb-4dc71c137ca2	Herbsaint	0.25	oz	a35ac0c1-7625-41bb-9afd-143b766c0fd5
+10cc492a-75e9-4e98-a39b-338d57712464	Dr. Funk	ec478592-fc11-4311-8b83-44b7bb78d9b4	lime juice	0.5	oz	a35ac0c1-7625-41bb-9afd-143b766c0fd5
+10cc492a-75e9-4e98-a39b-338d57712464	Dr. Funk	fd688725-de8f-448c-837f-5e58cfedc19c	Black Pot Still Unaged Rum	2.25	oz	a35ac0c1-7625-41bb-9afd-143b766c0fd5
+10cc492a-75e9-4e98-a39b-338d57712464	Dr. Funk	bde3cfbf-dd01-4aec-b37a-3bc4cca5df6a	soda water	1	oz	a35ac0c1-7625-41bb-9afd-143b766c0fd5
+10cc492a-75e9-4e98-a39b-338d57712464	Dr. Funk	7c6053c4-0156-48c3-9790-81c44e0123ab	lemon juice	0.5	oz	a35ac0c1-7625-41bb-9afd-143b766c0fd5
+10cc492a-75e9-4e98-a39b-338d57712464	Dr. Funk	b1d50bac-d25d-4dc5-824e-cbc97cca2d66	demerara syrup	0.5	oz	a35ac0c1-7625-41bb-9afd-143b766c0fd5
 d511a9fc-5ce4-4980-92a6-8f068048b736	Dragon Lily	0ba2af59-028e-443e-87fe-4cfc60e30d04	brut Champagne	4	oz	c30037be-dfcd-49b0-831e-f65fa11a7094
 d511a9fc-5ce4-4980-92a6-8f068048b736	Dragon Lily	82c3ed4b-229e-4ad5-a070-144dde74a71b	blanco tequila	1.5	oz	c30037be-dfcd-49b0-831e-f65fa11a7094
 d511a9fc-5ce4-4980-92a6-8f068048b736	Dragon Lily	d247bca4-e737-4dff-a807-955a79d99be7	Peychaud's bitters	1	dash	c30037be-dfcd-49b0-831e-f65fa11a7094
@@ -1547,7 +1551,7 @@ b1dd7a40-08ba-46a3-851a-16ad8fa57d3f	Fernandito	6c224e79-d0b7-4c39-a5a7-538728ef
 e2f27670-ceb7-4efb-8d7f-1e9b445b566c	Ferrari	6c224e79-d0b7-4c39-a5a7-538728efc584	fernet	1	oz	ad1557a6-3610-4036-96d1-324750a4c113
 e2f27670-ceb7-4efb-8d7f-1e9b445b566c	Ferrari	8d17f5a7-c5a9-4f06-9677-6f6fd0318764	strong aperitivo amaro	1	oz	ad1557a6-3610-4036-96d1-324750a4c113
 8138f626-4bdb-4dc2-87c9-8ebab78fca26	Fighattan	c39ff8f5-1721-4ab0-b2ed-b662f5a7a0d8	sweet vermouth	1	oz	b1fe2004-9303-430b-b7a0-a2f3266f88c8
-8138f626-4bdb-4dc2-87c9-8ebab78fca26	Fighattan	efecff2d-78ae-4c44-96a5-dfa5a7a05e09	fig bourbon (has recipe)	1	oz	b1fe2004-9303-430b-b7a0-a2f3266f88c8
+8138f626-4bdb-4dc2-87c9-8ebab78fca26	Fighattan	efecff2d-78ae-4c44-96a5-dfa5a7a05e09	fig bourbon	1	oz	b1fe2004-9303-430b-b7a0-a2f3266f88c8
 8138f626-4bdb-4dc2-87c9-8ebab78fca26	Fighattan	3cffb550-7089-4cf5-95f4-6805ec737f2b	Angostura bitters	4	dashes	b1fe2004-9303-430b-b7a0-a2f3266f88c8
 8138f626-4bdb-4dc2-87c9-8ebab78fca26	Fighattan	0d9300cf-2a14-4a23-845d-0db4c83961dc	cola-style amaro	0.5	oz	b1fe2004-9303-430b-b7a0-a2f3266f88c8
 8138f626-4bdb-4dc2-87c9-8ebab78fca26	Fighattan	97d1aa7c-e3ec-4a81-b6ed-806c76d0563c	aromatic bitters	4	dashes	b1fe2004-9303-430b-b7a0-a2f3266f88c8
@@ -1714,7 +1718,7 @@ b236b8b3-4181-4b7f-8418-665ce7bff35f	Frozen Tom Strawberry	da3bcc7d-58ea-4b21-aa
 ccaa72a5-3658-4e7b-a715-cf678522ce2a	Fruit Basket	04172f8a-6b70-4ec3-8dbb-90fe842833ad	light rum	1.5	oz	24df26e7-f91a-4774-810b-c0b99c456ab7
 ccaa72a5-3658-4e7b-a715-cf678522ce2a	Fruit Basket	0f745834-62d9-46cf-8228-1db529483fab	red food coloring	2	drops	24df26e7-f91a-4774-810b-c0b99c456ab7
 ccaa72a5-3658-4e7b-a715-cf678522ce2a	Fruit Basket	cf68df71-6a42-457b-a839-bf35a6a3a470	light aperitivo amaro	0.5	oz	24df26e7-f91a-4774-810b-c0b99c456ab7
-ccaa72a5-3658-4e7b-a715-cf678522ce2a	Fruit Basket	7eb4c5c5-8cf6-45fc-a9d7-4170343fee9a	clarified lemon juice (has recipe)	0.5	oz	24df26e7-f91a-4774-810b-c0b99c456ab7
+ccaa72a5-3658-4e7b-a715-cf678522ce2a	Fruit Basket	7eb4c5c5-8cf6-45fc-a9d7-4170343fee9a	clarified lemon juice	0.5	oz	24df26e7-f91a-4774-810b-c0b99c456ab7
 ccaa72a5-3658-4e7b-a715-cf678522ce2a	Fruit Basket	b18d91a5-e2b6-4b58-8a86-9c6973a30b9a	peach liqueur	0.25	oz	24df26e7-f91a-4774-810b-c0b99c456ab7
 ccaa72a5-3658-4e7b-a715-cf678522ce2a	Fruit Basket	d4819aba-66a0-485c-a0fc-51f1b0525078	strawberry liqueur	0.25	oz	24df26e7-f91a-4774-810b-c0b99c456ab7
 ccaa72a5-3658-4e7b-a715-cf678522ce2a	Fruit Basket	a5aa2336-bf08-444b-a2eb-69eb433a5054	distilled water	1	oz	24df26e7-f91a-4774-810b-c0b99c456ab7
@@ -1724,11 +1728,11 @@ ff840124-1567-4b02-bab9-1e683e3651d4	Garibaldi	8d17f5a7-c5a9-4f06-9677-6f6fd0318
 b25720ab-5e85-423f-8763-b241449cf65c	Gatsby	4c6ae965-39f5-44f2-8640-edecaebad74b	vodka	0.5	oz	822ee5d2-9818-4834-8cc9-876eb03ab29e
 b25720ab-5e85-423f-8763-b241449cf65c	Gatsby	b6181845-0ecd-499c-9855-dec6d6c720ca	Bénédictine	0.25	oz	822ee5d2-9818-4834-8cc9-876eb03ab29e
 b25720ab-5e85-423f-8763-b241449cf65c	Gatsby	c39ff8f5-1721-4ab0-b2ed-b662f5a7a0d8	sweet vermouth	1	oz	822ee5d2-9818-4834-8cc9-876eb03ab29e
-b25720ab-5e85-423f-8763-b241449cf65c	Gatsby	a33c1ee9-d3eb-49f8-9b12-21e1017e94ae	anise-flavored liqueur	0.25	oz	822ee5d2-9818-4834-8cc9-876eb03ab29e
+b25720ab-5e85-423f-8763-b241449cf65c	Gatsby	a33c1ee9-d3eb-49f8-9b12-21e1017e94ae	anise- and vanilla-flavored liqueur	0.25	oz	822ee5d2-9818-4834-8cc9-876eb03ab29e
 b25720ab-5e85-423f-8763-b241449cf65c	Gatsby	bbaa8f39-4532-4e65-8730-39bc714d5f94	orange bitters	2	dashes	822ee5d2-9818-4834-8cc9-876eb03ab29e
 b25720ab-5e85-423f-8763-b241449cf65c	Gatsby	a1d9a17a-125a-4db6-a069-390eea1f1465	dry vermouth	1	oz	822ee5d2-9818-4834-8cc9-876eb03ab29e
 6367b38d-88a5-4cca-a140-32024dfc9567	Georgia Julep	b18d91a5-e2b6-4b58-8a86-9c6973a30b9a	peach liqueur	2.5	oz	63603539-559f-4e67-a5f7-a61d79a6e9e5
-6367b38d-88a5-4cca-a140-32024dfc9567	Georgia Julep	fd9dc360-8d0f-4387-8bfd-7f4c61535c2e	rich demerara syrup	0.5	oz 	63603539-559f-4e67-a5f7-a61d79a6e9e5
+6367b38d-88a5-4cca-a140-32024dfc9567	Georgia Julep	fd9dc360-8d0f-4387-8bfd-7f4c61535c2e	rich demerara syrup	0.5	oz	63603539-559f-4e67-a5f7-a61d79a6e9e5
 6367b38d-88a5-4cca-a140-32024dfc9567	Georgia Julep	66948f17-58aa-4180-bf1b-d462478837f1	mint	8		63603539-559f-4e67-a5f7-a61d79a6e9e5
 68085319-860f-4f2f-925a-d0319a5f2f2b	Get Lucky	e2ce3461-33f1-463f-ab51-7c26949640f8	blackberry	3		b6dcd4de-be89-43b9-b6e8-c87d5acdc257
 68085319-860f-4f2f-925a-d0319a5f2f2b	Get Lucky	7cb21942-933a-41e6-90f4-18a9a87ab1fa	orgeat syrup	0.25	oz	b6dcd4de-be89-43b9-b6e8-c87d5acdc257
@@ -1793,14 +1797,14 @@ f7e5a900-fd7a-4d2e-8f81-95397e414f31	Godfather	e66fe626-abb0-4082-b47e-728c76d89
 7d5e1463-cbbd-4fa3-ba77-a69c23aa07a6	Gold Rush	55ca3629-1c79-4f6d-9a27-bd34d0201447	honey syrup	0.75	oz	5be7ee36-aa70-44fe-b73a-929401a32cc9
 c693a13d-f203-444b-90c5-5f90df6e0f89	Golden Beautiful	8d17f5a7-c5a9-4f06-9677-6f6fd0318764	strong aperitivo amaro	0.25	oz	15def5fe-232a-4c22-9861-f0294421491e
 c693a13d-f203-444b-90c5-5f90df6e0f89	Golden Beautiful	3f53c1a4-3885-4eee-b544-2077969704ea	vanilla syrup	0.5	oz	15def5fe-232a-4c22-9861-f0294421491e
-c693a13d-f203-444b-90c5-5f90df6e0f89	Golden Beautiful	8fee9fd9-e49f-46f0-a832-54fbaa232584	passion fruit syrup	0.2	5oz	15def5fe-232a-4c22-9861-f0294421491e
+c693a13d-f203-444b-90c5-5f90df6e0f89	Golden Beautiful	8fee9fd9-e49f-46f0-a832-54fbaa232584	passion fruit syrup	0.25	oz	15def5fe-232a-4c22-9861-f0294421491e
 c693a13d-f203-444b-90c5-5f90df6e0f89	Golden Beautiful	bde3cfbf-dd01-4aec-b37a-3bc4cca5df6a	soda water	0.5	oz	15def5fe-232a-4c22-9861-f0294421491e
 c693a13d-f203-444b-90c5-5f90df6e0f89	Golden Beautiful	0fa417ad-d982-4093-ad80-3d5018d1c6dc	reposado tequila	2	oz	15def5fe-232a-4c22-9861-f0294421491e
 c693a13d-f203-444b-90c5-5f90df6e0f89	Golden Beautiful	ec478592-fc11-4311-8b83-44b7bb78d9b4	lime juice	0.75	oz	15def5fe-232a-4c22-9861-f0294421491e
-d0485737-6e5b-4d2f-8c0f-961187adae27	Golden Cadillac	a33c1ee9-d3eb-49f8-9b12-21e1017e94ae	anise-flavored liqueur	1	oz	32ff9b55-1452-4161-8d8a-bd0c48ae3f4d
+d0485737-6e5b-4d2f-8c0f-961187adae27	Golden Cadillac	a33c1ee9-d3eb-49f8-9b12-21e1017e94ae	anise- and vanilla-flavored liqueur	1	oz	32ff9b55-1452-4161-8d8a-bd0c48ae3f4d
 d0485737-6e5b-4d2f-8c0f-961187adae27	Golden Cadillac	28e056db-5069-4f5f-810b-e52bf2f7f84f	heavy cream	1	oz	32ff9b55-1452-4161-8d8a-bd0c48ae3f4d
 d0485737-6e5b-4d2f-8c0f-961187adae27	Golden Cadillac	9efa69a1-7732-4192-b09e-48ed9cbb3b96	crème de cacao	1	oz	32ff9b55-1452-4161-8d8a-bd0c48ae3f4d
-99989cf4-27cd-4719-8095-974822a53faa	Golden Dream	a33c1ee9-d3eb-49f8-9b12-21e1017e94ae	anise-flavored liqueur	20	ml	7c749477-7721-44b7-a74b-bba6b1c4a87b
+99989cf4-27cd-4719-8095-974822a53faa	Golden Dream	a33c1ee9-d3eb-49f8-9b12-21e1017e94ae	anise- and vanilla-flavored liqueur	20	ml	7c749477-7721-44b7-a74b-bba6b1c4a87b
 99989cf4-27cd-4719-8095-974822a53faa	Golden Dream	fcc38451-0c1e-438d-ac6c-5af13f16e056	orange juice	20	ml	7c749477-7721-44b7-a74b-bba6b1c4a87b
 99989cf4-27cd-4719-8095-974822a53faa	Golden Dream	f917c9d2-8aeb-4641-8077-d43bd85f58b0	cream	10	ml	7c749477-7721-44b7-a74b-bba6b1c4a87b
 99989cf4-27cd-4719-8095-974822a53faa	Golden Dream	f0f31f5c-f164-4e08-9f48-1cc3dc145c55	triple sec	20	ml	7c749477-7721-44b7-a74b-bba6b1c4a87b
@@ -1878,9 +1882,9 @@ b81c36bb-a25a-4e09-9e15-ffa24528b703	Green Glacier	d3e4a405-652d-4b1a-bac4-ccdbe
 303ee945-7a2b-41cd-a2ff-c3cbeab4dbc0	Grouse Rampant	e66fe626-abb0-4082-b47e-728c76d89230	blended Scotch whisky	2	oz	679a2b84-e028-4a7e-a0fb-0a3dcea34bac
 b4e74c66-cfe7-4e0f-9f11-ab3ebd07eed3	Guillaume D'Orange	587e2d1c-e033-46e8-ba82-e1494e0671af	gin	2	oz	9de9aac1-7c2f-4c5b-b592-97c201918cce
 b4e74c66-cfe7-4e0f-9f11-ab3ebd07eed3	Guillaume D'Orange	85c41193-c77b-4065-812d-e4bd97d1f4c9	quinquina	0.5	oz	9de9aac1-7c2f-4c5b-b592-97c201918cce
-b4e74c66-cfe7-4e0f-9f11-ab3ebd07eed3	Guillaume D'Orange	22a2aef7-df49-43c0-aad3-037957794850	Amer Boudreau (has recipe)	0.75	oz	9de9aac1-7c2f-4c5b-b592-97c201918cce
+b4e74c66-cfe7-4e0f-9f11-ab3ebd07eed3	Guillaume D'Orange	22a2aef7-df49-43c0-aad3-037957794850	Amer Boudreau	0.75	oz	9de9aac1-7c2f-4c5b-b592-97c201918cce
 692972dc-3fa8-4f48-958a-9e992b5d3db9	Gunpowder And Smoke	4ee29fb2-478a-41e3-be3a-f145a947ba56	London Dry gin	2	oz	f07b7ce2-7428-4773-a202-c5e9294c3a72
-692972dc-3fa8-4f48-958a-9e992b5d3db9	Gunpowder And Smoke	10685734-d6ed-41e4-8cd2-c8af104ea2e5	gunpowder tea syrup (has recipe)	1	oz	f07b7ce2-7428-4773-a202-c5e9294c3a72
+692972dc-3fa8-4f48-958a-9e992b5d3db9	Gunpowder And Smoke	10685734-d6ed-41e4-8cd2-c8af104ea2e5	gunpowder tea syrup	1	oz	f07b7ce2-7428-4773-a202-c5e9294c3a72
 692972dc-3fa8-4f48-958a-9e992b5d3db9	Gunpowder And Smoke	113ae4bf-96d0-4abc-82ce-2a50a442d966	egg white	1		f07b7ce2-7428-4773-a202-c5e9294c3a72
 692972dc-3fa8-4f48-958a-9e992b5d3db9	Gunpowder And Smoke	20655061-73b1-4a15-8f91-03c1a8d6ae66	Islay single malt Scotch whisky	0.25	oz	f07b7ce2-7428-4773-a202-c5e9294c3a72
 692972dc-3fa8-4f48-958a-9e992b5d3db9	Gunpowder And Smoke	7c6053c4-0156-48c3-9790-81c44e0123ab	lemon juice	1	oz	f07b7ce2-7428-4773-a202-c5e9294c3a72
@@ -1946,7 +1950,7 @@ d6c748e6-bf33-46e4-be90-2614a2b06641	Hard Start	6c224e79-d0b7-4c39-a5a7-538728ef
 07525975-f8f7-449d-a8f8-5e32c274c500	Hardly Wallbanger	7c6053c4-0156-48c3-9790-81c44e0123ab	lemon juice	0.5	oz	6161a0e3-1ae6-4954-a8b0-b26f981cce25
 07525975-f8f7-449d-a8f8-5e32c274c500	Hardly Wallbanger	bde3cfbf-dd01-4aec-b37a-3bc4cca5df6a	soda water	2	oz	6161a0e3-1ae6-4954-a8b0-b26f981cce25
 07525975-f8f7-449d-a8f8-5e32c274c500	Hardly Wallbanger	4c6ae965-39f5-44f2-8640-edecaebad74b	vodka	1.5	oz	6161a0e3-1ae6-4954-a8b0-b26f981cce25
-07525975-f8f7-449d-a8f8-5e32c274c500	Hardly Wallbanger	a33c1ee9-d3eb-49f8-9b12-21e1017e94ae	anise-flavored liqueur	1	oz	6161a0e3-1ae6-4954-a8b0-b26f981cce25
+07525975-f8f7-449d-a8f8-5e32c274c500	Hardly Wallbanger	a33c1ee9-d3eb-49f8-9b12-21e1017e94ae	anise- and vanilla-flavored liqueur	1	oz	6161a0e3-1ae6-4954-a8b0-b26f981cce25
 07525975-f8f7-449d-a8f8-5e32c274c500	Hardly Wallbanger	fcc38451-0c1e-438d-ac6c-5af13f16e056	orange juice	2	oz	6161a0e3-1ae6-4954-a8b0-b26f981cce25
 07525975-f8f7-449d-a8f8-5e32c274c500	Hardly Wallbanger	3f53c1a4-3885-4eee-b544-2077969704ea	vanilla syrup	0.5	oz	6161a0e3-1ae6-4954-a8b0-b26f981cce25
 1bbcd50e-d519-4536-8026-88e07e79c1e1	Have At It	805371f1-a361-4fb2-8d9d-b5422deda60b	simple syrup	0.75	oz	f7f7f979-c856-4775-8b04-d6cbafb6dfc3
@@ -1994,7 +1998,7 @@ a5c7403b-30de-4870-b83d-c3133245c48f	Head Spin	82c3ed4b-229e-4ad5-a070-144dde74a
 5301eeca-2612-4277-b5d2-671f5e078fc0	High Street Cocktail	d247bca4-e737-4dff-a807-955a79d99be7	Peychaud's bitters	3	dashes	d19ac8e8-8bfe-49de-8181-95b82faeb7e1
 5301eeca-2612-4277-b5d2-671f5e078fc0	High Street Cocktail	140ff0dc-9201-43bb-a64b-d081e513ae08	blanc vermouth	0.5	oz	d19ac8e8-8bfe-49de-8181-95b82faeb7e1
 5301eeca-2612-4277-b5d2-671f5e078fc0	High Street Cocktail	e2e65987-947e-4f67-aa40-f13a268b42c0	crème de abricot	0.5	oz	d19ac8e8-8bfe-49de-8181-95b82faeb7e1
-5301eeca-2612-4277-b5d2-671f5e078fc0	High Street Cocktail	41660bda-01a3-4811-ba88-93a856fcf4b6	ascorbic acid solution (has recipe)	2	dashes	d19ac8e8-8bfe-49de-8181-95b82faeb7e1
+5301eeca-2612-4277-b5d2-671f5e078fc0	High Street Cocktail	41660bda-01a3-4811-ba88-93a856fcf4b6	ascorbic acid solution	2	dashes	d19ac8e8-8bfe-49de-8181-95b82faeb7e1
 5301eeca-2612-4277-b5d2-671f5e078fc0	High Street Cocktail	7c6053c4-0156-48c3-9790-81c44e0123ab	lemon juice	0.25	oz	d19ac8e8-8bfe-49de-8181-95b82faeb7e1
 d0f03ccf-faf2-4655-bcfc-6a82818d9edb	Hinky Dinks Fizzy	8fee9fd9-e49f-46f0-a832-54fbaa232584	passion fruit syrup	0.5	oz	16dfc6db-58c7-4171-a926-2a3fa2dbee36
 d0f03ccf-faf2-4655-bcfc-6a82818d9edb	Hinky Dinks Fizzy	32cf9978-deea-4fb2-81a8-ada1fce31a9e	apricot liqueur	0.5	oz	16dfc6db-58c7-4171-a926-2a3fa2dbee36
@@ -2075,7 +2079,7 @@ bd95f7d1-d6c2-44e8-be7a-2c8bf091d6cd	Horse's Neck	257d5b41-c3dc-4178-821d-5196a8
 2ad6299f-eba3-4ecb-b32b-816a2a80c254	Hot Buttered Rum	90e4e839-6619-42a6-82cc-ee6d9dd2766c	water	0.25	cup	140657df-ccbe-4c98-b80f-9c50aff7c5b2
 2ad6299f-eba3-4ecb-b32b-816a2a80c254	Hot Buttered Rum	56488bfd-b815-429b-b76c-d849bfb3dbcf	Ticaloid 210S	0.5	tsp	140657df-ccbe-4c98-b80f-9c50aff7c5b2
 2ad6299f-eba3-4ecb-b32b-816a2a80c254	Hot Buttered Rum	393281f6-de19-44a5-82b2-93afcf91373f	aged blended overproof rum	1.5	oz	140657df-ccbe-4c98-b80f-9c50aff7c5b2
-2ad6299f-eba3-4ecb-b32b-816a2a80c254	Hot Buttered Rum	e3e24d91-1d77-43f6-91a7-52248cffafb6	hot buttered rum batter	1	Tbsp	140657df-ccbe-4c98-b80f-9c50aff7c5b2
+2ad6299f-eba3-4ecb-b32b-816a2a80c254	Hot Buttered Rum	e3e24d91-1d77-43f6-91a7-52248cffafb6	hot buttered rum batter	1	tbsp	140657df-ccbe-4c98-b80f-9c50aff7c5b2
 2ad6299f-eba3-4ecb-b32b-816a2a80c254	Hot Buttered Rum	e3e24d91-1d77-43f6-91a7-52248cffafb6	hot buttered rum batter	3	barspoons	99f7f676-cbc0-46f3-b9d2-c2de49626308
 2ad6299f-eba3-4ecb-b32b-816a2a80c254	Hot Buttered Rum	90e4e839-6619-42a6-82cc-ee6d9dd2766c	water	6	oz	99f7f676-cbc0-46f3-b9d2-c2de49626308
 2ad6299f-eba3-4ecb-b32b-816a2a80c254	Hot Buttered Rum	dd6cc30e-f651-4aff-a01a-0a3f525e0694	aged blended rum	1.5	oz	99f7f676-cbc0-46f3-b9d2-c2de49626308
@@ -2198,7 +2202,7 @@ c59ed2a5-02e3-477f-981c-424c0453a184	Italian Buck	ec478592-fc11-4311-8b83-44b7bb
 c59ed2a5-02e3-477f-981c-424c0453a184	Italian Buck	a2c8b22c-5e4a-4189-b1bb-0c2f1207ef9d	carciofo-style amaro	1	oz	9797e3a2-fcc1-449d-9373-bcaf4b139fd2
 c59ed2a5-02e3-477f-981c-424c0453a184	Italian Buck	91702c4b-1899-4822-8e74-ea8b00f5a855	ginger beer	3	oz	9797e3a2-fcc1-449d-9373-bcaf4b139fd2
 456dd575-2f34-48a8-a5fd-446c8bbef568	Italian Spritz	cf68df71-6a42-457b-a839-bf35a6a3a470	light aperitivo amaro	1	oz	21423b90-30cc-44c0-9a96-f14a84bc4a23
-456dd575-2f34-48a8-a5fd-446c8bbef568	Italian Spritz	a33c1ee9-d3eb-49f8-9b12-21e1017e94ae	anise-flavored liqueur	0.5	oz	21423b90-30cc-44c0-9a96-f14a84bc4a23
+456dd575-2f34-48a8-a5fd-446c8bbef568	Italian Spritz	a33c1ee9-d3eb-49f8-9b12-21e1017e94ae	anise- and vanilla-flavored liqueur	0.5	oz	21423b90-30cc-44c0-9a96-f14a84bc4a23
 456dd575-2f34-48a8-a5fd-446c8bbef568	Italian Spritz	14377b19-7a50-4891-bbba-78d498488d30	prosecco	3	oz	21423b90-30cc-44c0-9a96-f14a84bc4a23
 a955398b-efec-4b08-b6f0-245914065abf	Jack & Coke	bf071db0-ba2d-4b69-bf42-9908c068cfbc	Tennessee whiskey	2	oz	17430a52-593c-4cdb-bac8-69b49be835c8
 a955398b-efec-4b08-b6f0-245914065abf	Jack & Coke	9ac04a36-da65-4d90-9b18-f5fec4e8fce2	coke	4	oz	17430a52-593c-4cdb-bac8-69b49be835c8
@@ -2400,8 +2404,8 @@ d33a9402-2d71-4432-9d6c-c03b1d95bc7e	Kew Gardens Cooler	839d91ea-0e08-4560-bdf5-
 9b3a16e8-a38d-4f9d-a17f-0b62c900151f	Key Party	354b4a5c-4df5-4ba3-af51-9768720c1a84	Green Chartreuse	0.25	oz	ce9e8c6a-5fbb-4e4e-b4e3-f3d69f0e9769
 9b3a16e8-a38d-4f9d-a17f-0b62c900151f	Key Party	85c41193-c77b-4065-812d-e4bd97d1f4c9	quinquina	0.5	oz	ce9e8c6a-5fbb-4e4e-b4e3-f3d69f0e9769
 f08d7736-40db-4ac7-bbba-c551c0216325	Khaleesi Cocktail	dcab1cb5-cfee-436f-9f13-110626d64277	sweet amaro	1	oz	60ef655f-fa2d-402b-a079-36e271737759
-f08d7736-40db-4ac7-bbba-c551c0216325	Khaleesi Cocktail	41660bda-01a3-4811-ba88-93a856fcf4b6	ascorbic acid solution (has recipe)	0.25	tsp	60ef655f-fa2d-402b-a079-36e271737759
-f08d7736-40db-4ac7-bbba-c551c0216325	Khaleesi Cocktail	189177d0-17cc-4d5e-91ce-ae909d1b86fa	Dragon's Blood Tea (has recipe)	0.25	tsp	60ef655f-fa2d-402b-a079-36e271737759
+f08d7736-40db-4ac7-bbba-c551c0216325	Khaleesi Cocktail	41660bda-01a3-4811-ba88-93a856fcf4b6	ascorbic acid solution	0.25	tsp	60ef655f-fa2d-402b-a079-36e271737759
+f08d7736-40db-4ac7-bbba-c551c0216325	Khaleesi Cocktail	189177d0-17cc-4d5e-91ce-ae909d1b86fa	Dragon's Blood Tea	0.25	tsp	60ef655f-fa2d-402b-a079-36e271737759
 f08d7736-40db-4ac7-bbba-c551c0216325	Khaleesi Cocktail	ba1769a1-c8cd-49cc-b7a1-bffd802f6d7c	vino-style amaro	1	oz	60ef655f-fa2d-402b-a079-36e271737759
 f08d7736-40db-4ac7-bbba-c551c0216325	Khaleesi Cocktail	3cffb550-7089-4cf5-95f4-6805ec737f2b	Angostura bitters	3	dashes	60ef655f-fa2d-402b-a079-36e271737759
 f08d7736-40db-4ac7-bbba-c551c0216325	Khaleesi Cocktail	39772c5c-54c1-4786-8e62-90a38b28bc82	crème de fraise	0.5	oz	60ef655f-fa2d-402b-a079-36e271737759
@@ -2475,10 +2479,6 @@ b4b0944c-0378-42ae-b0f5-282b7bba840e	La Guildive	e0996af4-048a-4f48-8839-c22fc16
 b4b0944c-0378-42ae-b0f5-282b7bba840e	La Guildive	c819ff47-e960-45f3-a7a0-7be55b2cc2be	cinnamon	1	pinch	1074e49d-58fe-49fc-b93b-ee5e3de05aa1
 b4b0944c-0378-42ae-b0f5-282b7bba840e	La Guildive	91702c4b-1899-4822-8e74-ea8b00f5a855	ginger beer	1	oz	1074e49d-58fe-49fc-b93b-ee5e3de05aa1
 b4b0944c-0378-42ae-b0f5-282b7bba840e	La Guildive	dd6cc30e-f651-4aff-a01a-0a3f525e0694	aged blended rum	2	oz	1074e49d-58fe-49fc-b93b-ee5e3de05aa1
-e8e7c7f9-1dea-41dd-a8ed-0fe174748d67	La Paloma	bb51de06-262e-420f-b23d-34a77118bde4	grapefruit soda	4	oz	054f1fe8-a078-4677-87fa-fc7fc8ae7b4e
-e8e7c7f9-1dea-41dd-a8ed-0fe174748d67	La Paloma	82c3ed4b-229e-4ad5-a070-144dde74a71b	blanco tequila	2	oz	054f1fe8-a078-4677-87fa-fc7fc8ae7b4e
-e8e7c7f9-1dea-41dd-a8ed-0fe174748d67	La Paloma	ec478592-fc11-4311-8b83-44b7bb78d9b4	lime juice	0.5	oz	054f1fe8-a078-4677-87fa-fc7fc8ae7b4e
-e8e7c7f9-1dea-41dd-a8ed-0fe174748d67	La Paloma	c9745bd4-4c27-4e85-9d9e-1b86c6f0879c	kosher salt	1	pinch	054f1fe8-a078-4677-87fa-fc7fc8ae7b4e
 a451a2f1-9820-40a6-b14b-f76c45401234	La Rosita	97d1aa7c-e3ec-4a81-b6ed-806c76d0563c	aromatic bitters	1	dash	3043a1c6-c83e-46b0-9362-0c26079b0acc
 a451a2f1-9820-40a6-b14b-f76c45401234	La Rosita	c39ff8f5-1721-4ab0-b2ed-b662f5a7a0d8	sweet vermouth	0.5	oz	3043a1c6-c83e-46b0-9362-0c26079b0acc
 a451a2f1-9820-40a6-b14b-f76c45401234	La Rosita	8d17f5a7-c5a9-4f06-9677-6f6fd0318764	strong aperitivo amaro	0.5	oz	3043a1c6-c83e-46b0-9362-0c26079b0acc
@@ -2520,7 +2520,7 @@ ef92f54d-ef15-4c40-8b80-937ab88d8e71	Last Word	6881850f-51c9-4225-9bbc-fa777812b
 ef92f54d-ef15-4c40-8b80-937ab88d8e71	Last Word	ec478592-fc11-4311-8b83-44b7bb78d9b4	lime juice	22.5	ml	971a2349-f35f-4985-8d18-cc732e57da6c
 95cfa8fa-c9ed-4e34-b230-216d0bf711b5	Last Word Float	587e2d1c-e033-46e8-ba82-e1494e0671af	gin	1	oz	49f26318-4ff0-402d-9a74-5e278095caeb
 95cfa8fa-c9ed-4e34-b230-216d0bf711b5	Last Word Float	3e842d79-3b61-48b5-8a4e-5c65ffda194c	lime soda	4	oz	49f26318-4ff0-402d-9a74-5e278095caeb
-95cfa8fa-c9ed-4e34-b230-216d0bf711b5	Last Word Float	1ae0d554-067a-4680-bf1c-424f9d9fed9a	Green Chartreuse ice cream (has recipe)	1	scoop	49f26318-4ff0-402d-9a74-5e278095caeb
+95cfa8fa-c9ed-4e34-b230-216d0bf711b5	Last Word Float	b9790d79-6a72-49d1-b302-536968cfdd24	Chartreuse ice cream	1	scoop	49f26318-4ff0-402d-9a74-5e278095caeb
 95cfa8fa-c9ed-4e34-b230-216d0bf711b5	Last Word Float	6881850f-51c9-4225-9bbc-fa777812b50d	maraschino liqueur	0.25	oz	49f26318-4ff0-402d-9a74-5e278095caeb
 fdb47374-ea4b-4146-973c-ff8bcd3e70fe	Latin Quarter	3e76b4f5-4c46-4a72-85e4-f607b3fe3204	lemon	1		7c0dbc68-e8d9-4965-81f0-198c9ba18da3
 fdb47374-ea4b-4146-973c-ff8bcd3e70fe	Latin Quarter	34f57119-2fcf-40c1-bc7e-a6f128d6250c	chocolate bitters	1	dash	7c0dbc68-e8d9-4965-81f0-198c9ba18da3
@@ -2569,9 +2569,9 @@ ae92c8dc-3817-43c3-ac16-5b4915f21b53	Lemon Drop	8d5256e4-c7fb-4036-be0a-04c9abc6
 ae92c8dc-3817-43c3-ac16-5b4915f21b53	Lemon Drop	7c6053c4-0156-48c3-9790-81c44e0123ab	lemon juice	1	oz	5ed6a7e2-7478-4bfe-80f0-db140f027ac9
 ae92c8dc-3817-43c3-ac16-5b4915f21b53	Lemon Drop	805371f1-a361-4fb2-8d9d-b5422deda60b	simple syrup	1	oz	5ed6a7e2-7478-4bfe-80f0-db140f027ac9
 ae92c8dc-3817-43c3-ac16-5b4915f21b53	Lemon Drop	4c6ae965-39f5-44f2-8640-edecaebad74b	vodka	1.5	oz	5ed6a7e2-7478-4bfe-80f0-db140f027ac9
-4b825319-5768-47fd-8702-7f081558b018	Lemon Drop Martini	f0f31f5c-f164-4e08-9f48-1cc3dc145c55	triple sec	20	ml	7526dab1-2257-4f69-bc08-ab7c1f99388f
-4b825319-5768-47fd-8702-7f081558b018	Lemon Drop Martini	b30ddb47-d27a-4019-801e-73ef9b2a1331	vodka citron	30	ml	7526dab1-2257-4f69-bc08-ab7c1f99388f
-4b825319-5768-47fd-8702-7f081558b018	Lemon Drop Martini	7c6053c4-0156-48c3-9790-81c44e0123ab	lemon juice	15	ml	7526dab1-2257-4f69-bc08-ab7c1f99388f
+ae92c8dc-3817-43c3-ac16-5b4915f21b53	Lemon Drop	f0f31f5c-f164-4e08-9f48-1cc3dc145c55	triple sec	20	ml	7526dab1-2257-4f69-bc08-ab7c1f99388f
+ae92c8dc-3817-43c3-ac16-5b4915f21b53	Lemon Drop	b30ddb47-d27a-4019-801e-73ef9b2a1331	vodka citron	30	ml	7526dab1-2257-4f69-bc08-ab7c1f99388f
+ae92c8dc-3817-43c3-ac16-5b4915f21b53	Lemon Drop	7c6053c4-0156-48c3-9790-81c44e0123ab	lemon juice	15	ml	7526dab1-2257-4f69-bc08-ab7c1f99388f
 3732b591-2f75-47da-8a70-2fc4d74f9c20	Les Verts Monts	7f998fc4-3d2f-4f36-afec-10e6e08d2c72	calvados	0.75	oz	abf76d0c-5750-4b8b-ab02-0e4474faee86
 3732b591-2f75-47da-8a70-2fc4d74f9c20	Les Verts Monts	257d5b41-c3dc-4178-821d-5196a80f0dfb	cognac	0.75	oz	abf76d0c-5750-4b8b-ab02-0e4474faee86
 3732b591-2f75-47da-8a70-2fc4d74f9c20	Les Verts Monts	3e76b4f5-4c46-4a72-85e4-f607b3fe3204	lemon	1		abf76d0c-5750-4b8b-ab02-0e4474faee86
@@ -2583,7 +2583,7 @@ ae92c8dc-3817-43c3-ac16-5b4915f21b53	Lemon Drop	4c6ae965-39f5-44f2-8640-edecaeba
 d06d94d3-082d-4c7c-8b30-855f75b2e649	Liberal Cocktail	c39ff8f5-1721-4ab0-b2ed-b662f5a7a0d8	sweet vermouth	1	oz	f9e49387-0698-4735-9a63-3753ee4f887a
 d06d94d3-082d-4c7c-8b30-855f75b2e649	Liberal Cocktail	100a5b6f-5688-404e-a4fc-000aa937de8d	rye whiskey	2	oz	f9e49387-0698-4735-9a63-3753ee4f887a
 d06d94d3-082d-4c7c-8b30-855f75b2e649	Liberal Cocktail	bbaa8f39-4532-4e65-8730-39bc714d5f94	orange bitters	4	dashes	f9e49387-0698-4735-9a63-3753ee4f887a
-d06d94d3-082d-4c7c-8b30-855f75b2e649	Liberal Cocktail	22a2aef7-df49-43c0-aad3-037957794850	Amer Boudreau (has recipe)	0.5	oz	f9e49387-0698-4735-9a63-3753ee4f887a
+d06d94d3-082d-4c7c-8b30-855f75b2e649	Liberal Cocktail	22a2aef7-df49-43c0-aad3-037957794850	Amer Boudreau	0.5	oz	f9e49387-0698-4735-9a63-3753ee4f887a
 f7dfd70d-976f-4e42-aa0a-cb7d80accc92	Light And Day	fcc38451-0c1e-438d-ac6c-5af13f16e056	orange juice	0.25	oz	a035e2b9-6561-4a52-831a-09885013fdbe
 f7dfd70d-976f-4e42-aa0a-cb7d80accc92	Light And Day	b4a2d3a3-b0b3-44fc-b260-a0cda70f6aa8	Yellow Chartreuse	0.5	oz	a035e2b9-6561-4a52-831a-09885013fdbe
 f7dfd70d-976f-4e42-aa0a-cb7d80accc92	Light And Day	6881850f-51c9-4225-9bbc-fa777812b50d	maraschino liqueur	0.25	oz	a035e2b9-6561-4a52-831a-09885013fdbe
@@ -2696,7 +2696,7 @@ faacf1ad-c7de-4321-9536-65022d7b0922	Mad Bills To Pay	cf68df71-6a42-457b-a839-bf
 faacf1ad-c7de-4321-9536-65022d7b0922	Mad Bills To Pay	587e2d1c-e033-46e8-ba82-e1494e0671af	gin	1.5	oz	f000f46c-e506-4629-bc8d-9da695b82a01
 faacf1ad-c7de-4321-9536-65022d7b0922	Mad Bills To Pay	d247bca4-e737-4dff-a807-955a79d99be7	Peychaud's bitters	4	dashes	f000f46c-e506-4629-bc8d-9da695b82a01
 faacf1ad-c7de-4321-9536-65022d7b0922	Mad Bills To Pay	7c6053c4-0156-48c3-9790-81c44e0123ab	lemon juice	0.5	oz	f000f46c-e506-4629-bc8d-9da695b82a01
-faacf1ad-c7de-4321-9536-65022d7b0922	Mad Bills To Pay	d8384552-19c4-4ebe-a4ea-5cbafb44572d	apple-coriander beer syrup (has recipe)	0.5	oz	f000f46c-e506-4629-bc8d-9da695b82a01
+faacf1ad-c7de-4321-9536-65022d7b0922	Mad Bills To Pay	d8384552-19c4-4ebe-a4ea-5cbafb44572d	apple-coriander beer syrup	0.5	oz	f000f46c-e506-4629-bc8d-9da695b82a01
 1ef77b0b-711e-47f9-8522-04fbe0a4a41f	Maggie Smith	e41d9909-7ea1-4af3-a9c3-c6b415e47fd7	blended lightly aged rum	1	oz	d2ca0888-ab71-4845-8c6a-9227e16faf58
 1ef77b0b-711e-47f9-8522-04fbe0a4a41f	Maggie Smith	7cb21942-933a-41e6-90f4-18a9a87ab1fa	orgeat syrup	0.25	oz	d2ca0888-ab71-4845-8c6a-9227e16faf58
 1ef77b0b-711e-47f9-8522-04fbe0a4a41f	Maggie Smith	8d5256e4-c7fb-4036-be0a-04c9abc644da	orange liqueur	0.5	oz	d2ca0888-ab71-4845-8c6a-9227e16faf58
@@ -2730,7 +2730,7 @@ faacf1ad-c7de-4321-9536-65022d7b0922	Mad Bills To Pay	d8384552-19c4-4ebe-a4ea-5c
 7db14e58-6134-4b75-9c2a-7238e563527d	Mai Tai	84a4bfda-4d21-49fc-a46d-e953bec4d674	aged Jamaican rum	30	ml	a4a00ba8-0d72-4316-84d7-a9e7f69d055c
 7db14e58-6134-4b75-9c2a-7238e563527d	Mai Tai	7cb21942-933a-41e6-90f4-18a9a87ab1fa	orgeat syrup	15	ml	a4a00ba8-0d72-4316-84d7-a9e7f69d055c
 7db14e58-6134-4b75-9c2a-7238e563527d	Mai Tai	7b4cf430-0c7d-435e-a888-4313ee6d11e5	aged Martinique rum	30	ml	a4a00ba8-0d72-4316-84d7-a9e7f69d055c
-dac1b733-fb00-425f-bbe8-2e9b06aff213	Mainland	a33c1ee9-d3eb-49f8-9b12-21e1017e94ae	anise-flavored liqueur	0.5	oz	f4639d06-9385-4f41-a230-2b376bfec5a9
+dac1b733-fb00-425f-bbe8-2e9b06aff213	Mainland	a33c1ee9-d3eb-49f8-9b12-21e1017e94ae	anise- and vanilla-flavored liqueur	0.5	oz	f4639d06-9385-4f41-a230-2b376bfec5a9
 dac1b733-fb00-425f-bbe8-2e9b06aff213	Mainland	1fb39412-f3a8-4b6e-b135-abd190e610b0	grapefruit	2		f4639d06-9385-4f41-a230-2b376bfec5a9
 dac1b733-fb00-425f-bbe8-2e9b06aff213	Mainland	805371f1-a361-4fb2-8d9d-b5422deda60b	simple syrup	1	tsp	f4639d06-9385-4f41-a230-2b376bfec5a9
 dac1b733-fb00-425f-bbe8-2e9b06aff213	Mainland	97d1aa7c-e3ec-4a81-b6ed-806c76d0563c	aromatic bitters	1	dash	f4639d06-9385-4f41-a230-2b376bfec5a9
@@ -2863,7 +2863,7 @@ f42617d5-3476-40ae-b08e-58d9b0d73e01	Meridian Daiquiri	b45a6f10-333a-4c61-86bd-3
 2aa71233-1389-4c89-b21c-a30326dfd6c7	Mexican Firing Squad	82c3ed4b-229e-4ad5-a070-144dde74a71b	blanco tequila	1.5	oz	566cad19-354c-4871-abab-8c2035565da3
 ff540a27-7564-4efb-a9a3-f987cdc52b5c	Mexican Hot Chocolate	28e056db-5069-4f5f-810b-e52bf2f7f84f	heavy cream	1	oz	bee38d54-f2e1-419a-b9cc-4e12d3dfb8ff
 ff540a27-7564-4efb-a9a3-f987cdc52b5c	Mexican Hot Chocolate	354b4a5c-4df5-4ba3-af51-9768720c1a84	Green Chartreuse	0.25	tsp	bee38d54-f2e1-419a-b9cc-4e12d3dfb8ff
-ff540a27-7564-4efb-a9a3-f987cdc52b5c	Mexican Hot Chocolate	f71a6cc1-6af3-4d0f-88a3-5eef53b1f262	Mexican Chocolate Ganache	2	Tbsp	bee38d54-f2e1-419a-b9cc-4e12d3dfb8ff
+ff540a27-7564-4efb-a9a3-f987cdc52b5c	Mexican Hot Chocolate	f71a6cc1-6af3-4d0f-88a3-5eef53b1f262	Mexican Chocolate Ganache	2	tbsp	bee38d54-f2e1-419a-b9cc-4e12d3dfb8ff
 ff540a27-7564-4efb-a9a3-f987cdc52b5c	Mexican Hot Chocolate	8d5256e4-c7fb-4036-be0a-04c9abc644da	orange liqueur	0.5	tsp	bee38d54-f2e1-419a-b9cc-4e12d3dfb8ff
 ff540a27-7564-4efb-a9a3-f987cdc52b5c	Mexican Hot Chocolate	90e4e839-6619-42a6-82cc-ee6d9dd2766c	water	0.25	cup	bee38d54-f2e1-419a-b9cc-4e12d3dfb8ff
 ff540a27-7564-4efb-a9a3-f987cdc52b5c	Mexican Hot Chocolate	37ccc0af-35b3-42e8-a0fd-563ef7d534c1	añejo tequila	1.5	oz	bee38d54-f2e1-419a-b9cc-4e12d3dfb8ff
@@ -2911,7 +2911,7 @@ c527e0dd-d657-4cd9-8001-3c286525c6d9	Milk 'N' Cookies	28e056db-5069-4f5f-810b-e5
 9b603a7d-b6fa-4ead-9325-825cffde50db	Milk Punch	55ca3629-1c79-4f6d-9a27-bd34d0201447	honey syrup	0.25	oz	b110d0a8-83a4-416e-b734-1e4fa2cf4a0c
 9b603a7d-b6fa-4ead-9325-825cffde50db	Milk Punch	463c2b68-5821-49c4-9678-ddd299b40ffd	bourbon whiskey	1	oz	b110d0a8-83a4-416e-b734-1e4fa2cf4a0c
 9b603a7d-b6fa-4ead-9325-825cffde50db	Milk Punch	257d5b41-c3dc-4178-821d-5196a80f0dfb	cognac	1	oz	b110d0a8-83a4-416e-b734-1e4fa2cf4a0c
-9b603a7d-b6fa-4ead-9325-825cffde50db	Milk Punch	e1d9a714-621f-4b9a-bada-d39505766eb0	Breakfast Cream (has recipe)	2	oz	b110d0a8-83a4-416e-b734-1e4fa2cf4a0c
+9b603a7d-b6fa-4ead-9325-825cffde50db	Milk Punch	e1d9a714-621f-4b9a-bada-d39505766eb0	Breakfast Cream	2	oz	b110d0a8-83a4-416e-b734-1e4fa2cf4a0c
 072eae4e-5fd1-4535-bffe-ab535aba6389	Millionaire Cocktail No. 1	ec478592-fc11-4311-8b83-44b7bb78d9b4	lime juice	0.75	oz	e02db46c-fab6-4f68-9cc4-b921ccca7d8f
 072eae4e-5fd1-4535-bffe-ab535aba6389	Millionaire Cocktail No. 1	39006563-374a-4552-81dc-5681f36910b9	black pot still rum	0.75	oz	e02db46c-fab6-4f68-9cc4-b921ccca7d8f
 072eae4e-5fd1-4535-bffe-ab535aba6389	Millionaire Cocktail No. 1	197b6130-1914-435b-98ed-be9e060c0054	grenadine	1	dash	e02db46c-fab6-4f68-9cc4-b921ccca7d8f
@@ -2923,7 +2923,7 @@ fc053ea7-637d-456f-aace-50c0388061fc	Mimosa	14377b19-7a50-4891-bbba-78d498488d30
 71f90040-607f-41b6-ae09-6998fee68ef2	Mint Julep	805371f1-a361-4fb2-8d9d-b5422deda60b	simple syrup	0.25	oz	02e9810c-645c-4e95-84fa-0421d9e6c4b0
 71f90040-607f-41b6-ae09-6998fee68ef2	Mint Julep	463c2b68-5821-49c4-9678-ddd299b40ffd	bourbon whiskey	2	oz	02e9810c-645c-4e95-84fa-0421d9e6c4b0
 71f90040-607f-41b6-ae09-6998fee68ef2	Mint Julep	66948f17-58aa-4180-bf1b-d462478837f1	mint	8		f1948129-e789-4011-9253-156bdc782d83
-71f90040-607f-41b6-ae09-6998fee68ef2	Mint Julep	fd9dc360-8d0f-4387-8bfd-7f4c61535c2e	rich demerara syrup	0.5	oz 	f1948129-e789-4011-9253-156bdc782d83
+71f90040-607f-41b6-ae09-6998fee68ef2	Mint Julep	fd9dc360-8d0f-4387-8bfd-7f4c61535c2e	rich demerara syrup	0.5	oz	f1948129-e789-4011-9253-156bdc782d83
 71f90040-607f-41b6-ae09-6998fee68ef2	Mint Julep	463c2b68-5821-49c4-9678-ddd299b40ffd	bourbon whiskey	2.5	oz	f1948129-e789-4011-9253-156bdc782d83
 71f90040-607f-41b6-ae09-6998fee68ef2	Mint Julep	92dbf6db-ff69-4dfd-adbe-f146954ec13c	powdered sugar	1	tsp	dcffbc13-279d-4424-bdee-087d523154e0
 71f90040-607f-41b6-ae09-6998fee68ef2	Mint Julep	66948f17-58aa-4180-bf1b-d462478837f1	mint	4		dcffbc13-279d-4424-bdee-087d523154e0
@@ -2979,7 +2979,7 @@ b64c10e8-1c92-4bc3-9e67-5a59d0384270	Monte Carlo	53ff6824-ab7e-4ca8-9105-ceefdb6
 7d9ecd16-b6ae-4ff7-b958-88481dd83c84	Moon Cocktail	c894c06b-e9c7-4a02-88e4-5332b430f92d	crème de peche	1	tsp	985248a7-8ac2-4637-9bce-9b3c2ce3e2a8
 7d9ecd16-b6ae-4ff7-b958-88481dd83c84	Moon Cocktail	3e76b4f5-4c46-4a72-85e4-f607b3fe3204	lemon	1		985248a7-8ac2-4637-9bce-9b3c2ce3e2a8
 d2729920-ed49-40a8-b802-03efd45a2292	Morfeo	0ba2af59-028e-443e-87fe-4cfc60e30d04	brut Champagne	4	oz	77d7a9ed-981b-4044-b1d9-25068e6f1a81
-d2729920-ed49-40a8-b802-03efd45a2292	Morfeo	a33c1ee9-d3eb-49f8-9b12-21e1017e94ae	anise-flavored liqueur	0.25	oz	77d7a9ed-981b-4044-b1d9-25068e6f1a81
+d2729920-ed49-40a8-b802-03efd45a2292	Morfeo	a33c1ee9-d3eb-49f8-9b12-21e1017e94ae	anise- and vanilla-flavored liqueur	0.25	oz	77d7a9ed-981b-4044-b1d9-25068e6f1a81
 d2729920-ed49-40a8-b802-03efd45a2292	Morfeo	7c6053c4-0156-48c3-9790-81c44e0123ab	lemon juice	0.75	oz	77d7a9ed-981b-4044-b1d9-25068e6f1a81
 d2729920-ed49-40a8-b802-03efd45a2292	Morfeo	d1f89ffc-cd86-4195-bf86-0cac7e96040c	acacia honey syrup	0.5	oz	77d7a9ed-981b-4044-b1d9-25068e6f1a81
 d2729920-ed49-40a8-b802-03efd45a2292	Morfeo	100a5b6f-5688-404e-a4fc-000aa937de8d	rye whiskey	1.5	oz	77d7a9ed-981b-4044-b1d9-25068e6f1a81
@@ -3032,7 +3032,7 @@ b0571394-6ca8-4331-ba6b-05a0eedddf0a	Mother's Ruin Punch	3f470b86-81e0-4bb9-8072
 b0571394-6ca8-4331-ba6b-05a0eedddf0a	Mother's Ruin Punch	0ba2af59-028e-443e-87fe-4cfc60e30d04	brut Champagne	3	oz	e03eaea3-d415-4717-b20b-0b0f650db7a1
 4cec1f4e-5afa-4c61-b8b9-ab6d157fd895	Movie Night Float	3cffb550-7089-4cf5-95f4-6805ec737f2b	Angostura bitters	0.5	oz	683db458-5fa4-4954-9185-9fbfafd93187
 4cec1f4e-5afa-4c61-b8b9-ab6d157fd895	Movie Night Float	463c2b68-5821-49c4-9678-ddd299b40ffd	bourbon whiskey	1.5	oz	683db458-5fa4-4954-9185-9fbfafd93187
-4cec1f4e-5afa-4c61-b8b9-ab6d157fd895	Movie Night Float	88084a40-0ae5-4975-9279-ef4f5889d105	popcorn ice cream (has recipe)	1	scoop	683db458-5fa4-4954-9185-9fbfafd93187
+4cec1f4e-5afa-4c61-b8b9-ab6d157fd895	Movie Night Float	88084a40-0ae5-4975-9279-ef4f5889d105	popcorn ice cream	1	scoop	683db458-5fa4-4954-9185-9fbfafd93187
 4cec1f4e-5afa-4c61-b8b9-ab6d157fd895	Movie Night Float	5ddb9e8a-91f3-4bfa-9ba0-7bf63544e93a	root beer	4	oz	683db458-5fa4-4954-9185-9fbfafd93187
 e19acf93-4b8f-4c11-a76e-1a41ded7a890	Moxie Bird	85c41193-c77b-4065-812d-e4bd97d1f4c9	quinquina	0.5	oz	934facd6-af81-4712-9f75-6d2d743ecb36
 e19acf93-4b8f-4c11-a76e-1a41ded7a890	Moxie Bird	bbaa8f39-4532-4e65-8730-39bc714d5f94	orange bitters	2	dashes	934facd6-af81-4712-9f75-6d2d743ecb36
@@ -3237,14 +3237,14 @@ e4b8ed00-7429-46ee-90eb-078e5591cc01	Oaxaca Old Fashioned	0fcfad66-a013-4657-8b6
 2eb700e3-fd1e-45c5-8333-8b6db9748310	Old Fashioned	e245172a-caa0-4540-92e3-2b2b117f16b6	overproof rye whiskey	2	oz	76cd7d69-8007-44c8-823a-4f50c35fbd0a
 2eb700e3-fd1e-45c5-8333-8b6db9748310	Old Fashioned	fd9dc360-8d0f-4387-8bfd-7f4c61535c2e	rich demerara syrup	1	tsp	76cd7d69-8007-44c8-823a-4f50c35fbd0a
 2eb700e3-fd1e-45c5-8333-8b6db9748310	Old Fashioned	3cffb550-7089-4cf5-95f4-6805ec737f2b	Angostura bitters	3	dashes	76cd7d69-8007-44c8-823a-4f50c35fbd0a
+2eb700e3-fd1e-45c5-8333-8b6db9748310	Old Fashioned	805371f1-a361-4fb2-8d9d-b5422deda60b	simple syrup	0.25	oz	17e519ab-361a-4222-b18b-7cbfb45d399f
+2eb700e3-fd1e-45c5-8333-8b6db9748310	Old Fashioned	6fa0d3a9-c4e0-4434-92c0-176434a12d70	Distilled Spirits	2	oz	17e519ab-361a-4222-b18b-7cbfb45d399f
+2eb700e3-fd1e-45c5-8333-8b6db9748310	Old Fashioned	09cfd702-7103-405f-b9e0-303ef0209df4	Bitters	2	dashes	17e519ab-361a-4222-b18b-7cbfb45d399f
 2eb700e3-fd1e-45c5-8333-8b6db9748310	Old Fashioned	100a5b6f-5688-404e-a4fc-000aa937de8d	rye whiskey	45	ml	cfe2920d-f43e-449f-9d70-3fe2fad61902
 2eb700e3-fd1e-45c5-8333-8b6db9748310	Old Fashioned	47e7d05a-1b40-443b-b885-64feae68e6b6	sugar cube	1		cfe2920d-f43e-449f-9d70-3fe2fad61902
 2eb700e3-fd1e-45c5-8333-8b6db9748310	Old Fashioned	463c2b68-5821-49c4-9678-ddd299b40ffd	bourbon whiskey	45	ml	cfe2920d-f43e-449f-9d70-3fe2fad61902
 2eb700e3-fd1e-45c5-8333-8b6db9748310	Old Fashioned	90e4e839-6619-42a6-82cc-ee6d9dd2766c	water	3	dashes	cfe2920d-f43e-449f-9d70-3fe2fad61902
 2eb700e3-fd1e-45c5-8333-8b6db9748310	Old Fashioned	3cffb550-7089-4cf5-95f4-6805ec737f2b	Angostura bitters	3	dashes	cfe2920d-f43e-449f-9d70-3fe2fad61902
-d61ea045-5176-442d-b3cb-a76240fb9e1a	Old Fashioned Cocktail	805371f1-a361-4fb2-8d9d-b5422deda60b	simple syrup	0.25	oz	17e519ab-361a-4222-b18b-7cbfb45d399f
-d61ea045-5176-442d-b3cb-a76240fb9e1a	Old Fashioned Cocktail	6fa0d3a9-c4e0-4434-92c0-176434a12d70	Distilled Spirits	2	oz	17e519ab-361a-4222-b18b-7cbfb45d399f
-d61ea045-5176-442d-b3cb-a76240fb9e1a	Old Fashioned Cocktail	09cfd702-7103-405f-b9e0-303ef0209df4	Bitters	2	dashes	17e519ab-361a-4222-b18b-7cbfb45d399f
 f1ab4dc7-4ff8-4146-8ed6-7cb445a3dfd6	Old Ironsides	c39ff8f5-1721-4ab0-b2ed-b662f5a7a0d8	sweet vermouth	1	oz	058eb2db-152b-4ccf-ac46-dfe5dc9cc3d0
 f1ab4dc7-4ff8-4146-8ed6-7cb445a3dfd6	Old Ironsides	cd8f442e-6326-4d8b-9679-091ebc12f5f1	blackstrap rum	0.5	oz	058eb2db-152b-4ccf-ac46-dfe5dc9cc3d0
 f1ab4dc7-4ff8-4146-8ed6-7cb445a3dfd6	Old Ironsides	97d1aa7c-e3ec-4a81-b6ed-806c76d0563c	aromatic bitters	1	dash	058eb2db-152b-4ccf-ac46-dfe5dc9cc3d0
@@ -3303,7 +3303,7 @@ a7fa86d2-a211-4733-9475-3c1f7196dfeb	Paddy Melt	100a5b6f-5688-404e-a4fc-000aa937
 43ea7102-b9c6-4480-a543-b4b3f79159d0	Painkiller	dd6cc30e-f651-4aff-a01a-0a3f525e0694	aged blended rum	2	oz	f3e04dd9-7a4b-4444-8b11-299efa5347f4
 43ea7102-b9c6-4480-a543-b4b3f79159d0	Painkiller	fcc38451-0c1e-438d-ac6c-5af13f16e056	orange juice	1	oz	f3e04dd9-7a4b-4444-8b11-299efa5347f4
 de416f64-4aeb-4b68-83b9-fbee4061c6b5	Palmetto	dc2d9e70-a3e7-4748-84e8-f02e4bf7d124	aged Cuban-style rum	1	oz	75292674-69ef-413d-8775-1fd2bb1b45f1
-de416f64-4aeb-4b68-83b9-fbee4061c6b5	Palmetto	84a4bfda-4d21-49fc-a46d-e953bec4d674	aged Jamaican rum	1	oz 	75292674-69ef-413d-8775-1fd2bb1b45f1
+de416f64-4aeb-4b68-83b9-fbee4061c6b5	Palmetto	84a4bfda-4d21-49fc-a46d-e953bec4d674	aged Jamaican rum	1	oz	75292674-69ef-413d-8775-1fd2bb1b45f1
 de416f64-4aeb-4b68-83b9-fbee4061c6b5	Palmetto	3cffb550-7089-4cf5-95f4-6805ec737f2b	Angostura bitters	2	dashes	75292674-69ef-413d-8775-1fd2bb1b45f1
 de416f64-4aeb-4b68-83b9-fbee4061c6b5	Palmetto	c39ff8f5-1721-4ab0-b2ed-b662f5a7a0d8	sweet vermouth	1	oz	75292674-69ef-413d-8775-1fd2bb1b45f1
 02c68090-6bb1-409a-806e-af55d36599cc	Paloma	82c3ed4b-229e-4ad5-a070-144dde74a71b	blanco tequila	2	oz	3d96cd78-89d1-47bb-9a66-49c9d4b936c3
@@ -3312,6 +3312,13 @@ de416f64-4aeb-4b68-83b9-fbee4061c6b5	Palmetto	c39ff8f5-1721-4ab0-b2ed-b662f5a7a0
 02c68090-6bb1-409a-806e-af55d36599cc	Paloma	bb51de06-262e-420f-b23d-34a77118bde4	grapefruit soda	4	oz	3d96cd78-89d1-47bb-9a66-49c9d4b936c3
 02c68090-6bb1-409a-806e-af55d36599cc	Paloma	3e3bd2c1-3554-4419-a66a-fcef059af75a	lime	0.5	oz	3d96cd78-89d1-47bb-9a66-49c9d4b936c3
 02c68090-6bb1-409a-806e-af55d36599cc	Paloma	805371f1-a361-4fb2-8d9d-b5422deda60b	simple syrup	0.5	oz	3d96cd78-89d1-47bb-9a66-49c9d4b936c3
+02c68090-6bb1-409a-806e-af55d36599cc	Paloma	bb51de06-262e-420f-b23d-34a77118bde4	grapefruit soda	4	oz	054f1fe8-a078-4677-87fa-fc7fc8ae7b4e
+02c68090-6bb1-409a-806e-af55d36599cc	Paloma	82c3ed4b-229e-4ad5-a070-144dde74a71b	blanco tequila	2	oz	054f1fe8-a078-4677-87fa-fc7fc8ae7b4e
+02c68090-6bb1-409a-806e-af55d36599cc	Paloma	ec478592-fc11-4311-8b83-44b7bb78d9b4	lime juice	0.5	oz	054f1fe8-a078-4677-87fa-fc7fc8ae7b4e
+02c68090-6bb1-409a-806e-af55d36599cc	Paloma	c9745bd4-4c27-4e85-9d9e-1b86c6f0879c	kosher salt	1	pinch	054f1fe8-a078-4677-87fa-fc7fc8ae7b4e
+02c68090-6bb1-409a-806e-af55d36599cc	Paloma	ec478592-fc11-4311-8b83-44b7bb78d9b4	lime juice	0.5	oz	f46601cc-602e-4013-a007-5f2608e5f335
+02c68090-6bb1-409a-806e-af55d36599cc	Paloma	bb51de06-262e-420f-b23d-34a77118bde4	grapefruit soda	3	oz	f46601cc-602e-4013-a007-5f2608e5f335
+02c68090-6bb1-409a-806e-af55d36599cc	Paloma	82c3ed4b-229e-4ad5-a070-144dde74a71b	blanco tequila	2	oz	f46601cc-602e-4013-a007-5f2608e5f335
 02c68090-6bb1-409a-806e-af55d36599cc	Paloma	ec478592-fc11-4311-8b83-44b7bb78d9b4	lime juice	5	ml	72dc9745-2e1d-40c8-af0c-fcc08ab8b537
 02c68090-6bb1-409a-806e-af55d36599cc	Paloma	d3290be5-e9f7-4945-a939-a03616460cc0	tequila	50	ml	72dc9745-2e1d-40c8-af0c-fcc08ab8b537
 02c68090-6bb1-409a-806e-af55d36599cc	Paloma	bb51de06-262e-420f-b23d-34a77118bde4	grapefruit soda	100	ml	72dc9745-2e1d-40c8-af0c-fcc08ab8b537
@@ -3577,7 +3584,7 @@ aa374155-7952-414d-a2f3-1a224cb6b0da	Poire Man's Cobbler	1349f99f-d7f6-4412-bd5c
 37199f05-1270-47dc-9e3a-b93b40739244	Pontarlier En Printemps	b968233b-f0b7-4945-ab26-77bffb3249df	Cyprus sea salt	1	pinch	6b872c61-1e35-4624-b3de-2eb0e4eeeb7e
 37199f05-1270-47dc-9e3a-b93b40739244	Pontarlier En Printemps	82c3ed4b-229e-4ad5-a070-144dde74a71b	blanco tequila	1.5	oz	6b872c61-1e35-4624-b3de-2eb0e4eeeb7e
 37199f05-1270-47dc-9e3a-b93b40739244	Pontarlier En Printemps	0831ab65-a3ce-4e04-a572-ef84e1ac6499	dry sparkling wine	2	oz	6b872c61-1e35-4624-b3de-2eb0e4eeeb7e
-37199f05-1270-47dc-9e3a-b93b40739244	Pontarlier En Printemps	8ebc73a9-ee48-4d1c-a70f-92649dedd25c	Watermelon Mix (has recipe)	0.75	oz	6b872c61-1e35-4624-b3de-2eb0e4eeeb7e
+37199f05-1270-47dc-9e3a-b93b40739244	Pontarlier En Printemps	8ebc73a9-ee48-4d1c-a70f-92649dedd25c	Watermelon Mix	0.75	oz	6b872c61-1e35-4624-b3de-2eb0e4eeeb7e
 37199f05-1270-47dc-9e3a-b93b40739244	Pontarlier En Printemps	1cb4019e-2f8f-4908-ad1d-6ce704c56ee6	absinthe	0.25	oz	6b872c61-1e35-4624-b3de-2eb0e4eeeb7e
 83cab9e7-99c7-4eca-9c85-3b83dc9d8cb0	Porfirian Punch	bde3cfbf-dd01-4aec-b37a-3bc4cca5df6a	soda water	9	oz	d9101399-8efc-4ebb-b8aa-8846ea434174
 83cab9e7-99c7-4eca-9c85-3b83dc9d8cb0	Porfirian Punch	82c3ed4b-229e-4ad5-a070-144dde74a71b	blanco tequila	6	oz	d9101399-8efc-4ebb-b8aa-8846ea434174
@@ -3617,7 +3624,7 @@ ef94b9ba-c8ff-4d12-92d4-ea703123804c	Port Royal	200a6ed5-97a9-4b12-af29-fe224ced
 ef94b9ba-c8ff-4d12-92d4-ea703123804c	Port Royal	e41d9909-7ea1-4af3-a9c3-c6b415e47fd7	blended lightly aged rum	1.5	oz	50c25080-0604-4abc-b454-adf2932e17c7
 ef94b9ba-c8ff-4d12-92d4-ea703123804c	Port Royal	aa35f359-e71e-495c-a4dd-0d637b50211b	hellfire tincture	5	drops	50c25080-0604-4abc-b454-adf2932e17c7
 ef94b9ba-c8ff-4d12-92d4-ea703123804c	Port Royal	b8abcddd-c299-49be-aeb1-f439a6a29fbf	jerk syrup	0.75	oz	50c25080-0604-4abc-b454-adf2932e17c7
-3fd6921f-ffc9-43a3-9a3c-dd2cc4ad556d	Porto Flip	ed154737-eab2-4647-93c1-1f97f1c0132a	tawny port	45	45	8981aafb-c19e-401a-b45c-62be16188f38
+3fd6921f-ffc9-43a3-9a3c-dd2cc4ad556d	Porto Flip	ed154737-eab2-4647-93c1-1f97f1c0132a	tawny port	45	ml	8981aafb-c19e-401a-b45c-62be16188f38
 3fd6921f-ffc9-43a3-9a3c-dd2cc4ad556d	Porto Flip	ac483c44-207d-4e61-9cb2-7ffefdf202ab	egg yolk	10	ml	8981aafb-c19e-401a-b45c-62be16188f38
 3fd6921f-ffc9-43a3-9a3c-dd2cc4ad556d	Porto Flip	1344e17b-fd13-4768-8c6b-93fbb96296e2	brandy	15	ml	8981aafb-c19e-401a-b45c-62be16188f38
 35d7940e-f699-45a6-ae85-ae99b6964d0f	Preakness	c39ff8f5-1721-4ab0-b2ed-b662f5a7a0d8	sweet vermouth	0.75	oz	0ab444ba-1791-49a1-96a1-7c7363410f1a
@@ -3645,7 +3652,7 @@ b4f2b864-1783-481d-b803-30052724e7bc	Prima China	e523335f-0255-4d44-a6ce-291a724
 b4f2b864-1783-481d-b803-30052724e7bc	Prima China	37ccc0af-35b3-42e8-a0fd-563ef7d534c1	añejo tequila	2	oz	b8691cff-9347-4733-9bb7-f49b70a32ecf
 0fd37774-4e30-4f65-b0ec-ead2c5c8d1cb	Puck's Garden	00a9afc9-6ffc-4c69-b703-a8f0d1522b7c	strawberry	10		7c25006d-592c-4680-9323-dd4a3dd718d4
 0fd37774-4e30-4f65-b0ec-ead2c5c8d1cb	Puck's Garden	b94ad7bf-3e8d-4474-b280-963a7413b470	pisco	7.5	oz	7c25006d-592c-4680-9323-dd4a3dd718d4
-0fd37774-4e30-4f65-b0ec-ead2c5c8d1cb	Puck's Garden	41660bda-01a3-4811-ba88-93a856fcf4b6	ascorbic acid solution (has recipe)	1	tsp	7c25006d-592c-4680-9323-dd4a3dd718d4
+0fd37774-4e30-4f65-b0ec-ead2c5c8d1cb	Puck's Garden	41660bda-01a3-4811-ba88-93a856fcf4b6	ascorbic acid solution	1	tsp	7c25006d-592c-4680-9323-dd4a3dd718d4
 0fd37774-4e30-4f65-b0ec-ead2c5c8d1cb	Puck's Garden	a5aa2336-bf08-444b-a2eb-69eb433a5054	distilled water	4	oz	7c25006d-592c-4680-9323-dd4a3dd718d4
 0fd37774-4e30-4f65-b0ec-ead2c5c8d1cb	Puck's Garden	805371f1-a361-4fb2-8d9d-b5422deda60b	simple syrup	2	oz	7c25006d-592c-4680-9323-dd4a3dd718d4
 0fd37774-4e30-4f65-b0ec-ead2c5c8d1cb	Puck's Garden	66948f17-58aa-4180-bf1b-d462478837f1	mint	15		7c25006d-592c-4680-9323-dd4a3dd718d4
@@ -3824,7 +3831,7 @@ caa97f5b-8843-4c24-9f47-6b2285a924b4	Remember The Alamo	8424febe-96a5-4a84-96e7-
 f828c200-53db-4155-81e2-884eb2a1b693	Reverse Margarita	ec478592-fc11-4311-8b83-44b7bb78d9b4	lime juice	0.75	oz	40e85fcb-0c23-40d4-ac8b-a1019cbfed5a
 f828c200-53db-4155-81e2-884eb2a1b693	Reverse Margarita	0fa417ad-d982-4093-ad80-3d5018d1c6dc	reposado tequila	0.75	oz	40e85fcb-0c23-40d4-ac8b-a1019cbfed5a
 f828c200-53db-4155-81e2-884eb2a1b693	Reverse Margarita	8d5256e4-c7fb-4036-be0a-04c9abc644da	orange liqueur	1.5	oz	40e85fcb-0c23-40d4-ac8b-a1019cbfed5a
-035d0311-0d56-474c-95eb-8e54bd4d58dd	Rha Rha (Sis Boom Bah)	197dd9eb-8a17-49b7-9610-d8a13973dc09	rhubarb shrub (has recipe)	0.75	oz	1ae28388-88b1-4f82-9f6f-27c9347d64d2
+035d0311-0d56-474c-95eb-8e54bd4d58dd	Rha Rha (Sis Boom Bah)	197dd9eb-8a17-49b7-9610-d8a13973dc09	rhubarb shrub	0.75	oz	1ae28388-88b1-4f82-9f6f-27c9347d64d2
 035d0311-0d56-474c-95eb-8e54bd4d58dd	Rha Rha (Sis Boom Bah)	0ba2af59-028e-443e-87fe-4cfc60e30d04	brut Champagne	2	oz	1ae28388-88b1-4f82-9f6f-27c9347d64d2
 035d0311-0d56-474c-95eb-8e54bd4d58dd	Rha Rha (Sis Boom Bah)	04172f8a-6b70-4ec3-8dbb-90fe842833ad	light rum	1.5	oz	1ae28388-88b1-4f82-9f6f-27c9347d64d2
 19c965a6-e702-41b3-812e-c8ca5cf7ebd7	Richard Sealebach	8d5256e4-c7fb-4036-be0a-04c9abc644da	orange liqueur	0.5	oz	28545651-310c-42ad-9483-44d8030291a1
@@ -4136,6 +4143,9 @@ a9564b73-e0ab-422e-aa1c-a7b51c08c0c8	Sidecar	da3bcc7d-58ea-4b21-aab4-3a5aee2efc3
 a9564b73-e0ab-422e-aa1c-a7b51c08c0c8	Sidecar	8d5256e4-c7fb-4036-be0a-04c9abc644da	orange liqueur	1	oz	31e4c985-e1d4-462b-834f-6ca2218f4307
 a9564b73-e0ab-422e-aa1c-a7b51c08c0c8	Sidecar	257d5b41-c3dc-4178-821d-5196a80f0dfb	cognac	2	oz	31e4c985-e1d4-462b-834f-6ca2218f4307
 a9564b73-e0ab-422e-aa1c-a7b51c08c0c8	Sidecar	7c6053c4-0156-48c3-9790-81c44e0123ab	lemon juice	0.75	oz	31e4c985-e1d4-462b-834f-6ca2218f4307
+a9564b73-e0ab-422e-aa1c-a7b51c08c0c8	Sidecar	f0f31f5c-f164-4e08-9f48-1cc3dc145c55	triple sec	0.75	oz	7035d63a-e691-4a15-8c5b-2f06ee9fbe09
+a9564b73-e0ab-422e-aa1c-a7b51c08c0c8	Sidecar	1344e17b-fd13-4768-8c6b-93fbb96296e2	brandy	2	oz	7035d63a-e691-4a15-8c5b-2f06ee9fbe09
+a9564b73-e0ab-422e-aa1c-a7b51c08c0c8	Sidecar	7c6053c4-0156-48c3-9790-81c44e0123ab	lemon juice	0.5	oz	7035d63a-e691-4a15-8c5b-2f06ee9fbe09
 a9564b73-e0ab-422e-aa1c-a7b51c08c0c8	Sidecar	257d5b41-c3dc-4178-821d-5196a80f0dfb	cognac	50	ml	31406192-cfac-44a5-89dd-cb25f7c34bfc
 a9564b73-e0ab-422e-aa1c-a7b51c08c0c8	Sidecar	7c6053c4-0156-48c3-9790-81c44e0123ab	lemon juice	20	ml	31406192-cfac-44a5-89dd-cb25f7c34bfc
 a9564b73-e0ab-422e-aa1c-a7b51c08c0c8	Sidecar	f0f31f5c-f164-4e08-9f48-1cc3dc145c55	triple sec	20	ml	31406192-cfac-44a5-89dd-cb25f7c34bfc
@@ -4237,7 +4247,7 @@ d1ee9368-f361-45f9-85cb-35d840327486	Sloe Scobeyville Sling	805371f1-a361-4fb2-8
 a7a6f5a3-732c-4c87-b0be-010ba6105938	Smoking Monkey	3cffb550-7089-4cf5-95f4-6805ec737f2b	Angostura bitters	1	dash	c4f99524-1052-4548-9e4e-b2655454f7c3
 a7a6f5a3-732c-4c87-b0be-010ba6105938	Smoking Monkey	fe6dfb91-99c9-4d9f-b094-e6e2b7d3b6ad	Pedro Ximénez sherry	0.5	oz	c4f99524-1052-4548-9e4e-b2655454f7c3
 a7a6f5a3-732c-4c87-b0be-010ba6105938	Smoking Monkey	20655061-73b1-4a15-8f91-03c1a8d6ae66	Islay single malt Scotch whisky	0.5	oz	c4f99524-1052-4548-9e4e-b2655454f7c3
-a7a6f5a3-732c-4c87-b0be-010ba6105938	Smoking Monkey	5a03168f-44bb-48b2-b0ca-dbd678fb1c4d	Banana Jameson (has recipe)	1.5	oz	c4f99524-1052-4548-9e4e-b2655454f7c3
+a7a6f5a3-732c-4c87-b0be-010ba6105938	Smoking Monkey	5a03168f-44bb-48b2-b0ca-dbd678fb1c4d	Banana Jameson	1.5	oz	c4f99524-1052-4548-9e4e-b2655454f7c3
 31f05cb5-9f8e-4b55-990c-489b2769f448	Smuggler's Rum Barrel	393281f6-de19-44a5-82b2-93afcf91373f	aged blended overproof rum	0.75	oz	ca2bb01a-b07b-4461-b6af-d8636c60d5d2
 31f05cb5-9f8e-4b55-990c-489b2769f448	Smuggler's Rum Barrel	19b9e33e-e6b0-4361-b711-e6130b73ed9a	spiced sugar syrup	0.25	oz	ca2bb01a-b07b-4461-b6af-d8636c60d5d2
 31f05cb5-9f8e-4b55-990c-489b2769f448	Smuggler's Rum Barrel	3cffb550-7089-4cf5-95f4-6805ec737f2b	Angostura bitters	1	dash	ca2bb01a-b07b-4461-b6af-d8636c60d5d2
@@ -4262,11 +4272,6 @@ a7a6f5a3-732c-4c87-b0be-010ba6105938	Smoking Monkey	5a03168f-44bb-48b2-b0ca-dbd6
 6946e617-0786-45be-bca7-9ce63d62d56b	Soul Clench	b94ad7bf-3e8d-4474-b280-963a7413b470	pisco	2	oz	b688738c-d81e-4513-b778-451b16898f8a
 6946e617-0786-45be-bca7-9ce63d62d56b	Soul Clench	b677399a-5ea6-4e40-a328-a360de3cd632	falernum	0.25	oz	b688738c-d81e-4513-b778-451b16898f8a
 6946e617-0786-45be-bca7-9ce63d62d56b	Soul Clench	a1d9a17a-125a-4db6-a069-390eea1f1465	dry vermouth	0.75	oz	b688738c-d81e-4513-b778-451b16898f8a
-37cda02b-0745-4b1a-876a-573b36f1ba3c	South Side	ec478592-fc11-4311-8b83-44b7bb78d9b4	lime juice	0.75	oz	63d05c07-e46b-4b67-9b5a-9df2ce6dca08
-37cda02b-0745-4b1a-876a-573b36f1ba3c	South Side	4ee29fb2-478a-41e3-be3a-f145a947ba56	London Dry gin	2	oz	63d05c07-e46b-4b67-9b5a-9df2ce6dca08
-37cda02b-0745-4b1a-876a-573b36f1ba3c	South Side	66948f17-58aa-4180-bf1b-d462478837f1	mint	5		63d05c07-e46b-4b67-9b5a-9df2ce6dca08
-37cda02b-0745-4b1a-876a-573b36f1ba3c	South Side	4547406c-b2bf-4813-bf4f-d9194596227d	cane sugar syrup	0.5	oz	63d05c07-e46b-4b67-9b5a-9df2ce6dca08
-37cda02b-0745-4b1a-876a-573b36f1ba3c	South Side	97d1aa7c-e3ec-4a81-b6ed-806c76d0563c	aromatic bitters	1	dash	63d05c07-e46b-4b67-9b5a-9df2ce6dca08
 b35c8b02-5fe3-4744-ab1e-9a59081c4a37	South Sider	2c057d43-d9cd-4c79-af69-9a516525e08a	blended aged Guyana rum	2	oz	f11027eb-22f7-4ad8-804d-72e0c6d58f6a
 b35c8b02-5fe3-4744-ab1e-9a59081c4a37	South Sider	c39ff8f5-1721-4ab0-b2ed-b662f5a7a0d8	sweet vermouth	1	oz	f11027eb-22f7-4ad8-804d-72e0c6d58f6a
 b35c8b02-5fe3-4744-ab1e-9a59081c4a37	South Sider	97d1aa7c-e3ec-4a81-b6ed-806c76d0563c	aromatic bitters	1	dash	f11027eb-22f7-4ad8-804d-72e0c6d58f6a
@@ -4278,6 +4283,11 @@ b35c8b02-5fe3-4744-ab1e-9a59081c4a37	South Sider	0ba2af59-028e-443e-87fe-4cfc60e
 7ad04c82-9e2a-4dba-a0b3-d5b00c2cf81a	Southern Exposure	4547406c-b2bf-4813-bf4f-d9194596227d	cane sugar syrup	0.5	oz	bbd8a2b5-a3f4-44d9-8e52-1e259345ed6c
 7ad04c82-9e2a-4dba-a0b3-d5b00c2cf81a	Southern Exposure	0fcfad66-a013-4657-8b6b-d0fec241707e	mezcal	0.5	oz	bbd8a2b5-a3f4-44d9-8e52-1e259345ed6c
 7ad04c82-9e2a-4dba-a0b3-d5b00c2cf81a	Southern Exposure	82c3ed4b-229e-4ad5-a070-144dde74a71b	blanco tequila	1.5	oz	bbd8a2b5-a3f4-44d9-8e52-1e259345ed6c
+bf872315-1893-44c3-997b-dc9383f251cf	Southside	ec478592-fc11-4311-8b83-44b7bb78d9b4	lime juice	0.75	oz	63d05c07-e46b-4b67-9b5a-9df2ce6dca08
+bf872315-1893-44c3-997b-dc9383f251cf	Southside	4ee29fb2-478a-41e3-be3a-f145a947ba56	London Dry gin	2	oz	63d05c07-e46b-4b67-9b5a-9df2ce6dca08
+bf872315-1893-44c3-997b-dc9383f251cf	Southside	66948f17-58aa-4180-bf1b-d462478837f1	mint	5		63d05c07-e46b-4b67-9b5a-9df2ce6dca08
+bf872315-1893-44c3-997b-dc9383f251cf	Southside	4547406c-b2bf-4813-bf4f-d9194596227d	cane sugar syrup	0.5	oz	63d05c07-e46b-4b67-9b5a-9df2ce6dca08
+bf872315-1893-44c3-997b-dc9383f251cf	Southside	97d1aa7c-e3ec-4a81-b6ed-806c76d0563c	aromatic bitters	1	dash	63d05c07-e46b-4b67-9b5a-9df2ce6dca08
 bf872315-1893-44c3-997b-dc9383f251cf	Southside	ec478592-fc11-4311-8b83-44b7bb78d9b4	lime juice	0.75	oz	3a18d106-84b3-4de2-9b68-41b35d6f63fe
 bf872315-1893-44c3-997b-dc9383f251cf	Southside	805371f1-a361-4fb2-8d9d-b5422deda60b	simple syrup	0.75	oz	3a18d106-84b3-4de2-9b68-41b35d6f63fe
 bf872315-1893-44c3-997b-dc9383f251cf	Southside	66948f17-58aa-4180-bf1b-d462478837f1	mint	8		3a18d106-84b3-4de2-9b68-41b35d6f63fe
@@ -4431,7 +4441,7 @@ e86c8e3c-6ec4-45b5-8bac-4e3674146362	Suffering Bastard	3cffb550-7089-4cf5-95f4-6
 875b1e63-f220-4911-9631-7ec5c30ec88d	Sunset Gun	587e2d1c-e033-46e8-ba82-e1494e0671af	gin	2	oz	bcefbff8-0bf6-4925-933e-1ea0470b8958
 875b1e63-f220-4911-9631-7ec5c30ec88d	Sunset Gun	ec478592-fc11-4311-8b83-44b7bb78d9b4	lime juice	1	oz	bcefbff8-0bf6-4925-933e-1ea0470b8958
 875b1e63-f220-4911-9631-7ec5c30ec88d	Sunset Gun	eb84493f-d394-484f-8e00-80e1e187c106	kaffir lime leaf	2		bcefbff8-0bf6-4925-933e-1ea0470b8958
-875b1e63-f220-4911-9631-7ec5c30ec88d	Sunset Gun	b677399a-5ea6-4e40-a328-a360de3cd632	falernum	0.2	5oz	bcefbff8-0bf6-4925-933e-1ea0470b8958
+875b1e63-f220-4911-9631-7ec5c30ec88d	Sunset Gun	b677399a-5ea6-4e40-a328-a360de3cd632	falernum	0.25	oz	bcefbff8-0bf6-4925-933e-1ea0470b8958
 86373a93-f711-42f7-9357-2fab1ee65442	Sure Shot	ce25be1d-a848-4a44-afeb-8185c2ab34a4	genever	0.5	oz	a1f10518-1844-46b8-8813-adcd29aeb11d
 86373a93-f711-42f7-9357-2fab1ee65442	Sure Shot	8808385f-1069-4854-a334-fb070684c005	old Tom gin	1.5	oz	a1f10518-1844-46b8-8813-adcd29aeb11d
 86373a93-f711-42f7-9357-2fab1ee65442	Sure Shot	b1d50bac-d25d-4dc5-824e-cbc97cca2d66	demerara syrup	1	tsp	a1f10518-1844-46b8-8813-adcd29aeb11d
@@ -4504,7 +4514,7 @@ cd3fe87f-2671-4f06-835a-d17de9ba1724	Te Amo	e523335f-0255-4d44-a6ce-291a724b7703
 cd3fe87f-2671-4f06-835a-d17de9ba1724	Te Amo	8dde86a1-fca2-4938-a889-c0b7d06e8f70	habanero shrub	1	dash	75fbb623-e32f-45dd-af9f-cd4c5578e22f
 cd3fe87f-2671-4f06-835a-d17de9ba1724	Te Amo	c39ff8f5-1721-4ab0-b2ed-b662f5a7a0d8	sweet vermouth	0.75	oz	75fbb623-e32f-45dd-af9f-cd4c5578e22f
 f1b12456-09a6-4a17-803d-6ca42f528cd0	Tea For Two	702cba0a-a142-4767-9720-3e7d82b68149	quinine cordial	0.25	oz	1b4a9bbc-d81d-4dfd-b581-02acaefad25a
-f1b12456-09a6-4a17-803d-6ca42f528cd0	Tea For Two	10f55ec9-f376-4a8f-bc9f-3ee02e094f89	Earl Grey gin (has recipe)	2	oz	1b4a9bbc-d81d-4dfd-b581-02acaefad25a
+f1b12456-09a6-4a17-803d-6ca42f528cd0	Tea For Two	10f55ec9-f376-4a8f-bc9f-3ee02e094f89	Earl Grey gin	2	oz	1b4a9bbc-d81d-4dfd-b581-02acaefad25a
 f1b12456-09a6-4a17-803d-6ca42f528cd0	Tea For Two	6368ce86-eb38-4475-8bf4-256b77061110	liquid nitrogen	0.5	oz	1b4a9bbc-d81d-4dfd-b581-02acaefad25a
 f1b12456-09a6-4a17-803d-6ca42f528cd0	Tea For Two	ac6378a5-ce53-4f9e-ae9e-a4d8c0ca57f8	fruit cup liqueur	2	oz	1b4a9bbc-d81d-4dfd-b581-02acaefad25a
 f1b12456-09a6-4a17-803d-6ca42f528cd0	Tea For Two	7c6053c4-0156-48c3-9790-81c44e0123ab	lemon juice	0.75	oz	1b4a9bbc-d81d-4dfd-b581-02acaefad25a
@@ -4552,7 +4562,7 @@ cba6d968-e004-4fa3-af15-84d9c6df5f32	The 2-1-2 Cocktail	839d91ea-0e08-4560-bdf5-
 7adb341a-254d-42ee-88e5-68136d352df6	The 2-1-2 Royale	cf68df71-6a42-457b-a839-bf35a6a3a470	light aperitivo amaro	1	oz	4150d189-c7b0-484b-be3f-6778e1d261a6
 7adb341a-254d-42ee-88e5-68136d352df6	The 2-1-2 Royale	a5aa2336-bf08-444b-a2eb-69eb433a5054	distilled water	1.5	oz	4150d189-c7b0-484b-be3f-6778e1d261a6
 7adb341a-254d-42ee-88e5-68136d352df6	The 2-1-2 Royale	0831ab65-a3ce-4e04-a572-ef84e1ac6499	dry sparkling wine	1	oz	4150d189-c7b0-484b-be3f-6778e1d261a6
-7adb341a-254d-42ee-88e5-68136d352df6	The 2-1-2 Royale	b18d8bbe-62d0-491b-9317-40d61cf8664b	clarified grapefruit juice (has recipe)	2	oz	4150d189-c7b0-484b-be3f-6778e1d261a6
+7adb341a-254d-42ee-88e5-68136d352df6	The 2-1-2 Royale	b18d8bbe-62d0-491b-9317-40d61cf8664b	clarified grapefruit juice	2	oz	4150d189-c7b0-484b-be3f-6778e1d261a6
 7adb341a-254d-42ee-88e5-68136d352df6	The 2-1-2 Royale	805371f1-a361-4fb2-8d9d-b5422deda60b	simple syrup	0.25	oz	4150d189-c7b0-484b-be3f-6778e1d261a6
 bfd80b01-d56b-4e31-84ff-8ee832574a29	The Bittenbender	0ce6c0f7-97e8-4706-b8c4-29b35448e0b8	raspberry	4		13c9e1c5-d208-40eb-b4b6-db7e85583414
 bfd80b01-d56b-4e31-84ff-8ee832574a29	The Bittenbender	8d17f5a7-c5a9-4f06-9677-6f6fd0318764	strong aperitivo amaro	0.75	oz	13c9e1c5-d208-40eb-b4b6-db7e85583414
@@ -4573,14 +4583,10 @@ bfd80b01-d56b-4e31-84ff-8ee832574a29	The Bittenbender	b45a6f10-333a-4c61-86bd-3a
 109f3df4-0e28-4daa-8698-f69c329ff6a2	The Chadburn	dd6cc30e-f651-4aff-a01a-0a3f525e0694	aged blended rum	2	oz	eb36b8ec-fbb6-41a1-8968-b395d5f8d523
 109f3df4-0e28-4daa-8698-f69c329ff6a2	The Chadburn	4b472dd4-bc64-46b6-a517-c910a7eee760	pear liqueur	0.5	oz	eb36b8ec-fbb6-41a1-8968-b395d5f8d523
 109f3df4-0e28-4daa-8698-f69c329ff6a2	The Chadburn	ed154737-eab2-4647-93c1-1f97f1c0132a	tawny port	0.5	oz	eb36b8ec-fbb6-41a1-8968-b395d5f8d523
-d6d9464e-68b5-4925-91cb-439dd658c334	The Champs-Elysees Cocktail	b4a2d3a3-b0b3-44fc-b260-a0cda70f6aa8	Yellow Chartreuse	0.5	oz	45e8884c-9692-45d7-b6bd-16ee76716306
-d6d9464e-68b5-4925-91cb-439dd658c334	The Champs-Elysees Cocktail	257d5b41-c3dc-4178-821d-5196a80f0dfb	cognac	1.5	oz	45e8884c-9692-45d7-b6bd-16ee76716306
-d6d9464e-68b5-4925-91cb-439dd658c334	The Champs-Elysees Cocktail	3cffb550-7089-4cf5-95f4-6805ec737f2b	Angostura bitters	1	dash	45e8884c-9692-45d7-b6bd-16ee76716306
-d6d9464e-68b5-4925-91cb-439dd658c334	The Champs-Elysees Cocktail	7c6053c4-0156-48c3-9790-81c44e0123ab	lemon juice	0.5	oz	45e8884c-9692-45d7-b6bd-16ee76716306
 45e66613-3eab-4788-8800-6ec13eee5384	The Cocktail Called Irving	257d5b41-c3dc-4178-821d-5196a80f0dfb	cognac	1	oz	8b721f19-d134-4b5a-b661-df32a9990348
 45e66613-3eab-4788-8800-6ec13eee5384	The Cocktail Called Irving	75b85341-398a-401f-ab18-8c87fb674178	white crème de menthe	0.25	oz	8b721f19-d134-4b5a-b661-df32a9990348
 45e66613-3eab-4788-8800-6ec13eee5384	The Cocktail Called Irving	d3e4a405-652d-4b1a-bac4-ccdbeefbcee7	brown crème de cacao	0.25	oz	8b721f19-d134-4b5a-b661-df32a9990348
-45e66613-3eab-4788-8800-6ec13eee5384	The Cocktail Called Irving	b9790d79-6a72-49d1-b302-536968cfdd24	Chartreuse ice cream (has recipe)	1	large scoop	8b721f19-d134-4b5a-b661-df32a9990348
+45e66613-3eab-4788-8800-6ec13eee5384	The Cocktail Called Irving	b9790d79-6a72-49d1-b302-536968cfdd24	Chartreuse ice cream	1	large scoop	8b721f19-d134-4b5a-b661-df32a9990348
 946d004d-a8cb-4d84-b386-5baefe21f8d8	The Commandant	eb84493f-d394-484f-8e00-80e1e187c106	kaffir lime leaf	1		b2f93941-bd0b-49b7-83aa-67254d6562bc
 946d004d-a8cb-4d84-b386-5baefe21f8d8	The Commandant	b677399a-5ea6-4e40-a328-a360de3cd632	falernum	0.25	oz	b2f93941-bd0b-49b7-83aa-67254d6562bc
 946d004d-a8cb-4d84-b386-5baefe21f8d8	The Commandant	f285bdd2-e4e4-4eec-a42b-acf691105f86	Swedish punsch	0.5	oz	b2f93941-bd0b-49b7-83aa-67254d6562bc
@@ -4592,7 +4598,7 @@ cd92d881-ffdb-472c-9f9c-5d3e5476aa66	The Dangerous Summer	e798da2c-ea00-4772-82b
 cd92d881-ffdb-472c-9f9c-5d3e5476aa66	The Dangerous Summer	5b7ea52f-2a62-4d00-afb0-f6d8babba002	orange	1		6673eec3-e24a-4794-b15c-a1ac854ba208
 cd92d881-ffdb-472c-9f9c-5d3e5476aa66	The Dangerous Summer	c39ff8f5-1721-4ab0-b2ed-b662f5a7a0d8	sweet vermouth	0.75	oz	6673eec3-e24a-4794-b15c-a1ac854ba208
 cd92d881-ffdb-472c-9f9c-5d3e5476aa66	The Dangerous Summer	286cff09-7c04-4e4b-b142-596460b80342	Japanese whiskey	1.5	oz	6673eec3-e24a-4794-b15c-a1ac854ba208
-4ddc0966-2f3d-4380-8014-9a3ffa4cecfc	The Dead Reckoning	a035ce61-b795-4461-ab93-ada8c886f2f0	vanilla brandy (has recipe)	0.5	oz	0e6a6834-d390-488b-aaa5-daa14857fa91
+4ddc0966-2f3d-4380-8014-9a3ffa4cecfc	The Dead Reckoning	a035ce61-b795-4461-ab93-ada8c886f2f0	vanilla-infused brandy	0.5	oz	0e6a6834-d390-488b-aaa5-daa14857fa91
 4ddc0966-2f3d-4380-8014-9a3ffa4cecfc	The Dead Reckoning	dd6cc30e-f651-4aff-a01a-0a3f525e0694	aged blended rum	2	oz	0e6a6834-d390-488b-aaa5-daa14857fa91
 4ddc0966-2f3d-4380-8014-9a3ffa4cecfc	The Dead Reckoning	edc9d478-7c19-458e-89ad-2847db72a711	pineapple juice	1	oz	0e6a6834-d390-488b-aaa5-daa14857fa91
 4ddc0966-2f3d-4380-8014-9a3ffa4cecfc	The Dead Reckoning	3cffb550-7089-4cf5-95f4-6805ec737f2b	Angostura bitters	1	dash	0e6a6834-d390-488b-aaa5-daa14857fa91
@@ -4686,9 +4692,6 @@ b5d396e8-1ec8-41fb-8c7c-a33a87a7013d	The Monroe	d247bca4-e737-4dff-a807-955a79d9
 07137d72-798e-4fb7-afa2-ff3943d67e39	The Naked Ape	bb324d0a-a8a9-41de-a289-f7d9ca5721f5	cinnamon syrup	0.5	oz	71e65445-c7c3-49ac-b3a8-f5e1dee70101
 07137d72-798e-4fb7-afa2-ff3943d67e39	The Naked Ape	9821d3ab-1a53-4873-baf0-d4d255408ffc	black blended rum	1.5	oz	71e65445-c7c3-49ac-b3a8-f5e1dee70101
 07137d72-798e-4fb7-afa2-ff3943d67e39	The Naked Ape	c88c037d-b9dd-4454-8d0d-df531a57c26c	overproof pot still lightly aged rum	0.5	oz	71e65445-c7c3-49ac-b3a8-f5e1dee70101
-f1c4e3f1-79b0-4a34-9910-c54c362ece92	The Paloma	ec478592-fc11-4311-8b83-44b7bb78d9b4	lime juice	0.5	oz	f46601cc-602e-4013-a007-5f2608e5f335
-f1c4e3f1-79b0-4a34-9910-c54c362ece92	The Paloma	bb51de06-262e-420f-b23d-34a77118bde4	grapefruit soda	3	oz	f46601cc-602e-4013-a007-5f2608e5f335
-f1c4e3f1-79b0-4a34-9910-c54c362ece92	The Paloma	82c3ed4b-229e-4ad5-a070-144dde74a71b	blanco tequila	2	oz	f46601cc-602e-4013-a007-5f2608e5f335
 08481e75-a366-43df-ace6-9c3f10538e45	The Risk Pool	839d91ea-0e08-4560-bdf5-88dee2b8bca2	grapefruit juice	0.5	oz	285e192a-fb70-41bd-b58b-310cc816de9e
 08481e75-a366-43df-ace6-9c3f10538e45	The Risk Pool	8808385f-1069-4854-a334-fb070684c005	old Tom gin	2	oz	285e192a-fb70-41bd-b58b-310cc816de9e
 08481e75-a366-43df-ace6-9c3f10538e45	The Risk Pool	013ab9c5-497b-45b4-a997-b35da9a30827	crème de violette	0.25	oz	285e192a-fb70-41bd-b58b-310cc816de9e
@@ -4700,9 +4703,6 @@ f1c4e3f1-79b0-4a34-9910-c54c362ece92	The Paloma	82c3ed4b-229e-4ad5-a070-144dde74
 372610ba-d04e-40de-bd32-88332954ec4f	The Sexpert	8fee9fd9-e49f-46f0-a832-54fbaa232584	passion fruit syrup	0.5	oz	64e8ecdd-33a6-4052-a73d-8324bcfb81ae
 372610ba-d04e-40de-bd32-88332954ec4f	The Sexpert	b677399a-5ea6-4e40-a328-a360de3cd632	falernum	0.5	oz	64e8ecdd-33a6-4052-a73d-8324bcfb81ae
 372610ba-d04e-40de-bd32-88332954ec4f	The Sexpert	587e2d1c-e033-46e8-ba82-e1494e0671af	gin	0.5	oz	64e8ecdd-33a6-4052-a73d-8324bcfb81ae
-f46e31b9-146f-43c2-b574-1aa37d6e0c90	The Sidecar	f0f31f5c-f164-4e08-9f48-1cc3dc145c55	triple sec	0.75	oz	7035d63a-e691-4a15-8c5b-2f06ee9fbe09
-f46e31b9-146f-43c2-b574-1aa37d6e0c90	The Sidecar	1344e17b-fd13-4768-8c6b-93fbb96296e2	brandy	2	oz	7035d63a-e691-4a15-8c5b-2f06ee9fbe09
-f46e31b9-146f-43c2-b574-1aa37d6e0c90	The Sidecar	7c6053c4-0156-48c3-9790-81c44e0123ab	lemon juice	0.5	oz	7035d63a-e691-4a15-8c5b-2f06ee9fbe09
 0c1f4083-370d-4f2a-a4c2-a643666c72cb	The Studebaker	463c2b68-5821-49c4-9678-ddd299b40ffd	bourbon whiskey	1	oz	d3aff9c2-df5a-40f3-b785-e940bb576b71
 0c1f4083-370d-4f2a-a4c2-a643666c72cb	The Studebaker	68ed9e99-0167-4ae9-a69d-5d0a9567a217	peach bitters	2	dashes	d3aff9c2-df5a-40f3-b785-e940bb576b71
 0c1f4083-370d-4f2a-a4c2-a643666c72cb	The Studebaker	85c41193-c77b-4065-812d-e4bd97d1f4c9	quinquina	1	oz	d3aff9c2-df5a-40f3-b785-e940bb576b71
@@ -4725,7 +4725,7 @@ f46e31b9-146f-43c2-b574-1aa37d6e0c90	The Sidecar	7c6053c4-0156-48c3-9790-81c44e0
 5910ce1e-5b80-459a-a235-a139e76e4d79	The Twenty Seventy Swizzle	ec478592-fc11-4311-8b83-44b7bb78d9b4	lime juice	0.5	oz	9b24876f-a20f-43a3-9079-ba6e1284f40c
 5910ce1e-5b80-459a-a235-a139e76e4d79	The Twenty Seventy Swizzle	4d3fc1fc-f905-4028-8399-66804a31d192	allspice liqueur	0.25	oz	9b24876f-a20f-43a3-9079-ba6e1284f40c
 5910ce1e-5b80-459a-a235-a139e76e4d79	The Twenty Seventy Swizzle	c74168d9-4ba6-46d9-b78c-c737fe48f720	column still aged rum	1	oz	9b24876f-a20f-43a3-9079-ba6e1284f40c
-c942170f-d06f-4a4e-b6ab-1264bc038c4d	The Undead Gentleman	08c03ebb-840a-49af-9341-dbddaf4a4561	Absinthe Blanc	1	dash	d3ffd7c7-5075-483d-96d9-087eeeb7edd4
+c942170f-d06f-4a4e-b6ab-1264bc038c4d	The Undead Gentleman	08c03ebb-840a-49af-9341-dbddaf4a4561	Absinthe Blanche	1	dash	d3ffd7c7-5075-483d-96d9-087eeeb7edd4
 c942170f-d06f-4a4e-b6ab-1264bc038c4d	The Undead Gentleman	393281f6-de19-44a5-82b2-93afcf91373f	aged blended overproof rum	1	oz	d3ffd7c7-5075-483d-96d9-087eeeb7edd4
 c942170f-d06f-4a4e-b6ab-1264bc038c4d	The Undead Gentleman	839d91ea-0e08-4560-bdf5-88dee2b8bca2	grapefruit juice	0.5	oz	d3ffd7c7-5075-483d-96d9-087eeeb7edd4
 c942170f-d06f-4a4e-b6ab-1264bc038c4d	The Undead Gentleman	3cffb550-7089-4cf5-95f4-6805ec737f2b	Angostura bitters	1	dash	d3ffd7c7-5075-483d-96d9-087eeeb7edd4
@@ -4750,12 +4750,20 @@ b0886ac7-4d0b-4df8-843f-59b2e1ebc1ae	Three Dots and a Dash	fcc38451-0c1e-438d-ac
 b0886ac7-4d0b-4df8-843f-59b2e1ebc1ae	Three Dots and a Dash	b677399a-5ea6-4e40-a328-a360de3cd632	falernum	0.25	oz	0093f18b-a491-4b58-aadc-ab76f94c390a
 b0886ac7-4d0b-4df8-843f-59b2e1ebc1ae	Three Dots and a Dash	55ca3629-1c79-4f6d-9a27-bd34d0201447	honey syrup	0.5	oz	0093f18b-a491-4b58-aadc-ab76f94c390a
 b0886ac7-4d0b-4df8-843f-59b2e1ebc1ae	Three Dots and a Dash	dc2d9e70-a3e7-4748-84e8-f02e4bf7d124	aged Cuban-style rum	0.5	oz	0093f18b-a491-4b58-aadc-ab76f94c390a
-ef88ab0a-df5d-4ec7-a563-833d9e8e9f7b	Ti Punch	ec478592-fc11-4311-8b83-44b7bb78d9b4	lime juice	0.5	oz	3681e1a9-0b5e-45ec-ae05-7624f1418d37
-ef88ab0a-df5d-4ec7-a563-833d9e8e9f7b	Ti Punch	4547406c-b2bf-4813-bf4f-d9194596227d	cane sugar syrup	1	tsp	3681e1a9-0b5e-45ec-ae05-7624f1418d37
-ef88ab0a-df5d-4ec7-a563-833d9e8e9f7b	Ti Punch	73cc622a-6c9a-41ce-94fe-46c38bfa8bf6	rhum agricole blanc	2	oz	3681e1a9-0b5e-45ec-ae05-7624f1418d37
-ef88ab0a-df5d-4ec7-a563-833d9e8e9f7b	Ti Punch	7b4cf430-0c7d-435e-a888-4313ee6d11e5	aged Martinique rum	2	oz	e82502a5-d6fc-4a19-ba13-039d88e8ba26
-ef88ab0a-df5d-4ec7-a563-833d9e8e9f7b	Ti Punch	3e3bd2c1-3554-4419-a66a-fcef059af75a	lime	0.5		e82502a5-d6fc-4a19-ba13-039d88e8ba26
-ef88ab0a-df5d-4ec7-a563-833d9e8e9f7b	Ti Punch	805371f1-a361-4fb2-8d9d-b5422deda60b	simple syrup	1	tsp	e82502a5-d6fc-4a19-ba13-039d88e8ba26
+b0886ac7-4d0b-4df8-843f-59b2e1ebc1ae	Three Dots and a Dash	91f6c54b-4128-4f68-8551-f6f9e5f5d612	cane AOC Martinique rhum agricole vieux	1.5	oz	e9105b74-ab73-42eb-8adb-2ddeeb34c4ae
+b0886ac7-4d0b-4df8-843f-59b2e1ebc1ae	Three Dots and a Dash	b677399a-5ea6-4e40-a328-a360de3cd632	falernum	0.25	oz	e9105b74-ab73-42eb-8adb-2ddeeb34c4ae
+b0886ac7-4d0b-4df8-843f-59b2e1ebc1ae	Three Dots and a Dash	ec478592-fc11-4311-8b83-44b7bb78d9b4	lime juice	0.5	oz	e9105b74-ab73-42eb-8adb-2ddeeb34c4ae
+b0886ac7-4d0b-4df8-843f-59b2e1ebc1ae	Three Dots and a Dash	3cffb550-7089-4cf5-95f4-6805ec737f2b	Angostura bitters	1	dash	e9105b74-ab73-42eb-8adb-2ddeeb34c4ae
+b0886ac7-4d0b-4df8-843f-59b2e1ebc1ae	Three Dots and a Dash	dd6cc30e-f651-4aff-a01a-0a3f525e0694	aged blended rum	0.5	oz	e9105b74-ab73-42eb-8adb-2ddeeb34c4ae
+b0886ac7-4d0b-4df8-843f-59b2e1ebc1ae	Three Dots and a Dash	4d3fc1fc-f905-4028-8399-66804a31d192	allspice liqueur	0.25	oz	e9105b74-ab73-42eb-8adb-2ddeeb34c4ae
+b0886ac7-4d0b-4df8-843f-59b2e1ebc1ae	Three Dots and a Dash	55ca3629-1c79-4f6d-9a27-bd34d0201447	honey syrup	0.5	oz	e9105b74-ab73-42eb-8adb-2ddeeb34c4ae
+b0886ac7-4d0b-4df8-843f-59b2e1ebc1ae	Three Dots and a Dash	fcc38451-0c1e-438d-ac6c-5af13f16e056	orange juice	0.5	oz	e9105b74-ab73-42eb-8adb-2ddeeb34c4ae
+5b0272ee-650e-4042-b1a1-8a517ad956f8	Ti' Punch	ec478592-fc11-4311-8b83-44b7bb78d9b4	lime juice	0.5	oz	3681e1a9-0b5e-45ec-ae05-7624f1418d37
+5b0272ee-650e-4042-b1a1-8a517ad956f8	Ti' Punch	4547406c-b2bf-4813-bf4f-d9194596227d	cane sugar syrup	1	tsp	3681e1a9-0b5e-45ec-ae05-7624f1418d37
+5b0272ee-650e-4042-b1a1-8a517ad956f8	Ti' Punch	73cc622a-6c9a-41ce-94fe-46c38bfa8bf6	rhum agricole blanc	2	oz	3681e1a9-0b5e-45ec-ae05-7624f1418d37
+5b0272ee-650e-4042-b1a1-8a517ad956f8	Ti' Punch	7b4cf430-0c7d-435e-a888-4313ee6d11e5	aged Martinique rum	2	oz	e82502a5-d6fc-4a19-ba13-039d88e8ba26
+5b0272ee-650e-4042-b1a1-8a517ad956f8	Ti' Punch	3e3bd2c1-3554-4419-a66a-fcef059af75a	lime	0.5		e82502a5-d6fc-4a19-ba13-039d88e8ba26
+5b0272ee-650e-4042-b1a1-8a517ad956f8	Ti' Punch	805371f1-a361-4fb2-8d9d-b5422deda60b	simple syrup	1	tsp	e82502a5-d6fc-4a19-ba13-039d88e8ba26
 5b0272ee-650e-4042-b1a1-8a517ad956f8	Ti' Punch	3ab2ce19-65ba-44b4-af65-1c1965f2d35a	Martinique Sugarcane Syrup	1	tsp	b72a2ccf-2833-4361-b642-65de6020813d
 5b0272ee-650e-4042-b1a1-8a517ad956f8	Ti' Punch	3e3bd2c1-3554-4419-a66a-fcef059af75a	lime	1		b72a2ccf-2833-4361-b642-65de6020813d
 5b0272ee-650e-4042-b1a1-8a517ad956f8	Ti' Punch	b0d52def-b871-41b4-9116-b12016d390fa	cane AOC Martinique rhum agricole blanc	2	oz	b72a2ccf-2833-4361-b642-65de6020813d
@@ -4786,7 +4794,7 @@ c5c73933-d90a-40ed-8262-0bb90f82a3c7	Tiki-Tiki Tom-Tom	2c057d43-d9cd-4c79-af69-9
 10994999-b624-4cbf-8b2c-692252e5ed74	Tom & Jerry	84a4bfda-4d21-49fc-a46d-e953bec4d674	aged Jamaican rum	1	oz	1cfc3334-a698-4202-a761-d2b86c3f88fe
 10994999-b624-4cbf-8b2c-692252e5ed74	Tom & Jerry	257d5b41-c3dc-4178-821d-5196a80f0dfb	cognac	1	oz	1cfc3334-a698-4202-a761-d2b86c3f88fe
 10994999-b624-4cbf-8b2c-692252e5ed74	Tom & Jerry	26e9e314-04e5-4385-8b3d-2401927998b1	whole milk	2	oz	1cfc3334-a698-4202-a761-d2b86c3f88fe
-10994999-b624-4cbf-8b2c-692252e5ed74	Tom & Jerry	8a7bba93-191e-4352-b74e-5fde0e852faf	Tom & Jerry Batter	1	Tbsp	1cfc3334-a698-4202-a761-d2b86c3f88fe
+10994999-b624-4cbf-8b2c-692252e5ed74	Tom & Jerry	8a7bba93-191e-4352-b74e-5fde0e852faf	Tom & Jerry Batter	1	tbsp	1cfc3334-a698-4202-a761-d2b86c3f88fe
 ec1deb9e-6535-4cc3-8265-548d0bea8e0a	Tom Bomb	edc9d478-7c19-458e-89ad-2847db72a711	pineapple juice	0.5	oz	5c1990ff-b48c-4808-9a9d-90d29c27cb82
 ec1deb9e-6535-4cc3-8265-548d0bea8e0a	Tom Bomb	7cb21942-933a-41e6-90f4-18a9a87ab1fa	orgeat syrup	0.25	oz	5c1990ff-b48c-4808-9a9d-90d29c27cb82
 ec1deb9e-6535-4cc3-8265-548d0bea8e0a	Tom Bomb	8808385f-1069-4854-a334-fb070684c005	old Tom gin	1.5	oz	5c1990ff-b48c-4808-9a9d-90d29c27cb82
@@ -4808,7 +4816,7 @@ f5d4363e-7ff6-471c-9d8f-544dce5d377e	Tom Collins	805371f1-a361-4fb2-8d9d-b5422de
 8274e128-2c9c-4adf-bf2e-326a5a11a278	Tommy And The Ron-Dels	bb42a8e5-5b6e-4b1e-bc64-89f9cf3960fe	blended aged Puerto Rican rum	1	oz	22fd2cac-81f7-432b-be6b-8e3e10c5075c
 8274e128-2c9c-4adf-bf2e-326a5a11a278	Tommy And The Ron-Dels	0fcfad66-a013-4657-8b6b-d0fec241707e	mezcal	0.25	oz	22fd2cac-81f7-432b-be6b-8e3e10c5075c
 8274e128-2c9c-4adf-bf2e-326a5a11a278	Tommy And The Ron-Dels	ec478592-fc11-4311-8b83-44b7bb78d9b4	lime juice	1	oz	22fd2cac-81f7-432b-be6b-8e3e10c5075c
-8274e128-2c9c-4adf-bf2e-326a5a11a278	Tommy And The Ron-Dels	a33c1ee9-d3eb-49f8-9b12-21e1017e94ae	anise-flavored liqueur	0.5	oz	22fd2cac-81f7-432b-be6b-8e3e10c5075c
+8274e128-2c9c-4adf-bf2e-326a5a11a278	Tommy And The Ron-Dels	a33c1ee9-d3eb-49f8-9b12-21e1017e94ae	anise- and vanilla-flavored liqueur	0.5	oz	22fd2cac-81f7-432b-be6b-8e3e10c5075c
 8274e128-2c9c-4adf-bf2e-326a5a11a278	Tommy And The Ron-Dels	abb8b3b2-145c-411c-babf-4de0571bba5a	agave syrup	0.5	oz	22fd2cac-81f7-432b-be6b-8e3e10c5075c
 8274e128-2c9c-4adf-bf2e-326a5a11a278	Tommy And The Ron-Dels	0fa417ad-d982-4093-ad80-3d5018d1c6dc	reposado tequila	0.75	oz	22fd2cac-81f7-432b-be6b-8e3e10c5075c
 8274e128-2c9c-4adf-bf2e-326a5a11a278	Tommy And The Ron-Dels	4a3d48e4-0aaa-4988-ae66-039ce5a35902	tiki bitters	1	dash	22fd2cac-81f7-432b-be6b-8e3e10c5075c
@@ -4829,12 +4837,12 @@ a2d9a0c5-f735-4a0c-9271-ffbbe36d5673	Top Notch Volcano	dd6cc30e-f651-4aff-a01a-0
 c6e3a6c8-70c6-47e5-aba2-ab4161f1ce92	Toronto	100a5b6f-5688-404e-a4fc-000aa937de8d	rye whiskey	2	oz	e539555e-6353-4a04-8ee6-0a09fcf444e9
 c6e3a6c8-70c6-47e5-aba2-ab4161f1ce92	Toronto	b1d50bac-d25d-4dc5-824e-cbc97cca2d66	demerara syrup	1	tsp	e539555e-6353-4a04-8ee6-0a09fcf444e9
 c6e3a6c8-70c6-47e5-aba2-ab4161f1ce92	Toronto	6c224e79-d0b7-4c39-a5a7-538728efc584	fernet	0.5	oz	e539555e-6353-4a04-8ee6-0a09fcf444e9
-c6bbc24a-ab8a-4e9d-a99c-980f355d81ff	Toronto Cocktail	100a5b6f-5688-404e-a4fc-000aa937de8d	rye whiskey	2	oz	20f61393-1de6-4ef2-a203-ce34049c0067
-c6bbc24a-ab8a-4e9d-a99c-980f355d81ff	Toronto Cocktail	3cffb550-7089-4cf5-95f4-6805ec737f2b	Angostura bitters	2	dashes	20f61393-1de6-4ef2-a203-ce34049c0067
-c6bbc24a-ab8a-4e9d-a99c-980f355d81ff	Toronto Cocktail	805371f1-a361-4fb2-8d9d-b5422deda60b	simple syrup	0.25	oz	20f61393-1de6-4ef2-a203-ce34049c0067
-c6bbc24a-ab8a-4e9d-a99c-980f355d81ff	Toronto Cocktail	6c224e79-d0b7-4c39-a5a7-538728efc584	fernet	0.25	oz	20f61393-1de6-4ef2-a203-ce34049c0067
+c6e3a6c8-70c6-47e5-aba2-ab4161f1ce92	Toronto	100a5b6f-5688-404e-a4fc-000aa937de8d	rye whiskey	2	oz	20f61393-1de6-4ef2-a203-ce34049c0067
+c6e3a6c8-70c6-47e5-aba2-ab4161f1ce92	Toronto	3cffb550-7089-4cf5-95f4-6805ec737f2b	Angostura bitters	2	dashes	20f61393-1de6-4ef2-a203-ce34049c0067
+c6e3a6c8-70c6-47e5-aba2-ab4161f1ce92	Toronto	805371f1-a361-4fb2-8d9d-b5422deda60b	simple syrup	0.25	oz	20f61393-1de6-4ef2-a203-ce34049c0067
+c6e3a6c8-70c6-47e5-aba2-ab4161f1ce92	Toronto	6c224e79-d0b7-4c39-a5a7-538728efc584	fernet	0.25	oz	20f61393-1de6-4ef2-a203-ce34049c0067
 86329895-7b17-427a-992a-59bf82fa749c	Toucan Gin Fizz	bde3cfbf-dd01-4aec-b37a-3bc4cca5df6a	soda water	1.5	oz	70e38116-4fdc-4bd2-891b-7ec44a2c01c0
-86329895-7b17-427a-992a-59bf82fa749c	Toucan Gin Fizz	c6603672-be3c-4ff8-b731-1a57675212a7	Toucan Mix (has recipe)	4	oz	70e38116-4fdc-4bd2-891b-7ec44a2c01c0
+86329895-7b17-427a-992a-59bf82fa749c	Toucan Gin Fizz	c6603672-be3c-4ff8-b731-1a57675212a7	Toucan Mix	4	oz	70e38116-4fdc-4bd2-891b-7ec44a2c01c0
 bae647a2-1daa-4c1d-9cc9-9f6afd67c053	Tradewinds	23557a35-8a81-483e-949d-6f8fbe31f62a	coconut cream	1.5	oz	50c41602-da69-48c5-b265-2c7f99bf6fed
 bae647a2-1daa-4c1d-9cc9-9f6afd67c053	Tradewinds	32cf9978-deea-4fb2-81a8-ada1fce31a9e	apricot liqueur	1	oz	50c41602-da69-48c5-b265-2c7f99bf6fed
 bae647a2-1daa-4c1d-9cc9-9f6afd67c053	Tradewinds	e41d9909-7ea1-4af3-a9c3-c6b415e47fd7	blended lightly aged rum	1	oz	50c41602-da69-48c5-b265-2c7f99bf6fed
@@ -4855,14 +4863,6 @@ bae647a2-1daa-4c1d-9cc9-9f6afd67c053	Tradewinds	7c6053c4-0156-48c3-9790-81c44e01
 8f6e8766-fc46-42eb-97c4-e70da3a972b7	Trapeze	0ba2af59-028e-443e-87fe-4cfc60e30d04	brut Champagne	4	oz	1589252c-0093-4ce4-87c2-555307d54473
 14305a3d-7772-422a-9a80-2a5597886333	Trash & Money	0fcfad66-a013-4657-8b6b-d0fec241707e	mezcal	1	oz	b4851c48-2f15-4c3f-9467-84cee940769f
 14305a3d-7772-422a-9a80-2a5597886333	Trash & Money	354b4a5c-4df5-4ba3-af51-9768720c1a84	Green Chartreuse	1	oz	b4851c48-2f15-4c3f-9467-84cee940769f
-2d282e1d-bf9f-46d4-8656-bb00adc37fe9	Tree Dots And A Dash	91f6c54b-4128-4f68-8551-f6f9e5f5d612	cane AOC Martinique rhum agricole vieux	1.5	oz	e9105b74-ab73-42eb-8adb-2ddeeb34c4ae
-2d282e1d-bf9f-46d4-8656-bb00adc37fe9	Tree Dots And A Dash	b677399a-5ea6-4e40-a328-a360de3cd632	falernum	0.25	oz	e9105b74-ab73-42eb-8adb-2ddeeb34c4ae
-2d282e1d-bf9f-46d4-8656-bb00adc37fe9	Tree Dots And A Dash	ec478592-fc11-4311-8b83-44b7bb78d9b4	lime juice	0.5	oz	e9105b74-ab73-42eb-8adb-2ddeeb34c4ae
-2d282e1d-bf9f-46d4-8656-bb00adc37fe9	Tree Dots And A Dash	3cffb550-7089-4cf5-95f4-6805ec737f2b	Angostura bitters	1	dash	e9105b74-ab73-42eb-8adb-2ddeeb34c4ae
-2d282e1d-bf9f-46d4-8656-bb00adc37fe9	Tree Dots And A Dash	dd6cc30e-f651-4aff-a01a-0a3f525e0694	aged blended rum	0.5	oz	e9105b74-ab73-42eb-8adb-2ddeeb34c4ae
-2d282e1d-bf9f-46d4-8656-bb00adc37fe9	Tree Dots And A Dash	4d3fc1fc-f905-4028-8399-66804a31d192	allspice liqueur	0.25	oz	e9105b74-ab73-42eb-8adb-2ddeeb34c4ae
-2d282e1d-bf9f-46d4-8656-bb00adc37fe9	Tree Dots And A Dash	55ca3629-1c79-4f6d-9a27-bd34d0201447	honey syrup	0.5	oz	e9105b74-ab73-42eb-8adb-2ddeeb34c4ae
-2d282e1d-bf9f-46d4-8656-bb00adc37fe9	Tree Dots And A Dash	fcc38451-0c1e-438d-ac6c-5af13f16e056	orange juice	0.5	oz	e9105b74-ab73-42eb-8adb-2ddeeb34c4ae
 6da80ab3-bf1f-456d-bcfd-1d3030cff010	Trembling Bell	d1f89ffc-cd86-4195-bf86-0cac7e96040c	acacia honey syrup	0.5	tsp	a053871a-a208-48b7-be72-4541d131a295
 6da80ab3-bf1f-456d-bcfd-1d3030cff010	Trembling Bell	100a5b6f-5688-404e-a4fc-000aa937de8d	rye whiskey	1.5	oz	a053871a-a208-48b7-be72-4541d131a295
 6da80ab3-bf1f-456d-bcfd-1d3030cff010	Trembling Bell	3e76b4f5-4c46-4a72-85e4-f607b3fe3204	lemon	1		a053871a-a208-48b7-be72-4541d131a295
@@ -4884,8 +4884,8 @@ a9ac4cae-4884-4b61-b649-e58b53d97d94	Trinidad Sour	7cb21942-933a-41e6-90f4-18a9a
 44ef086c-88bb-47f8-9074-fc4bcacce81f	Triumvirate Punch	4d3fc1fc-f905-4028-8399-66804a31d192	allspice liqueur	0.25	oz	f3ca80b2-23f1-4e19-a1cb-c2ccb8198333
 44ef086c-88bb-47f8-9074-fc4bcacce81f	Triumvirate Punch	3cffb550-7089-4cf5-95f4-6805ec737f2b	Angostura bitters	2	dashes	f3ca80b2-23f1-4e19-a1cb-c2ccb8198333
 7b38ff07-2869-4de2-9772-262bc283b76a	Truffled Old Fashioned	3cffb550-7089-4cf5-95f4-6805ec737f2b	Angostura bitters	4	dashes	c3e4c42d-2dbf-4c69-8e53-3af81e2af282
-7b38ff07-2869-4de2-9772-262bc283b76a	Truffled Old Fashioned	25af02ae-6389-4e84-9405-bca85f667ac5	truffle cognac (has recipe)	2	oz	c3e4c42d-2dbf-4c69-8e53-3af81e2af282
-7b38ff07-2869-4de2-9772-262bc283b76a	Truffled Old Fashioned	5724b9b4-e572-42e9-9967-5589234b4a8e	tonka bean syrup (has recipe)	0.25	oz	c3e4c42d-2dbf-4c69-8e53-3af81e2af282
+7b38ff07-2869-4de2-9772-262bc283b76a	Truffled Old Fashioned	25af02ae-6389-4e84-9405-bca85f667ac5	truffle cognac	2	oz	c3e4c42d-2dbf-4c69-8e53-3af81e2af282
+7b38ff07-2869-4de2-9772-262bc283b76a	Truffled Old Fashioned	5724b9b4-e572-42e9-9967-5589234b4a8e	tonka bean syrup	0.25	oz	c3e4c42d-2dbf-4c69-8e53-3af81e2af282
 7b38ff07-2869-4de2-9772-262bc283b76a	Truffled Old Fashioned	97d1aa7c-e3ec-4a81-b6ed-806c76d0563c	aromatic bitters	4	dashes	c3e4c42d-2dbf-4c69-8e53-3af81e2af282
 11b49913-a724-47ba-8986-c4c521114fb4	Turf Cocktail	4ee29fb2-478a-41e3-be3a-f145a947ba56	London Dry gin	2	oz	916e1ad6-391b-4a9e-b6ba-38cb0440d165
 11b49913-a724-47ba-8986-c4c521114fb4	Turf Cocktail	6881850f-51c9-4225-9bbc-fa777812b50d	maraschino liqueur	1	tsp	916e1ad6-391b-4a9e-b6ba-38cb0440d165
@@ -4935,7 +4935,7 @@ b8707a6a-40ac-46ec-bbb4-2911afedea0f	Ty Cobbler	34f57119-2fcf-40c1-bc7e-a6f128d6
 63620698-45b2-45e8-b068-8af4be720cdb	V.O.C. Cocktail	20655061-73b1-4a15-8f91-03c1a8d6ae66	Islay single malt Scotch whisky	0.25	oz	0576e315-f5ca-402c-83fc-ec97af6e9e6a
 63620698-45b2-45e8-b068-8af4be720cdb	V.O.C. Cocktail	8424febe-96a5-4a84-96e7-d342a7932d37	cherry liqueur	0.5	oz	0576e315-f5ca-402c-83fc-ec97af6e9e6a
 63620698-45b2-45e8-b068-8af4be720cdb	V.O.C. Cocktail	ce25be1d-a848-4a44-afeb-8185c2ab34a4	genever	1	oz	0576e315-f5ca-402c-83fc-ec97af6e9e6a
-63620698-45b2-45e8-b068-8af4be720cdb	V.O.C. Cocktail	41660bda-01a3-4811-ba88-93a856fcf4b6	ascorbic acid solution (has recipe)	2	dashes	0576e315-f5ca-402c-83fc-ec97af6e9e6a
+63620698-45b2-45e8-b068-8af4be720cdb	V.O.C. Cocktail	41660bda-01a3-4811-ba88-93a856fcf4b6	ascorbic acid solution	2	dashes	0576e315-f5ca-402c-83fc-ec97af6e9e6a
 63620698-45b2-45e8-b068-8af4be720cdb	V.O.C. Cocktail	fe6dfb91-99c9-4d9f-b094-e6e2b7d3b6ad	Pedro Ximénez sherry	0.5	oz	0576e315-f5ca-402c-83fc-ec97af6e9e6a
 a8b9066d-456c-49c3-a19e-e07495c83d8c	Vacation Forever	42d31f32-7ffb-44ea-89b4-06298c749ca4	India pale ale	2	oz	c5475858-44b1-4b13-8784-9f3e7fd20aeb
 a8b9066d-456c-49c3-a19e-e07495c83d8c	Vacation Forever	7c6053c4-0156-48c3-9790-81c44e0123ab	lemon juice	0.5	oz	c5475858-44b1-4b13-8784-9f3e7fd20aeb
@@ -5012,11 +5012,11 @@ f1d0e1db-3d8d-4836-8e96-86b8d41c2aec	Village To Village	7c6053c4-0156-48c3-9790-
 078abd47-7797-4df1-8555-f206fad72be2	Vipera	82c3ed4b-229e-4ad5-a070-144dde74a71b	blanco tequila	2	oz	0c61bfc1-89a4-41ab-9e56-0d8402cd0427
 48aaf500-a07d-4368-a6ed-bc583df4e616	Vodka Soda	4c6ae965-39f5-44f2-8640-edecaebad74b	vodka	2	oz	b59f2c5a-03e2-446f-aa29-eac3745e706f
 48aaf500-a07d-4368-a6ed-bc583df4e616	Vodka Soda	bde3cfbf-dd01-4aec-b37a-3bc4cca5df6a	soda water	4	oz	b59f2c5a-03e2-446f-aa29-eac3745e706f
-79a0f55d-0adf-4126-bc46-f78990b22725	Ward 8	100a5b6f-5688-404e-a4fc-000aa937de8d	rye whiskey	2	oz	1fc88bef-9dc9-4862-b7d4-96fc50dfb4af
-79a0f55d-0adf-4126-bc46-f78990b22725	Ward 8	805371f1-a361-4fb2-8d9d-b5422deda60b	simple syrup	0.5	oz	1fc88bef-9dc9-4862-b7d4-96fc50dfb4af
-79a0f55d-0adf-4126-bc46-f78990b22725	Ward 8	c0e7edee-ef30-4848-a7bc-8fa15b31ca3d	pomegranate molasses	1	tsp	1fc88bef-9dc9-4862-b7d4-96fc50dfb4af
-79a0f55d-0adf-4126-bc46-f78990b22725	Ward 8	fcc38451-0c1e-438d-ac6c-5af13f16e056	orange juice	0.5	oz	1fc88bef-9dc9-4862-b7d4-96fc50dfb4af
-79a0f55d-0adf-4126-bc46-f78990b22725	Ward 8	7c6053c4-0156-48c3-9790-81c44e0123ab	lemon juice	0.5	oz	1fc88bef-9dc9-4862-b7d4-96fc50dfb4af
+b2a1edfa-0057-40b0-9735-9dc3c2180e9d	Ward Eight	100a5b6f-5688-404e-a4fc-000aa937de8d	rye whiskey	2	oz	1fc88bef-9dc9-4862-b7d4-96fc50dfb4af
+b2a1edfa-0057-40b0-9735-9dc3c2180e9d	Ward Eight	805371f1-a361-4fb2-8d9d-b5422deda60b	simple syrup	0.5	oz	1fc88bef-9dc9-4862-b7d4-96fc50dfb4af
+b2a1edfa-0057-40b0-9735-9dc3c2180e9d	Ward Eight	c0e7edee-ef30-4848-a7bc-8fa15b31ca3d	pomegranate molasses	1	tsp	1fc88bef-9dc9-4862-b7d4-96fc50dfb4af
+b2a1edfa-0057-40b0-9735-9dc3c2180e9d	Ward Eight	fcc38451-0c1e-438d-ac6c-5af13f16e056	orange juice	0.5	oz	1fc88bef-9dc9-4862-b7d4-96fc50dfb4af
+b2a1edfa-0057-40b0-9735-9dc3c2180e9d	Ward Eight	7c6053c4-0156-48c3-9790-81c44e0123ab	lemon juice	0.5	oz	1fc88bef-9dc9-4862-b7d4-96fc50dfb4af
 b2a1edfa-0057-40b0-9735-9dc3c2180e9d	Ward Eight	100a5b6f-5688-404e-a4fc-000aa937de8d	rye whiskey	2	oz	d0728af5-1cdb-45a1-96d4-64d6f3e7cd3d
 b2a1edfa-0057-40b0-9735-9dc3c2180e9d	Ward Eight	7c6053c4-0156-48c3-9790-81c44e0123ab	lemon juice	0.5	oz	d0728af5-1cdb-45a1-96d4-64d6f3e7cd3d
 b2a1edfa-0057-40b0-9735-9dc3c2180e9d	Ward Eight	197b6130-1914-435b-98ed-be9e060c0054	grenadine	0.5	oz	d0728af5-1cdb-45a1-96d4-64d6f3e7cd3d
@@ -5125,23 +5125,23 @@ ae7b2ab3-39ab-4263-b063-7e73c2b1ad4d	Widow's Laurel	087be365-c81d-4034-8cbb-ede6
 3fae7873-57a6-4b4f-9814-799f2ab4f63d	Wray & Ting	bb51de06-262e-420f-b23d-34a77118bde4	grapefruit soda	4	oz	7cf9aba9-b58e-4c83-a1d3-42c16934419c
 3fae7873-57a6-4b4f-9814-799f2ab4f63d	Wray & Ting	200a6ed5-97a9-4b12-af29-fe224ced3f3e	Jamaican overproof light rum	1.5	oz	7cf9aba9-b58e-4c83-a1d3-42c16934419c
 3c9be75b-a003-41a9-8c8f-59269485d1e4	Yakima Cartel	b677399a-5ea6-4e40-a328-a360de3cd632	falernum	0.5	oz	c5079b3d-d884-449a-a3d0-63304078c5ad
-3c9be75b-a003-41a9-8c8f-59269485d1e4	Yakima Cartel	41660bda-01a3-4811-ba88-93a856fcf4b6	ascorbic acid solution (has recipe)	3	dashes	c5079b3d-d884-449a-a3d0-63304078c5ad
+3c9be75b-a003-41a9-8c8f-59269485d1e4	Yakima Cartel	41660bda-01a3-4811-ba88-93a856fcf4b6	ascorbic acid solution	3	dashes	c5079b3d-d884-449a-a3d0-63304078c5ad
 3c9be75b-a003-41a9-8c8f-59269485d1e4	Yakima Cartel	0831ab65-a3ce-4e04-a572-ef84e1ac6499	dry sparkling wine	3	oz	c5079b3d-d884-449a-a3d0-63304078c5ad
 3c9be75b-a003-41a9-8c8f-59269485d1e4	Yakima Cartel	82c3ed4b-229e-4ad5-a070-144dde74a71b	blanco tequila	1.5	oz	c5079b3d-d884-449a-a3d0-63304078c5ad
-3c9be75b-a003-41a9-8c8f-59269485d1e4	Yakima Cartel	0072881f-9aac-4707-bb3f-7488a4817b46	Yakima salt solution (has recipe)	3	dashes	c5079b3d-d884-449a-a3d0-63304078c5ad
+3c9be75b-a003-41a9-8c8f-59269485d1e4	Yakima Cartel	0072881f-9aac-4707-bb3f-7488a4817b46	Yakima salt solution	3	dashes	c5079b3d-d884-449a-a3d0-63304078c5ad
 3c9be75b-a003-41a9-8c8f-59269485d1e4	Yakima Cartel	839d91ea-0e08-4560-bdf5-88dee2b8bca2	grapefruit juice	0.5	oz	c5079b3d-d884-449a-a3d0-63304078c5ad
 30f987d8-7eba-47a6-9aeb-fbf59829ed1f	Yama Blanca	0fa417ad-d982-4093-ad80-3d5018d1c6dc	reposado tequila	1.5	oz	9d2967d4-6d2a-4d8b-bf13-16224309528c
 30f987d8-7eba-47a6-9aeb-fbf59829ed1f	Yama Blanca	140ff0dc-9201-43bb-a64b-d081e513ae08	blanc vermouth	0.75	oz	9d2967d4-6d2a-4d8b-bf13-16224309528c
 30f987d8-7eba-47a6-9aeb-fbf59829ed1f	Yama Blanca	82c3ed4b-229e-4ad5-a070-144dde74a71b	blanco tequila	0.5	oz	9d2967d4-6d2a-4d8b-bf13-16224309528c
 30f987d8-7eba-47a6-9aeb-fbf59829ed1f	Yama Blanca	b677399a-5ea6-4e40-a328-a360de3cd632	falernum	0.25	oz	9d2967d4-6d2a-4d8b-bf13-16224309528c
-004183f2-eb57-4061-99ca-c12723916ff6	Yellow Bird	a33c1ee9-d3eb-49f8-9b12-21e1017e94ae	anise-flavored liqueur	15	ml	e01bcb3f-0b9e-4adb-a27d-a2654a177775
+004183f2-eb57-4061-99ca-c12723916ff6	Yellow Bird	a33c1ee9-d3eb-49f8-9b12-21e1017e94ae	anise- and vanilla-flavored liqueur	15	ml	e01bcb3f-0b9e-4adb-a27d-a2654a177775
 004183f2-eb57-4061-99ca-c12723916ff6	Yellow Bird	f0f31f5c-f164-4e08-9f48-1cc3dc145c55	triple sec	15	ml	e01bcb3f-0b9e-4adb-a27d-a2654a177775
 004183f2-eb57-4061-99ca-c12723916ff6	Yellow Bird	ec478592-fc11-4311-8b83-44b7bb78d9b4	lime juice	15	ml	e01bcb3f-0b9e-4adb-a27d-a2654a177775
 004183f2-eb57-4061-99ca-c12723916ff6	Yellow Bird	04172f8a-6b70-4ec3-8dbb-90fe842833ad	light rum	30	ml	e01bcb3f-0b9e-4adb-a27d-a2654a177775
 2992a4d7-cc75-4e33-9fbb-712720667c66	Yellowbelly Cooler	b94ad7bf-3e8d-4474-b280-963a7413b470	pisco	1.5	oz	2aa75310-070c-41c4-bac7-50d3c18d46f7
 2992a4d7-cc75-4e33-9fbb-712720667c66	Yellowbelly Cooler	a2a073de-ba7f-48d6-9073-3417f2590ac2	felsina-style amaro	0.5	oz	2aa75310-070c-41c4-bac7-50d3c18d46f7
 2992a4d7-cc75-4e33-9fbb-712720667c66	Yellowbelly Cooler	0fcfad66-a013-4657-8b6b-d0fec241707e	mezcal	0.25	oz	2aa75310-070c-41c4-bac7-50d3c18d46f7
-2992a4d7-cc75-4e33-9fbb-712720667c66	Yellowbelly Cooler	8ebc73a9-ee48-4d1c-a70f-92649dedd25c	Watermelon Mix (has recipe)	1.5	oz	2aa75310-070c-41c4-bac7-50d3c18d46f7
+2992a4d7-cc75-4e33-9fbb-712720667c66	Yellowbelly Cooler	8ebc73a9-ee48-4d1c-a70f-92649dedd25c	Watermelon Mix	1.5	oz	2aa75310-070c-41c4-bac7-50d3c18d46f7
 316f6517-e499-4915-be0a-4bf5c51a1838	Yeomen Warder	a2c8b22c-5e4a-4189-b1bb-0c2f1207ef9d	carciofo-style amaro	0.25	oz	8e5aeda2-9218-47d1-84a2-b4741edaa5ad
 316f6517-e499-4915-be0a-4bf5c51a1838	Yeomen Warder	6881850f-51c9-4225-9bbc-fa777812b50d	maraschino liqueur	0.25	oz	8e5aeda2-9218-47d1-84a2-b4741edaa5ad
 316f6517-e499-4915-be0a-4bf5c51a1838	Yeomen Warder	a1d9a17a-125a-4db6-a069-390eea1f1465	dry vermouth	0.75	oz	8e5aeda2-9218-47d1-84a2-b4741edaa5ad
@@ -5194,8 +5194,8 @@ d063aad0-a8c3-4501-8d52-65ade1bc4873	Zim Zala Bim	bbaa8f39-4532-4e65-8730-39bc71
 6f85094a-2fc7-45b2-aae7-90da29198aa3	Zombie For Two	ec478592-fc11-4311-8b83-44b7bb78d9b4	lime juice	2	oz	e35dcd23-cf79-4d86-996f-dceb683d448d
 6f85094a-2fc7-45b2-aae7-90da29198aa3	Zombie For Two	84a4bfda-4d21-49fc-a46d-e953bec4d674	aged Jamaican rum	0.25	oz	e35dcd23-cf79-4d86-996f-dceb683d448d
 6f85094a-2fc7-45b2-aae7-90da29198aa3	Zombie For Two	1fb39412-f3a8-4b6e-b135-abd190e610b0	grapefruit	1	strip	e35dcd23-cf79-4d86-996f-dceb683d448d
-6f85094a-2fc7-45b2-aae7-90da29198aa3	Zombie For Two	3d687c84-1a19-45cd-9cf3-02da65ef6c6c	Donn Mix (has recipe)	0.5	oz	e35dcd23-cf79-4d86-996f-dceb683d448d
-6f85094a-2fc7-45b2-aae7-90da29198aa3	Zombie For Two	ad1ce9c3-c9e3-47ac-aa8b-f3f046474c39	Brain Rum (has recipe)	0.25	oz	e35dcd23-cf79-4d86-996f-dceb683d448d
+6f85094a-2fc7-45b2-aae7-90da29198aa3	Zombie For Two	3d687c84-1a19-45cd-9cf3-02da65ef6c6c	Donn Mix	0.5	oz	e35dcd23-cf79-4d86-996f-dceb683d448d
+6f85094a-2fc7-45b2-aae7-90da29198aa3	Zombie For Two	ad1ce9c3-c9e3-47ac-aa8b-f3f046474c39	Brain Rum	0.25	oz	e35dcd23-cf79-4d86-996f-dceb683d448d
 6f85094a-2fc7-45b2-aae7-90da29198aa3	Zombie For Two	197b6130-1914-435b-98ed-be9e060c0054	grenadine	0.125	oz	e35dcd23-cf79-4d86-996f-dceb683d448d
 6f85094a-2fc7-45b2-aae7-90da29198aa3	Zombie For Two	dd6cc30e-f651-4aff-a01a-0a3f525e0694	aged blended rum	1.5	oz	e35dcd23-cf79-4d86-996f-dceb683d448d
 6f85094a-2fc7-45b2-aae7-90da29198aa3	Zombie For Two	3cffb550-7089-4cf5-95f4-6805ec737f2b	Angostura bitters	0.25	oz	e35dcd23-cf79-4d86-996f-dceb683d448d
